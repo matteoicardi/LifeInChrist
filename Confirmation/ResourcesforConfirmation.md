@@ -68,7 +68,7 @@ There are many resources to find about these and other saints. You can find book
 - [Saint of the Day · Calendar of Saints · Vatican News](https://www.vaticannews.va/en/saints.html)
 
 
-# Continue your journey into the Catholic faith
+# To continue your journey
 
 ### Short books and documents from the early Church and other classics of the Catholic faith
 - [Letter to Diognetus](https://www.newadvent.org/fathers/0101.htm) · A letter from the early Church, written around 130 AD, explaining the Christian faith.
