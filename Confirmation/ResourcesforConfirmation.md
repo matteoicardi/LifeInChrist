@@ -1,3 +1,8 @@
+---
+title: Extra resources for Confirmation course
+description: Preparation and continous formation
+---
+
 # Extra resources for Confirmation course
 
 ## Preparation for the Sacrament of Confirmation
