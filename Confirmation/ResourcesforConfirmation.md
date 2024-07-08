@@ -1,8 +1,3 @@
----
-layout: page
-title: Confirmation resources
-permalink: /Confirmation/
----
 # Extra resources for Confirmation course
 
 ## Preparation for the Sacrament of Confirmation
