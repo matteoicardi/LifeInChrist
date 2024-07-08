@@ -9,9 +9,12 @@ description: Preparation and continous formation
 
 ### Prayer resources
 - [Pray the Rosary](https://www.ndcys.com/wp-content/uploads/2024/05/Rosary.pdf)
+- [Lectio Divina](https://youtu.be/gKYEOc3ik9k?si=Mfk6hmiZP6jUUiq6)
+- [Veni Creator Spiritus](https://reginacaeliparish.org/documents/Veni%20Creator%20Spirtus.pdf). I recommend to pray this prayer before each session.
 
 ### Preparation booklets
 - [Confirmation booklet - Archdiocese of Edinburgh](https://archedinburgh.org/wp-content/uploads/Confirmation-Booklet-1.pdf)
+- All Saints West Nottingham 2024 booklet (coming soon)
 
 ### Video Resources
 - [Confirmation · What you need to know](https://youtu.be/YdymHdMpDv4?si=25XISFrgSfnI_oB0)
@@ -82,4 +85,17 @@ These saints have been chosen as they are particularly relevant to the youth of 
 - [Theology of the Body part I](https://youtu.be/cqrD-d_jiw8?si=lbFKvGjRyixg-Q_z)
 - [Theology of the Body - Crash course](https://ascensionpress.com/pages/tob-crash-course)
 
+### Courses - We reccomend to watch or follow at least one of these courses
+- [Catholicism series by Bishop Robert Barron](https://youtube.com/playlist?list=PLfHAaQBH7FelvkvlF_OExqvMXaHJ3HjTY&si=nUyO7p5quDpkAQ4a)
+- [The Search](https://www.thesearchbegins.org)
+- [Wild Goose](https://wildgoose.tv/programs/collection-wlknyrzsacq?category_id=23145). This is *specifically* about the Holy Spirit, it is a perfect preparation and follow-up to the Sacrament of Confirmation.
+- [Sycamore](https://www.sycamore.fm/). A series of films and discussions about the Christian faith made in the UK. It is a great way to learn about the basics of the Christian faith. *FREE*
+- [Alpha Course](https://youtube.com/playlist?list=PLgXlx7pDeVhQ1MUhydQojpBcUHTMPDHme&si=OJrqhUi7QoFK-Qs0). The most popular course for evangelisation. It is a great way to learn about the basics of the Christian faith. Used by many churches around the world, not only Catholics.
+- [The Chosen](https://watch.thechosen.tv). A fantastic series about the life of Jesus. It is a great way to get to know Jesus better and it is a great series to watch with your family. *FREE* to watch if you register.
 
+### Catholic Apps and streaming services
+- [Pray as you go](https://pray-as-you-go.org) · A daily prayer session, designed to go with you wherever you go, to help you pray whenever you find time.
+- [Hallow](https://hallow.com) · A Catholic meditation app
+- [Bible app](https://www.bible.com) · The Bible app by YouVersion
+- [Wild Goose TV](https://wildgoose.tv) · A Catholic streaming service (FREE)
+- [Formed](https://watch.formed.org). This is like Netflix for Catholics. It has movies, documentaries, series, audiobooks, etc.
