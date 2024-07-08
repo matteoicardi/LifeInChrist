@@ -1,4 +1,4 @@
-# Extra resources for Confirmation course 2024
+# Extra resources for Confirmation course
 
 ## Preparation for the Sacrament of Confirmation
 
@@ -21,7 +21,7 @@
 
 ### Books
 - [The Gospels booklet](https://www.pilgrimgifts.co.uk/products/new-revised-standard-version-the-gospels-pocket-sized-edition-by-bible-society-uk) | Pope Francis said that we should carry the Gospels with us all the time. This booklet is a pocket-sized edition of the Gospels.
-- [The Action Bible](https://www.theactionbible.com/) |  4 pounds each, can we buy one for each candidate? | A comic-style Bible
+- [The Action Bible](https://www.theactionbible.com/) |   A comic-style Bible
 - [Youcat](https://www.youcat.org/) | Catechisms for young people, this can answer many questions you might have about life and faith.
 
 ## Saints
@@ -35,7 +35,7 @@
 
 
 ## Saints for Youth
-Every candidate or every group could choose a saint to be their patron saint. They could research the saint and present it to the group. If one per group, the group could then vote on the patron saint for the group.
+Every candidate or every group can choose a saint to be their patron saint.
 
 These saints have been chosen as they are particularly relevant to the youth of today. Many of them died young or had an adventorous, sometimes usual, sometimes very unusual and special childhood and life. They are all very inspiring and have a lot to teach us.
 - Saint *Maria Goretti*. Patron saint of youth. She was only 11 years old when she died. She is a martyr of purity.
