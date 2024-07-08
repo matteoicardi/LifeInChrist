@@ -9,29 +9,29 @@
 - [New Revised Standard Version - The Gospels Pocket Sized Edition by Bible Society UK](https://archedinburgh.org/wp-content/uploads/Confirmation-Booklet-1.pdf)
 
 ### Video Resources
-- [Confirmation | What you need to know](https://youtu.be/YdymHdMpDv4?si=25XISFrgSfnI_oB0)
+- [Confirmation · What you need to know](https://youtu.be/YdymHdMpDv4?si=25XISFrgSfnI_oB0)
 - [Understanding the Sacrament of Confirmation](https://www.youtube.com/watch?v=G3NeOL8zmG0)
 - [Confirmation SketchPad](https://www.youtube.com/watch?v=Lu3MoT_egFI)
 - [The Sacrament of Confirmation](https://www.youtube.com/watch?v=nXqKkTcLtqs)
 - [What happens at Confirmation?](https://www.youtube.com/watch?v=49tLYYagp2Q)
-- [Holy Oils In The Church | Why and How We Use Them (youtube.com)](https://www.youtube.com/watch?v=A131j0yFcM0)
+- [Holy Oils In The Church · Why and How We Use Them (youtube.com)](https://www.youtube.com/watch?v=A131j0yFcM0)
 - [The Sacramente of Confirmation according to the Catechism of the Catholic Church. Fr Mike Schmitz](https://youtu.be/82nEFH6ZWfM?si=frrV2ftefZDYHcFM)
 - [Full Youtube playlist with all videos](https://youtube.com/playlist?list=PLCAcSnwZO_hhN5qpvx6QxijVQlvTU9SZw&si=8-fAcjPuJ13yXnUp)
 - [3 Minutes Catechism - Revise the basics of the Catholic faith](https://youtube.com/playlist?list=PLIcePO_eJb2_EElTdFm1PFLNkH17EQcV-&si=IsM9MwdePU2i7dmS)
 
 ### Books
-- [The Gospels booklet](https://www.pilgrimgifts.co.uk/products/new-revised-standard-version-the-gospels-pocket-sized-edition-by-bible-society-uk) | Pope Francis said that we should carry the Gospels with us all the time. This booklet is a pocket-sized edition of the Gospels.
-- [The Action Bible](https://www.theactionbible.com/) |   A comic-style Bible
-- [Youcat](https://www.youcat.org/) | Catechisms for young people, this can answer many questions you might have about life and faith.
+- [The Gospels booklet](https://www.pilgrimgifts.co.uk/products/new-revised-standard-version-the-gospels-pocket-sized-edition-by-bible-society-uk) · Pope Francis said that we should carry the Gospels with us all the time. This booklet is a pocket-sized edition of the Gospels.
+- [The Action Bible](https://www.theactionbible.com/) ·   A comic-style Bible
+- [Youcat](https://www.youcat.org/) · Catechisms for young people, this can answer many questions you might have about life and faith.
 
 ## Saints
 
 ### Resources
 - [Catholic Saints A-Z - My Catholic Life!](https://mycatholic.life/saints/)
 - [Roman Catholic Saints](https://www.roman-catholic-saints.com)
-- [Catholic Saints & Holy Figures | EWTN](https://www.ewtn.com/catholicism/saints)
-- [The Saints | Introduction to Roman Catholicism | catholicfaith.co.uk](http://catholicfaith.co.uk/saints)
-- [Saint of the Day | Calendar of Saints | Vatican News](https://www.vaticannews.va/en/saints.html)
+- [Catholic Saints & Holy Figures · EWTN](https://www.ewtn.com/catholicism/saints)
+- [The Saints · Introduction to Roman Catholicism · catholicfaith.co.uk](http://catholicfaith.co.uk/saints)
+- [Saint of the Day · Calendar of Saints · Vatican News](https://www.vaticannews.va/en/saints.html)
 
 
 ## Saints for Youth
@@ -63,13 +63,13 @@ These saints have been chosen as they are particularly relevant to the youth of 
 
 ### Printables - keep these resources always with you
 - [Word of God - Mental Health - Read me when you are ...](https://www.ndcys.com/wp-content/uploads/2024/05/Read-me-when.pdf)
-- [Bible in a Year reading plan](https://bnspcatholic.org/wp-content/uploads/2021/01/the-official-365-day-reading-plan-for-the-bible-in-a-year.pdf) | This accompanies the Bible in a Year podcast.
+- [Bible in a Year reading plan](https://bnspcatholic.org/wp-content/uploads/2021/01/the-official-365-day-reading-plan-for-the-bible-in-a-year.pdf) · This accompanies the Bible in a Year podcast.
 
 ### Links
-- [Letter to Diognetus](https://www.newadvent.org/fathers/0101.htm) | A letter from the early Church, written around 130 AD, explaining the Christian faith.
+- [Letter to Diognetus](https://www.newadvent.org/fathers/0101.htm) · A letter from the early Church, written around 130 AD, explaining the Christian faith.
 
 ### Podcasts
-- [Bible in a Year](https://www.ascensionpress.com/bibleinayear) | Fr Mike Schmitz reads the Bible in a year. This is a great way to get to know the Bible. You can listen to it on Spotify, Apple Podcasts, Google Podcasts, Youtube, etc.
+- [Bible in a Year](https://www.ascensionpress.com/bibleinayear) · Fr Mike Schmitz reads the Bible in a year. This is a great way to get to know the Bible. You can listen to it on Spotify, Apple Podcasts, Google Podcasts, Youtube, etc.
 - [Catechism in a Year](https://www.ascensionpress.com/catechisminayear)
 
 ### Theology of the Body - our bodies are the greatest gift from God
