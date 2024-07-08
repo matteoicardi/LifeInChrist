@@ -3,7 +3,7 @@ title: Life in Chist
 description: A simple website for sharing resources to build a better joyful and meaningful life
 
 # Theme Settings
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-architect
 # jekyll-theme-cayman
 # Additional theme-specific settings can be added here
 
