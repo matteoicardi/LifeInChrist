@@ -4,9 +4,9 @@ description: A simple website for sharing resources to live a meaningful Christi
 baseurl: "/LifeInChrist" # the subpath of your site, e.g. /blog
 
 # Theme Settings
-# theme: jekyll-theme-architect
+theme: jekyll-theme-architect
 # jekyll-theme-cayman
-remote_theme: mmistakes/so-simple-theme@3.2.0
+# remote_theme: mmistakes/so-simple-theme@3.2.0
 # pages-themes/dinky OR pages-themes/minimal OR pages-themes/primer OR pages-themes/slate OR pages-themes/tactile OR pages-themes/time-machine OR pages-themes/leap-day OR pages-themes/modernist
 # mmistakes/minimal-mistakes@4.22.0
 
@@ -42,20 +42,20 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-
-# Custom Settings
-author:
-  name: Matteo Icardi
-  bio: Researcher, Programmer, Music Enthusiast, Catholic
-  location: Nottingham, UK
-
-# Social Media Links
-social:
-  - title: Twitter
-    url: https://twitter.com/mat_icardi
-  - title: GitHub
-    url: https://github.com/matteoicardi
-
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-redirect-from
+  - jekyll-gist
+  - jekyll-avatar
+  - jekyll-include-cache
+  - jekyll-default-layout
+  - jekyll-toc
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-mentions
+  
 # Navigation Links (optional)
 navigation:
   - title: Home
@@ -64,9 +64,6 @@ navigation:
     url: /Confirmation
   - title: Blog
     url: /blog
-
-# Custom Variables (optional)
-custom_variable: value
 
 collections:
   blog:
