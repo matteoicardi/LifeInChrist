@@ -34,14 +34,6 @@ description: Preparation and continous formation
 - [The Action Bible](https://www.theactionbible.com/) ·   A comic-style Bible
 - [Youcat](https://www.youcat.org/) · Catechisms for young people, this can answer many questions you might have about life and faith.
 
-## Saints
-
-- [Catholic Saints A-Z - My Catholic Life!](https://mycatholic.life/saints/)
-- [Roman Catholic Saints](https://www.roman-catholic-saints.com)
-- [Catholic Saints & Holy Figures · EWTN](https://www.ewtn.com/catholicism/saints)
-- [The Saints · Introduction to Roman Catholicism · catholicfaith.co.uk](http://catholicfaith.co.uk/saints)
-- [Saint of the Day · Calendar of Saints · Vatican News](https://www.vaticannews.va/en/saints.html)
-
 
 ### Saints for the Youth
 Every candidate or every group can choose a saint to be their patron saint.
@@ -65,8 +57,15 @@ These saints have been chosen as they are particularly relevant to the youth of 
 1. Saint *Charles Lwanga and Saint Kizito*. Martyrs of Uganda. They were young people who died for their faith.
 1. Saint *Josephine Bakita*. Patron saint of Sudan. She was a slave but she became a nun and a saint.[Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/st-josephine-bakhita/)
 1. Saint *Gemma Galgani*. Patron saint of students. She was a mystic and a stigmatist. She was only 25 years old when she died. [Youtube link](https://www.youtube.com/watch?v=jJfwehSWnCY&list=PLdSm8Th-dr8tgsdEs2DqJr6QQpNGtthUV)
-1. Saint Charles De Foucauld. Patron saint of the Sahara. He was a soldier, a hermit and a martyr. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/charles-de-foucauld/)
-1. St Teresa Benedicta of the Cross (Edith Stein). She was a German Jewish philosopher, then atheist and finally  converted to Catholicism and became a Carmelite nun. She was killed in Auschwitz. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/edith-stein/)
+2. *Saint Charles De Foucauld*. He was an ordinary rebel youngster, but God called him to be a saint. He was a soldier, then a hermit, a priest and eventually martyr in the Sahara desert. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/charles-de-foucauld/)
+3. *Saint Teresa Benedicta of the Cross (Edith Stein)*. She was a German Jewish philosopher, then atheist and finally  converted to Catholicism and became a Carmelite nun. She was killed in Auschwitz. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/edith-stein/)
+
+There are many resources to find about these and other saints. You can find books, audiobooks, videos, etc. about them. You can also find prayers, novenas, etc. to ask for their intercession. Here are some links:
+- [Catholic Saints A-Z - My Catholic Life!](https://mycatholic.life/saints/)
+- [Roman Catholic Saints](https://www.roman-catholic-saints.com)
+- [Catholic Saints & Holy Figures · EWTN](https://www.ewtn.com/catholicism/saints)
+- [The Saints · Introduction to Roman Catholicism · catholicfaith.co.uk](http://catholicfaith.co.uk/saints)
+- [Saint of the Day · Calendar of Saints · Vatican News](https://www.vaticannews.va/en/saints.html)
 
 
 # Continue your journey into the Catholic faith
