@@ -1,11 +1,11 @@
 # General Settings
 title: Life in Chist
-description: A simple website for sharing resources to build a better joyful and meaningful life
+description: A simple website for sharing resources to live a meaningful Christian life
 
 # Theme Settings
-theme: jekyll-theme-architect
+# theme: jekyll-theme-architect
 # jekyll-theme-cayman
-# Additional theme-specific settings can be added here
+remote_theme: mmistakes/minimal-mistakes@4.22.0
 
 # GitHub Pages Settings
 repository: matteoicardi/LifeInChrist
@@ -27,6 +27,7 @@ exclude:
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
