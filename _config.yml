@@ -5,7 +5,8 @@ description: A simple website for sharing resources to live a meaningful Christi
 # Theme Settings
 # theme: jekyll-theme-architect
 # jekyll-theme-cayman
-remote_theme: pages-themes/slate
+remote_theme: pages-themes/modernist
+# pages-themes/dinky OR pages-themes/minimal OR pages-themes/primer OR pages-themes/slate OR pages-themes/tactile OR pages-themes/time-machine OR pages-themes/leap-day OR pages-themes/modernist
 # mmistakes/minimal-mistakes@4.22.0
 
 # GitHub Pages Settings
