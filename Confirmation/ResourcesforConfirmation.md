@@ -3,9 +3,9 @@ title: Sacrament of Confirmation
 description: Preparation and continous formation
 ---
 
-# Extra resources for Confirmation course
+# Resources for Confirmation candidates
 
-## Preparation for the Sacrament of Confirmation
+## Preparation for the Sacrament
 
 ### Prayer resources
 - [Pray the Rosary](https://www.ndcys.com/wp-content/uploads/2024/05/Rosary.pdf)
@@ -31,7 +31,6 @@ description: Preparation and continous formation
 
 ## Saints
 
-### Resources
 - [Catholic Saints A-Z - My Catholic Life!](https://mycatholic.life/saints/)
 - [Roman Catholic Saints](https://www.roman-catholic-saints.com)
 - [Catholic Saints & Holy Figures · EWTN](https://www.ewtn.com/catholicism/saints)
@@ -41,7 +40,6 @@ description: Preparation and continous formation
 
 ### Saints for the Youth
 Every candidate or every group can choose a saint to be their patron saint.
-
 These saints have been chosen as they are particularly relevant to the youth of today. Many of them died young or had an adventorous, sometimes usual, sometimes very unusual and special childhood and life. They are all very inspiring and have a lot to teach us.
 - Saint *Maria Goretti*. Patron saint of youth. She was only 11 years old when she died. She is a martyr of purity.[Free CTS audiobook](https://www.ctsbooks.org/cts-online/cts-audio/st-maria-goretti/)
 - (Soon to be Saint) Blessed *Pier Giorgio Frassati*. Patron saint of young people. He was a mountaineer and a social activist. He was a very joyful person and a very good friend. [Free CTS audiobook](https://www.ctsbooks.org/cts-online/cts-audio/bl-pier-giorgio-frassati/)
