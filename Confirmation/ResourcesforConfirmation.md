@@ -1,5 +1,5 @@
 ---
-title: Extra resources for Confirmation course
+title: Sacrament of Confirmation
 description: Preparation and continous formation
 ---
 
