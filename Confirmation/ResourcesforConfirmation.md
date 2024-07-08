@@ -10,8 +10,8 @@ description: Preparation and continous formation
 ### Prayer resources
 - [Pray the Rosary](https://www.ndcys.com/wp-content/uploads/2024/05/Rosary.pdf)
 
-### Preparation booklet with more activities
-- [New Revised Standard Version - The Gospels Pocket Sized Edition by Bible Society UK](https://archedinburgh.org/wp-content/uploads/Confirmation-Booklet-1.pdf)
+### Preparation booklets
+- [Confirmation booklet - Archdiocese of Edinburgh](https://archedinburgh.org/wp-content/uploads/Confirmation-Booklet-1.pdf)
 
 ### Video Resources
 - [Confirmation · What you need to know](https://youtu.be/YdymHdMpDv4?si=25XISFrgSfnI_oB0)
