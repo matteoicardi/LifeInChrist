@@ -3,14 +3,16 @@ title: Sacrament of Confirmation
 description: Preparation and continous formation
 ---
 
-# Resources for Confirmation candidates
-
-## Preparation for the Sacrament
+# Preparation for the Sacrament of Confirmation
 
 ### Prayer resources
-- [Pray the Rosary](https://www.ndcys.com/wp-content/uploads/2024/05/Rosary.pdf)
+- [The Rosary](https://www.ndcys.com/wp-content/uploads/2024/05/Rosary.pdf)
 - [Lectio Divina](https://youtu.be/gKYEOc3ik9k?si=Mfk6hmiZP6jUUiq6)
 - [Veni Creator Spiritus](https://reginacaeliparish.org/documents/Veni%20Creator%20Spirtus.pdf). I recommend to pray this prayer before each session.
+- [Prayers for Teens and Parents](https://holycomforterparish.org/wp-content/uploads/2012/01/Teen-and-Parent-Prayer-Booklet.pdf). Print this booklet and keep it with you.
+- Three incredible, short and powerful prayers by St Ignatious of Loyola: [Suscipe, the prayer that made him a Saint](https://catholicresources.education/wp-content/uploads/2024/02/Offering_and_Prayer_of_St._Ignatius_Loyola.PDF-__Suscipe_.pdf),  [Anima Christi, before or after Communion](https://www.holyspiritcathparish.org/wp-content/uploads/2013/02/February-Anima-Christi-Prayer-Card.pdf), [Prayer for Generosity, an everyday prayer](https://catholicresources.education/wp-content/uploads/2024/02/Prayer_of_St._Ignatius_Loyola.pdf)
+- [Prayer to Saint Michael the Archangel](https://www.archtoronto.org/contentassets/8d6f4908c15043c98d988a057572e160/prayer-to-st.-michael.pdf)
+- [Word of God - Mental Health - Read me when you are ...](https://www.ndcys.com/wp-content/uploads/2024/05/Read-me-when.pdf)
 
 ### Preparation booklets
 - [Confirmation booklet - Archdiocese of Edinburgh](https://archedinburgh.org/wp-content/uploads/Confirmation-Booklet-1.pdf)
@@ -22,8 +24,8 @@ description: Preparation and continous formation
 - [Confirmation SketchPad](https://www.youtube.com/watch?v=Lu3MoT_egFI)
 - [The Sacrament of Confirmation](https://www.youtube.com/watch?v=nXqKkTcLtqs)
 - [What happens at Confirmation?](https://www.youtube.com/watch?v=49tLYYagp2Q)
-- [Holy Oils In The Church · Why and How We Use Them (youtube.com)](https://www.youtube.com/watch?v=A131j0yFcM0)
-- [The Sacramente of Confirmation according to the Catechism of the Catholic Church. Fr Mike Schmitz](https://youtu.be/82nEFH6ZWfM?si=frrV2ftefZDYHcFM)
+- [Holy Oils In The Church · Why and How We Use Them](https://www.youtube.com/watch?v=A131j0yFcM0)
+- [The Sacrament of Confirmation according to the Catechism of the Catholic Church. A summary by Fr Mike Schmitz](https://youtu.be/82nEFH6ZWfM?si=frrV2ftefZDYHcFM)
 - [Full Youtube playlist with all videos](https://youtube.com/playlist?list=PLCAcSnwZO_hhN5qpvx6QxijVQlvTU9SZw&si=8-fAcjPuJ13yXnUp)
 - [3 Minutes Catechism - Revise the basics of the Catholic faith](https://youtube.com/playlist?list=PLIcePO_eJb2_EElTdFm1PFLNkH17EQcV-&si=IsM9MwdePU2i7dmS)
 
@@ -67,11 +69,7 @@ These saints have been chosen as they are particularly relevant to the youth of 
 1. St Teresa Benedicta of the Cross (Edith Stein). She was a German Jewish philosopher, then atheist and finally  converted to Catholicism and became a Carmelite nun. She was killed in Auschwitz. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/edith-stein/)
 
 
-## Continue your journey into the Catholic faith
-
-### Printables - keep these resources always with you
-- [Word of God - Mental Health - Read me when you are ...](https://www.ndcys.com/wp-content/uploads/2024/05/Read-me-when.pdf)
-- [Bible in a Year reading plan](https://bnspcatholic.org/wp-content/uploads/2021/01/the-official-365-day-reading-plan-for-the-bible-in-a-year.pdf) · This accompanies the Bible in a Year podcast below.
+# Continue your journey into the Catholic faith
 
 ### Short books and documents from the early Church and other classics of the Catholic faith
 - [Letter to Diognetus](https://www.newadvent.org/fathers/0101.htm) · A letter from the early Church, written around 130 AD, explaining the Christian faith.
@@ -80,7 +78,7 @@ These saints have been chosen as they are particularly relevant to the youth of 
 - [The way of a Pilgrim](https://maryourhelp.org/e-books/catholic-books/The-Way-of-a-Pilgrim.pdf) · A short book about the "prayer of the heart" or "Jesus prayer". It is a great way to learn how to pray, very simple and very powerful. It has been written by an anonymous Russian pilgrim in the 19th century.
 
 ### Podcasts
-- [Bible in a Year](https://www.ascensionpress.com/bibleinayear) · Fr Mike Schmitz reads and comment the Bible in 365 short episodes. This is a great way to get to know the Bible. You can listen to it on Spotify, Apple Podcasts, Google Podcasts, Youtube, etc.
+- [Bible in a Year](https://www.ascensionpress.com/bibleinayear) · Fr Mike Schmitz reads and comment the Bible in 365 short episodes. This is a great way to get to know the Bible. You can listen to it on Spotify, Apple Podcasts, Google Podcasts, Youtube, etc. You can download the [Bible in a Year reading plan](https://bnspcatholic.org/wp-content/uploads/2021/01/the-official-365-day-reading-plan-for-the-bible-in-a-year.pdf) here.
 - [Catechism in a Year](https://www.ascensionpress.com/catechisminayear) · Fr Mike Schmitz reads and comment on the Catechism of the Catholic Church in a year.
 
 ### Theology of the Body - what does the Church really teach about our bodies, sex, love, etc.?
