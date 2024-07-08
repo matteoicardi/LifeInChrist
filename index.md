@@ -2,5 +2,5 @@ This is a simple site created using GitHub Pages and Markdown with some resource
 
 ## Resources
 
-- [Resources for Confirmation](./Confirmation/)
-- [Resources for First Holy Communion](./1stHolyCommunion/)
+- [Resources for Confirmation](./Confirmation/ResourcesforConfirmation.md)
+- [Resources for First Holy Communion](./1stHolyCommunion/Resourcesfor1stHolyCommunion.md)
