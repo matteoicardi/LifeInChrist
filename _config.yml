@@ -22,3 +22,9 @@ theme: jekyll-theme-architect
 # Slate
 # Tactile
 # Time machine
+
+
+navigation:
+  - title: Home
+    url: /
+  # Add more links as needed
