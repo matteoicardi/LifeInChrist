@@ -71,10 +71,13 @@ These saints have been chosen as they are particularly relevant to the youth of 
 
 ### Printables - keep these resources always with you
 - [Word of God - Mental Health - Read me when you are ...](https://www.ndcys.com/wp-content/uploads/2024/05/Read-me-when.pdf)
-- [Bible in a Year reading plan](https://bnspcatholic.org/wp-content/uploads/2021/01/the-official-365-day-reading-plan-for-the-bible-in-a-year.pdf) · This accompanies the Bible in a Year podcast.
+- [Bible in a Year reading plan](https://bnspcatholic.org/wp-content/uploads/2021/01/the-official-365-day-reading-plan-for-the-bible-in-a-year.pdf) · This accompanies the Bible in a Year podcast below.
 
-### Links
+### Short books and documents from the early Church and other classics of the Catholic faith
 - [Letter to Diognetus](https://www.newadvent.org/fathers/0101.htm) · A letter from the early Church, written around 130 AD, explaining the Christian faith.
+- [The Didache](https://www.newadvent.org/fathers/0714.htm) · A document from the early Church, written around 100 AD, explaining how the first Christians lived and prayed.
+- [Imitation of Christ](https://www.ccel.org/ccel/kempis/imitation.html) · A book written in the 15th century that has inspired many Christians to live a holy life.
+- [The way of a Pilgrim](https://maryourhelp.org/e-books/catholic-books/The-Way-of-a-Pilgrim.pdf) · A short book about the "prayer of the heart" or "Jesus prayer". It is a great way to learn how to pray, very simple and very powerful. It has been written by an anonymous Russian pilgrim in the 19th century.
 
 ### Podcasts
 - [Bible in a Year](https://www.ascensionpress.com/bibleinayear) · Fr Mike Schmitz reads and comment the Bible in 365 short episodes. This is a great way to get to know the Bible. You can listen to it on Spotify, Apple Podcasts, Google Podcasts, Youtube, etc.
