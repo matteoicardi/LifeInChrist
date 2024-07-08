@@ -26,7 +26,7 @@ description: Preparation and continous formation
 - [What happens at Confirmation?](https://www.youtube.com/watch?v=49tLYYagp2Q)
 - [Holy Oils In The Church · Why and How We Use Them](https://www.youtube.com/watch?v=A131j0yFcM0)
 - [The Sacrament of Confirmation according to the Catechism of the Catholic Church. A summary by Fr Mike Schmitz](https://youtu.be/82nEFH6ZWfM?si=frrV2ftefZDYHcFM)
-- [Full Youtube playlist with all videos](https://youtube.com/playlist?list=PLCAcSnwZO_hhN5qpvx6QxijVQlvTU9SZw&si=8-fAcjPuJ13yXnUp)
+- [Full Youtube playlist with all reccomended videos](https://youtube.com/playlist?list=PLCAcSnwZO_hhN5qpvx6QxijVQlvTU9SZw&si=8-fAcjPuJ13yXnUp)
 - [3 Minutes Catechism - Revise the basics of the Catholic faith](https://youtube.com/playlist?list=PLIcePO_eJb2_EElTdFm1PFLNkH17EQcV-&si=IsM9MwdePU2i7dmS)
 
 ### Books
