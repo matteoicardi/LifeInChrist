@@ -1,0 +1,61 @@
+# General Settings
+title: Life in Chist
+description: A simple website for sharing resources to build a better joyful and meaningful life
+
+# Theme Settings
+theme: jekyll-theme-cayman
+# Additional theme-specific settings can be added here
+
+# GitHub Pages Settings
+repository: matteoicardi/LifeInChrist
+baseurl: "" # Leave this empty unless using a custom domain
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Custom Settings
+author:
+  name: Matteo Icardi
+  bio: Researcher, Programmer, Music Enthusiast, Catholic
+  location: Nottingham, UK
+
+# Social Media Links
+social:
+  - title: Twitter
+    url: https://twitter.com/mat_icardi
+  - title: GitHub
+    url: https://github.com/matteoicardi
+
+# Navigation Links (optional)
+navigation:
+  - title: Home
+    url: /
+  - title: Confirmation
+    url: /Confirmation
+  - title: Blog
+    url: /blog
+
+# Custom Variables (optional)
+custom_variable: value
+
+collections:
+  blog:
+    output: true
+    permalink: /blog/:title
+# Any other custom settings or variables can be added as needed
