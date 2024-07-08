@@ -1,6 +1,7 @@
 # General Settings
 title: Life in Chist
 description: A simple website for sharing resources to live a meaningful Christian life
+baseurl: "/LifeInChrist" # the subpath of your site, e.g. /blog
 
 # Theme Settings
 # theme: jekyll-theme-architect
@@ -26,15 +27,15 @@ baseurl: "" # Leave this empty unless using a custom domain
 markdown: kramdown
 permalink: pretty
 
-# Exclude from processing.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+# # Exclude from processing.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
 # Plugins
 plugins:
