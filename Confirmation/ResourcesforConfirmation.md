@@ -86,7 +86,7 @@ The theology of the body is a incredible and revolutionary teaching developed by
 - [Theology of the Body part I](https://youtu.be/cqrD-d_jiw8?si=lbFKvGjRyixg-Q_z)
 - [Theology of the Body - Crash course](https://ascensionpress.com/pages/tob-crash-course)
 
-### Courses - We reccomend to watch or follow at least one of these courses
+### Courses - We reccomend to watch at least one of these courses
 - [Catholicism series by Bishop Robert Barron](https://youtube.com/playlist?list=PLfHAaQBH7FelvkvlF_OExqvMXaHJ3HjTY&si=nUyO7p5quDpkAQ4a). This is a series of films and discussions about the Catholic faith. Bishop Barron is a US bishop and great speaker and funder of Word on Fire institute and website which has many other resources. *FREE* to watch on Youtube, while Word on Fire has a subscription service.
 - [The Search](https://www.thesearchbegins.org). A series of films and discussions about the Christian faith. It is a great way to learn about the basics of the Christian faith. *FREE*
 - [Wild Goose](https://wildgoose.tv/programs/collection-wlknyrzsacq?category_id=23145). This is *specifically* about the Holy Spirit, it is a perfect preparation and follow-up to the Sacrament of Confirmation. *FREE*
