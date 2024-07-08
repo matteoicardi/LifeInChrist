@@ -34,12 +34,12 @@
 - [Saint of the Day · Calendar of Saints · Vatican News](https://www.vaticannews.va/en/saints.html)
 
 
-## Saints for Youth
+### Saints for the Youth
 Every candidate or every group can choose a saint to be their patron saint.
 
 These saints have been chosen as they are particularly relevant to the youth of today. Many of them died young or had an adventorous, sometimes usual, sometimes very unusual and special childhood and life. They are all very inspiring and have a lot to teach us.
-- Saint *Maria Goretti*. Patron saint of youth. She was only 11 years old when she died. She is a martyr of purity.
-- (Soon to be Saint) Blessed *Pier Giorgio Frassati*. Patron saint of young people. He was a mountaineer and a social activist. He was a very joyful person and a very good friend.
+- Saint *Maria Goretti*. Patron saint of youth. She was only 11 years old when she died. She is a martyr of purity.[Free CTS audiobook](https://www.ctsbooks.org/cts-online/cts-audio/st-maria-goretti/)
+- (Soon to be Saint) Blessed *Pier Giorgio Frassati*. Patron saint of young people. He was a mountaineer and a social activist. He was a very joyful person and a very good friend. [Free CTS audiobook](https://www.ctsbooks.org/cts-online/cts-audio/bl-pier-giorgio-frassati/)
 - (Soon to be Saint) Blessed *Carlo Acutis*. Patron saint of the internet. He was a computer programmer and a very holy person. He was only 15 years old when he died.
 - Saint *Aloysius (Luigi) Gonzaga*. Patron saint of youth. He was a prince but he gave up his title to become a Jesuit. He was only 23 years old when he died.
 - Saint *Ignatious of Loyola*. Patron saint of soldiers and youth. He was a soldier but he gave up his sword to become a priest. He founded the Jesuits.
@@ -55,8 +55,10 @@ These saints have been chosen as they are particularly relevant to the youth of 
 - Saint *Anne Line and Margaret Clitherow*. English Martyrs. Their story is connected to Saint Edmund Campion and all the other English Martyrs.
 - Saint *John Bosco and Dominic Savio*. Patron saints of youth. John Bosco was a priest who devoted his life to the education of young poor people. Dominic Savio was one of his students. He died when he was only 14 years old.
 - Saint *Charles Lwanga and Saint Kizito*. Martyrs of Uganda. They were young people who died for their faith.
-- Saint *Josephine Bakita*. Patron saint of Sudan. She was a slave but she became a nun and a saint.
+- Saint *Josephine Bakita*. Patron saint of Sudan. She was a slave but she became a nun and a saint.[Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/st-josephine-bakhita/)
 - Saint *Gemma Galgani*. Patron saint of students. She was a mystic and a stigmatist. She was only 25 years old when she died. [Youtube link](https://www.youtube.com/watch?v=jJfwehSWnCY&list=PLdSm8Th-dr8tgsdEs2DqJr6QQpNGtthUV)
+- Saint Charles De Foucauld. Patron saint of the Sahara. He was a soldier, a hermit and a martyr. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/charles-de-foucauld/)
+- St Teresa Benedicta of the Cross (Edith Stein). She was a German Jewish philosopher, then atheist and finally  converted to Catholicism and became a Carmelite nun. She was killed in Auschwitz. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/edith-stein/)
 
 
 ## Continue your journey into the Catholic faith
