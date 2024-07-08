@@ -5,7 +5,8 @@ description: A simple website for sharing resources to live a meaningful Christi
 # Theme Settings
 # theme: jekyll-theme-architect
 # jekyll-theme-cayman
-remote_theme: mmistakes/minimal-mistakes@4.22.0
+remote_theme: pages-themes/slate
+# mmistakes/minimal-mistakes@4.22.0
 
 # GitHub Pages Settings
 repository: matteoicardi/LifeInChrist
