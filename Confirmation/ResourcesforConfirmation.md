@@ -29,6 +29,8 @@ description: Preparation and continous formation
 - [Full Youtube playlist with all reccomended videos](https://youtube.com/playlist?list=PLCAcSnwZO_hhN5qpvx6QxijVQlvTU9SZw&si=8-fAcjPuJ13yXnUp)
 - [3 Minutes Catechism - Revise the basics of the Catholic faith](https://youtube.com/playlist?list=PLIcePO_eJb2_EElTdFm1PFLNkH17EQcV-&si=IsM9MwdePU2i7dmS)
 
+This video is not related to the Confirmation but it is an account of the amazing conversion and life of Sister Clare Crockett, a young talented girl from Northern Ireland born in 1982: [All or Nothing: Sr Clare Crockett](https://www.youtube.com/watch?v=dL565Cwmg9o)
+
 ### Books
 - [The Gospels booklet](https://www.pilgrimgifts.co.uk/products/new-revised-standard-version-the-gospels-pocket-sized-edition-by-bible-society-uk) · Pope Francis said that we should carry the Gospels with us all the time. This booklet is a pocket-sized edition of the Gospels.
 - [The Action Bible](https://www.theactionbible.com/) ·   A comic-style Bible
