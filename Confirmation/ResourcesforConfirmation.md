@@ -19,6 +19,7 @@ description: Preparation and continous formation
 - All Saints West Nottingham 2024 booklet (coming soon)
 
 ### Video Resources
+- [The Bible in 10 Minutes](https://www.youtube.com/watch?v=Jm3b4Q98Vx8)
 - [Confirmation · What you need to know](https://youtu.be/YdymHdMpDv4?si=25XISFrgSfnI_oB0)
 - [Understanding the Sacrament of Confirmation](https://www.youtube.com/watch?v=G3NeOL8zmG0)
 - [Confirmation SketchPad](https://www.youtube.com/watch?v=Lu3MoT_egFI)
