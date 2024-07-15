@@ -29,15 +29,16 @@ description: Preparation and continous formation
 - [The Sacrament of Confirmation according to the Catechism of the Catholic Church. A summary by Fr Mike Schmitz](https://youtu.be/82nEFH6ZWfM?si=frrV2ftefZDYHcFM)
 
 ### Other videos
+- [All or Nothing: Sr Clare Crockett](https://www.youtube.com/watch?v=dL565Cwmg9o): The amazing conversion and life of Clare Crockett, a young talented girl from Northern Ireland born in 1982: 
 - [Introduction to Lectio Divina](https://youtu.be/gKYEOc3ik9k?si=Mfk6hmiZP6jUUiq6)
 - [The Bible in 10 Minutes](https://www.youtube.com/watch?v=Jm3b4Q98Vx8)
 - [3 Minutes Catechism - Revise the basics of the Catholic faith](https://youtube.com/playlist?list=PLIcePO_eJb2_EElTdFm1PFLNkH17EQcV-&si=IsM9MwdePU2i7dmS)
-- [All or Nothing: Sr Clare Crockett](https://www.youtube.com/watch?v=dL565Cwmg9o): The amazing conversion and life of Clare Crockett, a young talented girl from Northern Ireland born in 1982: 
 
-### Books you could consider buying
+### Books you could consider buying or asking for as a gift for your Confirmation
 - [The Gospels booklet](https://www.pilgrimgifts.co.uk/products/new-revised-standard-version-the-gospels-pocket-sized-edition-by-bible-society-uk): Pope Francis said that we should carry the Gospels with us all the time. This booklet is a pocket-sized edition of the Gospels.
 - [The Action Bible](https://www.theactionbible.com/): A comic-style Bible
-- [Youcat](https://www.youcat.org/): Catechisms for young people, this can answer many questions you might have about life and faith.
+- [Youcat](https://www.youcat.org/): Catechism of the Catholic Church for young people. This can answer many questions you might have about life and faith.
+- [Looking ahead](https://www.ctsbooks.org/product/looking-ahead/): Looking Ahead answers big questions about life, God, and the world.
 
 
 # Saints for the Youth
