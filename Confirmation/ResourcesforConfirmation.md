@@ -45,27 +45,27 @@ Every candidate or every group can choose a saint to be their patron saint.
 These saints have been chosen as they are particularly relevant to the youth of today. Many of them died young or had an adventorous, sometimes usual, sometimes very unusual and special childhood and life. They are all very inspiring and have a lot to teach us.
 
 ### List of suggested saints (in no particular order, feel free to choose any other saint)
-1. Saint *Maria Goretti*. Patron saint of youth. She was only 11 years old when she died. She is a martyr of purity. [Free CTS audiobook](https://www.ctsbooks.org/cts-online/cts-audio/st-maria-goretti/)
-2. (Soon to be Saint) Blessed *Pier Giorgio Frassati*. Patron saint of young people. He was a university student in Engineering, a mountaineer, and a social activist. He died when he was only 24 years old. [Free CTS audiobook](https://www.ctsbooks.org/cts-online/cts-audio/bl-pier-giorgio-frassati/)
-3. (Soon to be Saint) Blessed *Carlo Acutis*. Patron saint of the internet. He was a computer programmer and an ordinary teenager. He was only 15 years old when he died.
-4. Saint *Aloysius (Luigi) Gonzaga*. Patron saint of youth. He was a prince but he gave up his title to become a Jesuit. He was only 23 years old when he died.
-5. Saint *Ignatious of Loyola*. Patron saint of soldiers and youth. He was a soldier but he gave up his sword to become a priest. He founded the Jesuits.
-6. Saint *Catherine of Siena*. Patron saint of Italy and Europe. She was a mystic and a doctor of the Church. She was only 33 years old when she died.
-7. Saint *Veronica Giuliani*. Patron saint of youth. She was a mystic and a stigmatist. Her whole life was a prayer.
-8. Saint *Therese of Lisieux*. Patron saint of the missions. She was a Carmelite nun and a doctor of the Church. She was only 24 years old when she died.
-9.  Saint *Francis and Saint Claire*. Patron saints of Italy. They were very good friends and they founded the Franciscans and the Poor Clares. They revolutionised the Church.
-10. Saint *Dominic*. Patron saint of the Dominicans. He founded the Dominicans.
-11. Saint *Anthony of Padua*. He was very clever and he was a great preacher. He was a Franciscan and helped St Francis to found the Franciscans.
-12. Saint *Maximilian Kolbe*. Patron saint of the pro-life movement. He was a Franciscan and he was a martyr of charity. He gave his life for another prisoner in Auschwitz.
-13. Saint *Joan of arc*. Patron saint of France. She was a soldier and a martyr. She was only 19 years old when she died.
-14. Saint *Kateri Tekakwitha* (Lily of the Mohawks). First Native American saint. Her story is connected also to St. Isaac Jogues (1607-1646) and St. John de Brebeuf (1593-1649) and their companions, the North American Martyrs.
-15. Saint *Anne Line and Margaret Clitherow*. English Martyrs. Their story is connected to Saint Edmund Campion and all the other English Martyrs.
-16. Saint *John Bosco and Dominic Savio*. Patron saints of youth. John Bosco was a priest who devoted his life to the education of young poor people. Dominic Savio was one of his students. He died when he was only 14 years old.
-17. Saint *Charles Lwanga and Saint Kizito*. Martyrs of Uganda. They were young people who died for their faith.
-18. Saint *Josephine Bakita*. Patron saint of Sudan. She was a slave but she became a nun and a saint.[Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/st-josephine-bakhita/)
-19. Saint *Gemma Galgani*. Patron saint of students. She was a mystic and a stigmatist. She was only 25 years old when she died. [Youtube link](https://www.youtube.com/watch?v=jJfwehSWnCY&list=PLdSm8Th-dr8tgsdEs2DqJr6QQpNGtthUV)
-20. *Saint Charles De Foucauld*. He was an ordinary rebel youngster, but God called him to be a saint. He was a soldier, then a hermit, a priest and eventually martyr in the Sahara desert. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/charles-de-foucauld/)
-21. *Saint Teresa Benedicta of the Cross (Edith Stein)*. She was a German Jewish philosopher, then atheist and finally  converted to Catholicism and became a Carmelite nun. She was killed in Auschwitz. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/edith-stein/)
+1. Saint **Maria Goretti**. Patron saint of youth. She was only 11 years old when she died. She is a martyr of purity. [Free CTS audiobook](https://www.ctsbooks.org/cts-online/cts-audio/st-maria-goretti/)
+2. (Soon to be Saint) Blessed **Pier Giorgio Frassati**. Patron saint of young people. He was a university student in Engineering, a mountaineer, and a social activist. He died when he was only 24 years old. [Free CTS audiobook](https://www.ctsbooks.org/cts-online/cts-audio/bl-pier-giorgio-frassati/)
+3. (Soon to be Saint) Blessed **Carlo Acutis**. Patron saint of the internet. He was a computer programmer and an ordinary teenager. He was only 15 years old when he died.
+4. Saint **Aloysius (Luigi) Gonzaga**. Patron saint of youth. He was a prince but he gave up his title to become a Jesuit. He was only 23 years old when he died.
+5. Saint **Ignatious of Loyola**. Patron saint of soldiers and youth. He was a soldier but he gave up his sword to become a priest. He founded the Jesuits.
+6. Saint **Catherine of Siena**. Patron saint of Italy and Europe. She was a mystic and a doctor of the Church. She was only 33 years old when she died.
+7. Saint **Veronica Giuliani**. Patron saint of youth. She was a mystic and a stigmatist. Her whole life was a prayer.
+8. Saint **Therese of Lisieux**. Patron saint of the missions. She was a Carmelite nun and a doctor of the Church. She was only 24 years old when she died.
+9.  Saint **Francis and Saint Claire**. Patron saints of Italy. They were very good friends and they founded the Franciscans and the Poor Clares. They revolutionised the Church.
+10. Saint **Dominic**. Patron saint of the Dominicans. He founded the Dominicans.
+11. Saint **Anthony of Padua**. He was very clever and he was a great preacher. He was a Franciscan and helped St Francis to found the Franciscans.
+12. Saint **Maximilian Kolbe**. Patron saint of the pro-life movement. He was a Franciscan and he was a martyr of charity. He gave his life for another prisoner in Auschwitz.
+13. Saint **Joan of arc**. Patron saint of France. She was a soldier and a martyr. She was only 19 years old when she died.
+14. Saint **Kateri Tekakwitha** (Lily of the Mohawks). First Native American saint. Her story is connected also to St. Isaac Jogues (1607-1646) and St. John de Brebeuf (1593-1649) and their companions, the North American Martyrs.
+15. Saint **Anne Line and Margaret Clitherow**. English Martyrs. Their story is connected to Saint Edmund Campion and all the other English Martyrs.
+16. Saint **John Bosco and Dominic Savio**. Patron saints of youth. John Bosco was a priest who devoted his life to the education of young poor people. Dominic Savio was one of his students. He died when he was only 14 years old.
+17. Saint **Charles Lwanga and Saint Kizito**. Martyrs of Uganda. They were young people who died for their faith.
+18. Saint **Josephine Bakita**. Patron saint of Sudan. She was a slave but she became a nun and a saint.[Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/st-josephine-bakhita/)
+19. Saint **Gemma Galgani**. Patron saint of students. She was a mystic and a stigmatist. She was only 25 years old when she died. [Youtube link](https://www.youtube.com/watch?v=jJfwehSWnCY&list=PLdSm8Th-dr8tgsdEs2DqJr6QQpNGtthUV)
+20. **Saint Charles De Foucauld**. He was an ordinary rebel youngster, but God called him to be a saint. He was a soldier, then a hermit, a priest and eventually martyr in the Sahara desert. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/charles-de-foucauld/)
+21. **Saint Teresa Benedicta of the Cross (Edith Stein)**. She was a German Jewish philosopher, then atheist and finally  converted to Catholicism and became a Carmelite nun. She was killed in Auschwitz. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/edith-stein/)
 
 ### Websites to find more about the saints
 There are many resources to find about these and other saints. You can find books, audiobooks, videos, etc. about them. You can also find prayers, novenas, etc. to ask for their intercession. Here are some links:
@@ -96,17 +96,17 @@ The theology of the body is a incredible and revolutionary teaching developed by
 - [Theology of the Body - Crash course](https://ascensionpress.com/pages/tob-crash-course)
 
 ### Courses - We reccomend to watch at least one of these courses
-- [Catholicism series by Bishop Robert Barron](https://youtube.com/playlist?list=PLfHAaQBH7FelvkvlF_OExqvMXaHJ3HjTY&si=nUyO7p5quDpkAQ4a). This is a series of films and discussions about the Catholic faith. Bishop Barron is a US bishop and great speaker and funder of Word on Fire institute and website which has many other resources. *FREE* to watch on Youtube, while Word on Fire has a subscription service.
-- [The Search](https://www.thesearchbegins.org). A series of films and discussions about the Christian faith. It is a great way to learn about the basics of the Christian faith. *FREE*
-- [Wild Goose](https://wildgoose.tv/programs/collection-wlknyrzsacq?category_id=23145). This is *specifically* about the Holy Spirit, it is a perfect preparation and follow-up to the Sacrament of Confirmation. *FREE*
-- [Sycamore](https://www.sycamore.fm/). A series of films and discussions about the Christian faith made in the UK. It is a great way to learn about the basics of the Christian faith. *FREE*
-- [Alpha Course](https://youtube.com/playlist?list=PLgXlx7pDeVhQ1MUhydQojpBcUHTMPDHme&si=OJrqhUi7QoFK-Qs0). The most popular course for evangelisation. Used by many churches around the world, not only Catholics. It is normally done in groups, but you can watch it online. *FREE*
-- [The Chosen](https://watch.thechosen.tv). A fantastic series about the life of Jesus. It is a great way to get to know Jesus better and it is a great series to watch with your family. *FREE* to watch if you register.
+- [Catholicism series by Bishop Robert Barron](https://youtube.com/playlist?list=PLfHAaQBH7FelvkvlF_OExqvMXaHJ3HjTY&si=nUyO7p5quDpkAQ4a). This is a series of films and discussions about the Catholic faith. Bishop Barron is a US bishop and great speaker and funder of Word on Fire institute and website which has many other resources. **FREE** to watch on Youtube, while Word on Fire has a subscription service.
+- [The Search](https://www.thesearchbegins.org). A series of films and discussions about the Christian faith. It is a great way to learn about the basics of the Christian faith. **FREE**
+- [Wild Goose](https://wildgoose.tv/programs/collection-wlknyrzsacq?category_id=23145). This is **specifically** about the Holy Spirit, it is a perfect preparation and follow-up to the Sacrament of Confirmation. **FREE**
+- [Sycamore](https://www.sycamore.fm/). A series of films and discussions about the Christian faith made in the UK. It is a great way to learn about the basics of the Christian faith. **FREE**
+- [Alpha Course](https://youtube.com/playlist?list=PLgXlx7pDeVhQ1MUhydQojpBcUHTMPDHme&si=OJrqhUi7QoFK-Qs0). The most popular course for evangelisation. Used by many churches around the world, not only Catholics. It is normally done in groups, but you can watch it online. **FREE**
+- [The Chosen](https://watch.thechosen.tv). A fantastic series about the life of Jesus. It is a great way to get to know Jesus better and it is a great series to watch with your family. **FREE** to watch if you register.
 
 ### Catholic Apps and streaming services
 - [Pray as you go](https://pray-as-you-go.org) · A daily prayer session, designed to go with you wherever you go, to help you pray whenever you find time.
 - [Hallow](https://hallow.com) · A Catholic meditation app
 - [Bible app](https://www.bible.com) · The Bible app by YouVersion
 - [Christian Art](https://www.christianart.org) · If you are an artist, you can find inspiration here
-- [Wild Goose TV](https://wildgoose.tv) · A Catholic streaming service *FREE*
+- [Wild Goose TV](https://wildgoose.tv) · A Catholic streaming service **FREE**
 - [Formed](https://watch.formed.org). This is like Netflix for Catholics. It has movies, documentaries, series, audiobooks, etc.
