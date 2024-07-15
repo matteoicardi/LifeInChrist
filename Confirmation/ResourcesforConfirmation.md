@@ -23,7 +23,6 @@ description: Preparation and continous formation
 - [Confirmation · What you need to know](https://youtu.be/YdymHdMpDv4?si=25XISFrgSfnI_oB0)
 - [Understanding the Sacrament of Confirmation](https://www.youtube.com/watch?v=G3NeOL8zmG0)
 - [Confirmation SketchPad](https://www.youtube.com/watch?v=Lu3MoT_egFI)
-- [The Sacrament of Confirmation](https://www.youtube.com/watch?v=nXqKkTcLtqs)
 - [What happens at Confirmation?](https://www.youtube.com/watch?v=49tLYYagp2Q)
 - [Holy Oils In The Church · Why and How We Use Them](https://www.youtube.com/watch?v=A131j0yFcM0)
 - [The Sacrament of Confirmation according to the Catechism of the Catholic Church. A summary by Fr Mike Schmitz](https://youtu.be/82nEFH6ZWfM?si=frrV2ftefZDYHcFM)
