@@ -5,21 +5,21 @@ description: Preparation and continous formation
 
 # Preparation for the Sacrament of Confirmation
 
-### Prayer resources
+### Preparation booklets
+- All Saints West Nottingham 2024 booklet (coming soon)
+- [Confirmation booklet - Archdiocese of Edinburgh](https://archedinburgh.org/wp-content/uploads/Confirmation-Booklet-1.pdf)
+
+
+### Prayer - printable resources
 - [The Rosary](https://www.ndcys.com/wp-content/uploads/2024/05/Rosary.pdf)
-- [Lectio Divina](https://youtu.be/gKYEOc3ik9k?si=Mfk6hmiZP6jUUiq6)
 - [Veni Creator Spiritus](https://reginacaeliparish.org/documents/Veni%20Creator%20Spirtus.pdf). I recommend to pray this prayer before each session.
 - [Prayers for Teens and Parents](https://holycomforterparish.org/wp-content/uploads/2012/01/Teen-and-Parent-Prayer-Booklet.pdf). Print this booklet and keep it with you.
 - Three incredible, short and powerful prayers by St Ignatious of Loyola: [Suscipe](https://catholicresources.education/wp-content/uploads/2024/02/Offering_and_Prayer_of_St._Ignatius_Loyola.PDF-__Suscipe_.pdf), the prayer that made him a Saint; [Anima Christi](https://www.holyspiritcathparish.org/wp-content/uploads/2013/02/February-Anima-Christi-Prayer-Card.pdf), a moving prayer to recite before or after Communion, [Prayer for Generosity](https://catholicresources.education/wp-content/uploads/2024/02/Prayer_of_St._Ignatius_Loyola.pdf), an everyday prayer.
 - [Prayer to Saint Michael the Archangel](https://www.archtoronto.org/contentassets/8d6f4908c15043c98d988a057572e160/prayer-to-st.-michael.pdf)
 - [Word of God - Mental Health - Read me when you are ...](https://www.ndcys.com/wp-content/uploads/2024/05/Read-me-when.pdf)
 
-### Preparation booklets
-- [Confirmation booklet - Archdiocese of Edinburgh](https://archedinburgh.org/wp-content/uploads/Confirmation-Booklet-1.pdf)
-- All Saints West Nottingham 2024 booklet (coming soon)
 
-### Video Resources
-- [The Bible in 10 Minutes](https://www.youtube.com/watch?v=Jm3b4Q98Vx8)
+### Videos about the Sacrament of Confirmation
 - [Confirmation · What you need to know](https://youtu.be/YdymHdMpDv4?si=25XISFrgSfnI_oB0)
 - [Understanding the Sacrament of Confirmation](https://www.youtube.com/watch?v=G3NeOL8zmG0)
 - [Confirmation SketchPad](https://www.youtube.com/watch?v=Lu3MoT_egFI)
@@ -27,15 +27,17 @@ description: Preparation and continous formation
 - [What happens at Confirmation?](https://www.youtube.com/watch?v=49tLYYagp2Q)
 - [Holy Oils In The Church · Why and How We Use Them](https://www.youtube.com/watch?v=A131j0yFcM0)
 - [The Sacrament of Confirmation according to the Catechism of the Catholic Church. A summary by Fr Mike Schmitz](https://youtu.be/82nEFH6ZWfM?si=frrV2ftefZDYHcFM)
-- [Full Youtube playlist with all reccomended videos](https://youtube.com/playlist?list=PLCAcSnwZO_hhN5qpvx6QxijVQlvTU9SZw&si=8-fAcjPuJ13yXnUp)
+
+### Other videos
+- [Introduction to Lectio Divina](https://youtu.be/gKYEOc3ik9k?si=Mfk6hmiZP6jUUiq6)
+- [The Bible in 10 Minutes](https://www.youtube.com/watch?v=Jm3b4Q98Vx8)
 - [3 Minutes Catechism - Revise the basics of the Catholic faith](https://youtube.com/playlist?list=PLIcePO_eJb2_EElTdFm1PFLNkH17EQcV-&si=IsM9MwdePU2i7dmS)
+- [All or Nothing: Sr Clare Crockett](https://www.youtube.com/watch?v=dL565Cwmg9o): The amazing conversion and life of Clare Crockett, a young talented girl from Northern Ireland born in 1982: 
 
-This video is not related to the Confirmation but it is an account of the amazing conversion and life of Sister Clare Crockett, a young talented girl from Northern Ireland born in 1982: [All or Nothing: Sr Clare Crockett](https://www.youtube.com/watch?v=dL565Cwmg9o)
-
-### Books
-- [The Gospels booklet](https://www.pilgrimgifts.co.uk/products/new-revised-standard-version-the-gospels-pocket-sized-edition-by-bible-society-uk) · Pope Francis said that we should carry the Gospels with us all the time. This booklet is a pocket-sized edition of the Gospels.
-- [The Action Bible](https://www.theactionbible.com/) ·   A comic-style Bible
-- [Youcat](https://www.youcat.org/) · Catechisms for young people, this can answer many questions you might have about life and faith.
+### Books you could consider buying
+- [The Gospels booklet](https://www.pilgrimgifts.co.uk/products/new-revised-standard-version-the-gospels-pocket-sized-edition-by-bible-society-uk): Pope Francis said that we should carry the Gospels with us all the time. This booklet is a pocket-sized edition of the Gospels.
+- [The Action Bible](https://www.theactionbible.com/): A comic-style Bible
+- [Youcat](https://www.youcat.org/): Catechisms for young people, this can answer many questions you might have about life and faith.
 
 
 ### Saints for the Youth
