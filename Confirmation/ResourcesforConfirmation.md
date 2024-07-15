@@ -40,9 +40,11 @@ description: Preparation and continous formation
 - [Youcat](https://www.youcat.org/): Catechisms for young people, this can answer many questions you might have about life and faith.
 
 
-### Saints for the Youth
+# Saints for the Youth
 Every candidate or every group can choose a saint to be their patron saint.
 These saints have been chosen as they are particularly relevant to the youth of today. Many of them died young or had an adventorous, sometimes usual, sometimes very unusual and special childhood and life. They are all very inspiring and have a lot to teach us.
+
+### List of suggested saints (in no particular order, feel free to choose any other saint)
 1. Saint *Maria Goretti*. Patron saint of youth. She was only 11 years old when she died. She is a martyr of purity. [Free CTS audiobook](https://www.ctsbooks.org/cts-online/cts-audio/st-maria-goretti/)
 2. (Soon to be Saint) Blessed *Pier Giorgio Frassati*. Patron saint of young people. He was a university student in Engineering, a mountaineer, and a social activist. He died when he was only 24 years old. [Free CTS audiobook](https://www.ctsbooks.org/cts-online/cts-audio/bl-pier-giorgio-frassati/)
 3. (Soon to be Saint) Blessed *Carlo Acutis*. Patron saint of the internet. He was a computer programmer and an ordinary teenager. He was only 15 years old when he died.
@@ -65,6 +67,7 @@ These saints have been chosen as they are particularly relevant to the youth of 
 20. *Saint Charles De Foucauld*. He was an ordinary rebel youngster, but God called him to be a saint. He was a soldier, then a hermit, a priest and eventually martyr in the Sahara desert. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/charles-de-foucauld/)
 21. *Saint Teresa Benedicta of the Cross (Edith Stein)*. She was a German Jewish philosopher, then atheist and finally  converted to Catholicism and became a Carmelite nun. She was killed in Auschwitz. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/edith-stein/)
 
+### Websites to find more about the saints
 There are many resources to find about these and other saints. You can find books, audiobooks, videos, etc. about them. You can also find prayers, novenas, etc. to ask for their intercession. Here are some links:
 - [Catholic Saints A-Z - My Catholic Life!](https://mycatholic.life/saints/)
 - [Roman Catholic Saints](https://www.roman-catholic-saints.com)
@@ -74,6 +77,7 @@ There are many resources to find about these and other saints. You can find book
 
 
 # To continue your journey
+These are additional resources that we hope will help you to continue your journey of faith. They are not necessary for the preparation for the Sacrament of Confirmation, but they are very useful to deepen your faith and to grow in your relationship with God.
 
 ### Short books and documents from the early Church and other classics of the Catholic faith
 - [Letter to Diognetus](https://www.newadvent.org/fathers/0101.htm) · A letter from the early Church, written around 130 AD, explaining the Christian faith.
