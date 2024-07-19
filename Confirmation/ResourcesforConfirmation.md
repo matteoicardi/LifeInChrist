@@ -5,10 +5,9 @@ description: Preparation and continous formation
 
 # Preparation for the Sacrament of Confirmation
 
-### Preparation booklets
+### 2024 Programme
 - All Saints West Nottingham 2024 booklet (coming soon)
-- [Confirmation booklet - Archdiocese of Edinburgh](https://archedinburgh.org/wp-content/uploads/Confirmation-Booklet-1.pdf)
-
+- [Calendar of all meetings](2024Calendar.md)
 
 ### Prayer - printable resources
 - [The Rosary](https://www.ndcys.com/wp-content/uploads/2024/05/Rosary.pdf)
