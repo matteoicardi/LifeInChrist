@@ -7,7 +7,7 @@ description: Preparation and continous formation
 
 ### 2024 Programme
 - All Saints West Nottingham 2024 booklet (coming soon)
-- [Calendar of all meetings](2024Calendar.md)
+- [Calendar of all meetings](./2024Calendar.md)
 
 ### Prayer - printable resources
 - [The Rosary](https://www.ndcys.com/wp-content/uploads/2024/05/Rosary.pdf)
