@@ -1,14 +1,14 @@
 | Date                  | Time        | Session                                 | Homework                                                                                                                                           |
 |-----------------------|-------------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tuesday 16th Jul     | 6-7pm       | Introduction WITH PARENTS                | The Chosen (watch season 1);  Confirmation: what do you need to know;  Start thinking about a Saint, a Confirmation name, and a sponsor |
-| Tuesday 23rd Jul     | 6-7pm       | 1. Introduction to Confirmation | Understanding the Sacrament of Confirmation;  Introduction to Lectio Divina                                     |
-| Tuesday 3rd Sept | 6-7pm       | 2. The Creed / I Believe        |  3 Minutes Catechism (choose 3 short videos that interest you)                                                                       |
-| Tuesday 10th Sept| 6-7pm       | 3. The Sacraments               |  All or Nothing – Sr Clare Crockett                                                                                                  |
-| Tuesday 17th Sept| 6-7pm       | 4. Discipleship / Witness       |  The Bible in 10 minutes;  Continue your research about saints                                                                    |
-| Sunday 22nd Sept | 11am        | Commitment Mass (11am St Teresa’s)       |  What happens at Confirmation?;  Continue your research about saints                                                              |
-| Saturday 28th Sept | TBC       | 5 – NDCYS              |  Read the sermon of the mount (Matthew’s gospel, chapters 5-6-7);  Continue your research about saints                            |
-| Tuesday 1st Oct   | 6-7pm       | 6. Gifts of the Holy Spirit     |  TBC;  Continue your research about saints                                                                                        |
-| Tuesday 8th Oct   | 6-7pm       | 7. Symbols                      |  TBC: Something about reconciliation                                                                                                |
-| Tuesday 15th Oct  | 6-7pm       | 8. Reconciliation               |  Confirmation Sketchpad;  Holy Oils in the Church                                                                                 |
-| Tuesday 29th Oct  | 6-7pm       | 9. Rehearsal                    |  The Sacrament of Confirmation according to the Catechism of the Catholic Church. A summary by Fr Mike Schmitz                       |
-| Friday 1st Nov   | 7pm         | CONFIRMATION MASS                        | The journey of faith is not over…keep exploring, asking questions, reading, and experiencing the Life in Christ                        |
+| Tue 16th Jul     | 6-7pm       | Introduction WITH PARENTS                | The Chosen (watch season 1)<br>Confirmation: what do you need to know;  Start thinking about a Saint, a Confirmation name, and a sponsor |
+| Tue 23rd Jul     | 6-7pm       | 1. Introduction to Confirmation | Understanding the Sacrament of Confirmation;  Introduction to Lectio Divina                                     |
+| Tue 3rd Sep | 6-7pm       | 2. The Creed / I Believe        |  3 Minutes Catechism (choose 3 short videos that interest you)                                                                       |
+| Tue 10th Sep| 6-7pm       | 3. The Sacraments               |  All or Nothing – Sr Clare Crockett                                                                                                  |
+| Tue 17th Sep| 6-7pm       | 4. Discipleship / Witness       |  The Bible in 10 minutes;  Continue your research about saints                                                                    |
+| Sun 22nd Sep | 11am        | Commitment Mass (11am St Teresa’s)       |  What happens at Confirmation?;  Continue your research about saints                                                              |
+| Sat 28th Sep | TBC       | 5 – NDCYS              |  Read the sermon of the mount (Matthew’s gospel, chapters 5-6-7);  Continue your research about saints                            |
+| Tue 1st Oct   | 6-7pm       | 6. Gifts of the Holy Spirit     |  TBC;  Continue your research about saints                                                                                        |
+| Tue 8th Oct   | 6-7pm       | 7. Symbols                      |  TBC: Something about reconciliation                                                                                                |
+| Tue 15th Oct  | 6-7pm       | 8. Reconciliation               |  Confirmation Sketchpad;  Holy Oils in the Church                                                                                 |
+| Tue 29th Oct  | 6-7pm       | 9. Rehearsal                    |  The Sacrament of Confirmation according to the Catechism of the Catholic Church. A summary by Fr Mike Schmitz                       |
+| Fri 1st Nov   | 7pm         | CONFIRMATION MASS                        | The journey of faith is not over…keep exploring, asking questions, reading, and experiencing the Life in Christ                        |
