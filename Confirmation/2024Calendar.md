@@ -1,10 +1,12 @@
 
 Go to the [previous page](./ResourcesforConfirmation.md) for the full list and links of resources and the booklet.
 
+**Reminder**: Choose a Saint, a Confirmation name, and a sponsor. A list of suggested saints is available in the booklet or in the [previous page](./ResourcesforConfirmation.md).
+
 | Date                  | Time        | Session                                 | Homework after the session                                                                                                                                          |
 |-----------------------|-------------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tue 16th Jul     | 6-7pm       | Introduction WITH PARENTS                | |
-| Tue 23rd Jul     | 6-7pm       | 1. Introduction to Confirmation | **Summer homework**<br>[The Chosen](https://watch.thechosen.tv) - watch season 1 with your family during the holidays<br>[What happens at Confirmation?](https://www.youtube.com/watch?v=49tLYYagp2Q)<br>[Prayer for Beginners](https://youtu.be/BO3YJHZVdxs?si=Wpj-_MuQYnp5upIT&t=30)<br>[The Bible in 10 Minutes](https://www.youtube.com/watch?v=Jm3b4Q98Vx8)<br>Choose a Saint, a Confirmation name, and a sponsor |
+| Tue 23rd Jul     | 6-7pm       | 1. Introduction to Confirmation | **Summer homework**<br>[The Chosen](https://watch.thechosen.tv) - watch season 1 with your family during the holidays<br>[What happens at Confirmation?](https://www.youtube.com/watch?v=49tLYYagp2Q)<br>[Prayer for Beginners](https://youtu.be/BO3YJHZVdxs?si=Wpj-_MuQYnp5upIT&t=30)<br>[The Bible in 10 Minutes](https://www.youtube.com/watch?v=Jm3b4Q98Vx8) |
 | Tue 3rd Sep | 6-7pm      | 2. The Creed - I Believe    |  [Sacraments SketchPads](https://www.youtube.com/playlist?list=PLBdBxtht3DgeyGzlo4lX3_YLicfaIoVu_) - Choose at least 2 videos <br>[From the Catechism of the Catholic Church. Summary about the Eucharist](https://youtu.be/d3AttEMJfSA?si=WdXcSTj4JmUek8vv&t=85)<br>[Do Catholics "eat" Jesus?](https://youtu.be/UQPTfyxZLKI?si=flX9lCovXnW3IysC) |
 | Tue 10th Sep| 6-7pm       | 3. The Sacraments               |  [All or Nothing: Sr Clare Crockett](https://www.youtube.com/watch?v=dL565Cwmg9o)                                                                                                  |
 | Tue 17th Sep| 6-7pm       | 4. Discipleship <br> Witness       |  [From the Catechism of the Catholic Church. Summary about Confirmation](https://youtu.be/82nEFH6ZWfM?si=wvo34T7DjOl59Zho&t=86)                                 |
