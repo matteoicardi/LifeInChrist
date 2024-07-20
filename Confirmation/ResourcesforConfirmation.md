@@ -28,7 +28,8 @@ description: Preparation and continous formation
 - [From the Catechism of the Catholic Church. Summary about Confirmation](https://youtu.be/82nEFH6ZWfM?si=wvo34T7DjOl59Zho&t=86)
 
 ### Other videos that can help you to grow in your faith
-- [All or Nothing: Sr Clare Crockett](https://www.youtube.com/watch?v=dL565Cwmg9o): The amazing conversion and life of Clare Crockett, a young talented girl from Northern Ireland born in 1982: 
+- [All or Nothing: Sr Clare Crockett](https://www.youtube.com/watch?v=dL565Cwmg9o): The amazing conversion and life of Clare Crockett, a young talented girl from Northern Ireland born in 1982
+- [Nothing is impossible to God - The story of a vocation](https://youtu.be/kvgZbDLqs28?si=sCadhGsaOczIdQMN)
 - [Introduction to Lectio Divina](https://youtu.be/gKYEOc3ik9k?si=Mfk6hmiZP6jUUiq6)
 - [The Bible in 10 Minutes](https://www.youtube.com/watch?v=Jm3b4Q98Vx8)
 - [3 Minutes Catechism - Revise the basics of the Catholic faith](https://youtube.com/playlist?list=PLIcePO_eJb2_EElTdFm1PFLNkH17EQcV-&si=IsM9MwdePU2i7dmS)
