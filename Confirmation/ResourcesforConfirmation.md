@@ -9,7 +9,7 @@ description: Preparation and continous formation
 - [All Saints West Nottingham 2024 booklet](./Confirmation_2024_Booklet_St_Teresa_s.pdf)
 - [Calendar of all meetings and homework](./2024Calendar.md)
 
-### Prayer - printable resources
+### Prayer - printable resources - choose one or more to accompany you in your journey
 - [Prayers for Teens and Parents](https://holycomforterparish.org/wp-content/uploads/2012/01/Teen-and-Parent-Prayer-Booklet.pdf). Print this booklet and keep it with you.
 - [The Rosary](https://www.ndcys.com/wp-content/uploads/2024/05/Rosary.pdf). The Rosary is a powerful prayer that can help you to grow in your relationship with Jesus through Mary.
 - [Veni Creator Spiritus](https://reginacaeliparish.org/documents/Veni%20Creator%20Spirtus.pdf). An ancient prayer from the 10th century. It is a powerful prayer to ask for the gifts of the Holy Spirit. We recommend to recite this prayer often in this time, expecially in the 9 days before the Confirmation.
@@ -27,7 +27,7 @@ description: Preparation and continous formation
 - [Holy Oils In The Church · Why and How We Use Them](https://www.youtube.com/watch?v=A131j0yFcM0)
 - [From the Catechism of the Catholic Church. Summary about Confirmation](https://youtu.be/82nEFH6ZWfM?si=wvo34T7DjOl59Zho&t=86)
 
-### Other videos
+### Other videos that can help you to grow in your faith
 - [All or Nothing: Sr Clare Crockett](https://www.youtube.com/watch?v=dL565Cwmg9o): The amazing conversion and life of Clare Crockett, a young talented girl from Northern Ireland born in 1982: 
 - [Introduction to Lectio Divina](https://youtu.be/gKYEOc3ik9k?si=Mfk6hmiZP6jUUiq6)
 - [The Bible in 10 Minutes](https://www.youtube.com/watch?v=Jm3b4Q98Vx8)
