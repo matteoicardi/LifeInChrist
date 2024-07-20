@@ -6,7 +6,7 @@ description: Preparation and continous formation
 # Preparation for the Sacrament of Confirmation
 
 ### 2024 Programme
-- All Saints West Nottingham 2024 booklet (coming soon)
+- [All Saints West Nottingham 2024 booklet](./Confirmation_2024_Booklet_St_Teresa_s.pdf)
 - [Calendar of all meetings](./2024Calendar.md)
 
 ### Prayer - printable resources
@@ -20,11 +20,11 @@ description: Preparation and continous formation
 
 ### Videos about the Sacrament of Confirmation
 - [Confirmation · What you need to know](https://youtu.be/YdymHdMpDv4?si=25XISFrgSfnI_oB0)
-- [Understanding the Sacrament of Confirmation](https://www.youtube.com/watch?v=G3NeOL8zmG0)
-- [Confirmation SketchPad](https://www.youtube.com/watch?v=Lu3MoT_egFI)
+[Bishop Barron on Confirmation, Gifts of the Holy Spirit and Evangelisation](https://youtu.be/Ynj_nOxC-1Y?si=NgZ07o8fTuP8KNNF)
+- [Confirmation SketchPad](https://www.youtube.com/watch?v=Lu3MoT_egFI) -  [Other SketchPads about sacraments](https://www.youtube.com/playlist?list=PLBdBxtht3DgeyGzlo4lX3_YLicfaIoVu_)
 - [What happens at Confirmation?](https://www.youtube.com/watch?v=49tLYYagp2Q)
 - [Holy Oils In The Church · Why and How We Use Them](https://www.youtube.com/watch?v=A131j0yFcM0)
-- [The Sacrament of Confirmation according to the Catechism of the Catholic Church. A summary by Fr Mike Schmitz](https://youtu.be/82nEFH6ZWfM?si=frrV2ftefZDYHcFM)
+- [From the Catechism of the Catholic Church. Summary about Confirmation](https://youtu.be/82nEFH6ZWfM?si=wvo34T7DjOl59Zho&t=86)
 
 ### Other videos
 - [All or Nothing: Sr Clare Crockett](https://www.youtube.com/watch?v=dL565Cwmg9o): The amazing conversion and life of Clare Crockett, a young talented girl from Northern Ireland born in 1982: 
@@ -67,7 +67,8 @@ These saints have been chosen as they are particularly relevant to the youth of 
 21. **Saint Teresa Benedicta of the Cross (Edith Stein)**. She was a German Jewish philosopher, then atheist and finally  converted to Catholicism and became a Carmelite nun. She was killed in Auschwitz. [Free CTS Audiobook](https://www.ctsbooks.org/cts-online/cts-audio/edith-stein/)
 
 ### Websites to find more about the saints
-There are many resources to find about these and other saints. You can find books, audiobooks, videos, etc. about them. You can also find prayers, novenas, etc. to ask for their intercession. Here are some links:
+There are many resources to find about these and other saints. You can easily find books, audiobooks, videos, etc. about them. You can also find prayers, novenas, etc. to ask for their intercession. Here are some links:
+- [Youtube playlist with inspiring stories of Saints](https://www.youtube.com/playlist?list=PLdSm8Th-dr8tgsdEs2DqJr6QQpNGtthUV)
 - [Catholic Saints A-Z - My Catholic Life!](https://mycatholic.life/saints/)
 - [Roman Catholic Saints](https://www.roman-catholic-saints.com)
 - [Catholic Saints & Holy Figures · EWTN](https://www.ewtn.com/catholicism/saints)
