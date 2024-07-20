@@ -10,9 +10,11 @@ description: Preparation and continous formation
 - [Calendar of all meetings and homework](./2024Calendar.md)
 
 ### Prayer - printable resources
-- [The Rosary](https://www.ndcys.com/wp-content/uploads/2024/05/Rosary.pdf)
-- [Veni Creator Spiritus](https://reginacaeliparish.org/documents/Veni%20Creator%20Spirtus.pdf). I recommend to pray this prayer before each session.
 - [Prayers for Teens and Parents](https://holycomforterparish.org/wp-content/uploads/2012/01/Teen-and-Parent-Prayer-Booklet.pdf). Print this booklet and keep it with you.
+- [The Rosary](https://www.ndcys.com/wp-content/uploads/2024/05/Rosary.pdf). The Rosary is a powerful prayer that can help you to grow in your relationship with Jesus through Mary.
+- [Veni Creator Spiritus](https://reginacaeliparish.org/documents/Veni%20Creator%20Spirtus.pdf). An ancient prayer from the 10th century. It is a powerful prayer to ask for the gifts of the Holy Spirit. We recommend to recite this prayer often in this time, expecially in the 9 days before the Confirmation.
+- Remember, prayer is also simply staying silent in the presence of God, listening to Him. You can do this by going to Adoration, reading the Bible, or simply sitting in silence saying to God: "Here I am, what do you want to tell me?".
+
 - Three incredible, short and powerful prayers by St Ignatious of Loyola: [Suscipe](https://catholicresources.education/wp-content/uploads/2024/02/Offering_and_Prayer_of_St._Ignatius_Loyola.PDF-__Suscipe_.pdf), the prayer that made him a Saint; [Anima Christi](https://www.holyspiritcathparish.org/wp-content/uploads/2013/02/February-Anima-Christi-Prayer-Card.pdf), a moving prayer to recite before or after Communion, [Prayer for Generosity](https://catholicresources.education/wp-content/uploads/2024/02/Prayer_of_St._Ignatius_Loyola.pdf), an everyday prayer.
 - [Prayer to Saint Michael the Archangel](https://www.archtoronto.org/contentassets/8d6f4908c15043c98d988a057572e160/prayer-to-st.-michael.pdf)
 - [Word of God - Mental Health - Read me when you are ...](https://www.ndcys.com/wp-content/uploads/2024/05/Read-me-when.pdf)
