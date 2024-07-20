@@ -14,7 +14,7 @@ description: Preparation and continous formation
 - [The Rosary](https://www.ndcys.com/wp-content/uploads/2024/05/Rosary.pdf). The Rosary is a powerful prayer that can help you to grow in your relationship with Jesus through Mary.
 - [Veni Creator Spiritus](https://reginacaeliparish.org/documents/Veni%20Creator%20Spirtus.pdf). An ancient prayer from the 10th century. It is a powerful prayer to ask for the gifts of the Holy Spirit. We recommend to recite this prayer often in this time, expecially in the 9 days before the Confirmation.
 - Three incredible, short and powerful prayers by St Ignatious of Loyola: [Suscipe](https://catholicresources.education/wp-content/uploads/2024/02/Offering_and_Prayer_of_St._Ignatius_Loyola.PDF-__Suscipe_.pdf), the prayer that made him a Saint; [Anima Christi](https://www.holyspiritcathparish.org/wp-content/uploads/2013/02/February-Anima-Christi-Prayer-Card.pdf), a moving prayer to recite before or after Communion, [Prayer for Generosity](https://catholicresources.education/wp-content/uploads/2024/02/Prayer_of_St._Ignatius_Loyola.pdf), an everyday prayer.
-- [Prayer to Saint Michael the Archangel](https://www.archtoronto.org/contentassets/8d6f4908c15043c98d988a057572e160/prayer-to-st.-michael.pdf)
+- [Prayer to Saint Michael the Archangel](https://www.archtoronto.org/contentassets/8d6f4908c15043c98d988a057572e160/prayer-to-st.-michael.pdf) to defend us in battle against the evil one.
 - [Word of God - Mental Health - Read me when you are ...](https://www.ndcys.com/wp-content/uploads/2024/05/Read-me-when.pdf)
 - Remember, prayer is also simply staying silent in the presence of God, listening to Him. You can do this by going to Adoration, reading the Bible, or simply sitting in silence saying to God: "Here I am, what do you want to tell me?".
 
@@ -98,10 +98,10 @@ The theology of the body is a incredible and revolutionary teaching developed by
 - [Theology of the Body - Crash course](https://ascensionpress.com/pages/tob-crash-course)
 
 ### Courses - We reccomend to watch at least one of these courses
+- [Sycamore](https://www.sycamore.fm/videos/). A series of films and discussions about the Christian faith made in the UK. It is a great way to learn about the basics of the Christian faith. **FREE**
 - [Catholicism series by Bishop Robert Barron](https://youtube.com/playlist?list=PLfHAaQBH7FelvkvlF_OExqvMXaHJ3HjTY&si=nUyO7p5quDpkAQ4a). This is a series of films and discussions about the Catholic faith. Bishop Barron is a US bishop and great speaker and funder of Word on Fire institute and website which has many other resources. **FREE** to watch on Youtube, while Word on Fire has a subscription service.
 - [The Search](https://www.thesearchbegins.org). A series of films and discussions about the Christian faith. It is a great way to learn about the basics of the Christian faith. **FREE**
 - [Wild Goose](https://wildgoose.tv/programs/collection-wlknyrzsacq?category_id=23145). This is **specifically** about the Holy Spirit, it is a perfect preparation and follow-up to the Sacrament of Confirmation. **FREE**
-- [Sycamore](https://www.sycamore.fm/). A series of films and discussions about the Christian faith made in the UK. It is a great way to learn about the basics of the Christian faith. **FREE**
 - [Alpha Course](https://youtube.com/playlist?list=PLgXlx7pDeVhQ1MUhydQojpBcUHTMPDHme&si=OJrqhUi7QoFK-Qs0). The most popular course for evangelisation. Used by many churches around the world, not only Catholics. It is normally done in groups, but you can watch it online. **FREE**
 - [The Chosen](https://watch.thechosen.tv). A fantastic series about the life of Jesus. It is a great way to get to know Jesus better and it is a great series to watch with your family. **FREE** to watch if you register.
 
