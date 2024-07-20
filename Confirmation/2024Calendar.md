@@ -1,7 +1,7 @@
 
-Go to the [previous page](./ResourcesforConfirmation.md) for the full list and links of resources and the booklet.
+Go to the [Resources page](./ResourcesforConfirmation.md) for the full list and links of resources and the booklet.
 
-**Reminder**: Choose a Saint, a Confirmation name, and a sponsor. A list of suggested saints is available in the booklet or in the [previous page](./ResourcesforConfirmation.md).
+**Reminder**: Choose a Saint, a Confirmation name, and a sponsor. A list of suggested saints is available in the booklet or in the [Resources page](./ResourcesforConfirmation.md).
 
 | Date                  | Time        | Session                                 | Homework after the session                                                                                                                                          |
 |-----------------------|-------------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
