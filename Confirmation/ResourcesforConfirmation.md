@@ -19,21 +19,26 @@ description: Preparation and continous formation
 - Remember, prayer is also simply staying silent in the presence of God, listening to Him. You can do this by going to Adoration, reading the Bible, or simply sitting in silence saying to God: "Here I am, what do you want to tell me?".
 
 
-### Videos about the Sacrament of Confirmation
-- [Confirmation · What you need to know](https://youtu.be/YdymHdMpDv4?si=25XISFrgSfnI_oB0)
-[Bishop Barron on Confirmation, Gifts of the Holy Spirit and Evangelisation](https://youtu.be/Ynj_nOxC-1Y?si=NgZ07o8fTuP8KNNF)
-- [Confirmation SketchPad](https://www.youtube.com/watch?v=Lu3MoT_egFI) -  [Other SketchPads about sacraments](https://www.youtube.com/playlist?list=PLBdBxtht3DgeyGzlo4lX3_YLicfaIoVu_)
-- [What happens at Confirmation?](https://www.youtube.com/watch?v=49tLYYagp2Q)
-- [Holy Oils In The Church · Why and How We Use Them](https://www.youtube.com/watch?v=A131j0yFcM0)
-- [From the Catechism of the Catholic Church. Summary about Confirmation](https://youtu.be/82nEFH6ZWfM?si=wvo34T7DjOl59Zho&t=86)
-
-### Other videos that can help you to grow in your faith
-- [All or Nothing: Sr Clare Crockett](https://www.youtube.com/watch?v=dL565Cwmg9o): The amazing conversion and life of Clare Crockett, a young talented girl from Northern Ireland born in 1982
-- [Nothing is impossible to God - The story of a vocation](https://youtu.be/kvgZbDLqs28?si=sCadhGsaOczIdQMN)
-- [Introduction to Lectio Divina](https://youtu.be/gKYEOc3ik9k?si=Mfk6hmiZP6jUUiq6)
-- [The Bible in 10 Minutes](https://www.youtube.com/watch?v=Jm3b4Q98Vx8)
+### Videos
 - [3 Minutes Catechism - Revise the basics of the Catholic faith](https://youtube.com/playlist?list=PLIcePO_eJb2_EElTdFm1PFLNkH17EQcV-&si=IsM9MwdePU2i7dmS)
-- [Prayer for Beginners](https://youtu.be/BO3YJHZVdxs?si=Wpj-_MuQYnp5upIT&t=30)
+- About the Sacrament of **Confirmation**
+  - [Confirmation · What you need to know](https://youtu.be/YdymHdMpDv4?si=25XISFrgSfnI_oB0)
+  - [Bishop Barron on Confirmation, Gifts of the Holy Spirit and Evangelisation](https://youtu.be/Ynj_nOxC-1Y?si=NgZ07o8fTuP8KNNF)
+  - [Confirmation SketchPad](https://www.youtube.com/watch?v=Lu3MoT_egFI) -  [Other SketchPads about sacraments](https://www.youtube.com/playlist?list=PLBdBxtht3DgeyGzlo4lX3_YLicfaIoVu_)
+  - [What happens at Confirmation?](https://www.youtube.com/watch?v=49tLYYagp2Q)
+  - [Holy Oils In The Church · Why and How We Use Them](https://www.youtube.com/watch?v=A131j0yFcM0)
+  - [From the Catechism of the Catholic Church. Summary about Confirmation](https://youtu.be/82nEFH6ZWfM?si=wvo34T7DjOl59Zho&t=86)
+- Inspiring **vocation** stories from two young people:
+  - [All or Nothing: Sr Clare Crockett](https://www.youtube.com/watch?v=dL565Cwmg9o): The amazing conversion and life of Clare Crockett, a young talented girl from Northern Ireland born in 1982
+  - [Nothing is impossible to God - The story of a vocation](https://youtu.be/kvgZbDLqs28?si=sCadhGsaOczIdQMN)
+- Prayer and Bible:
+  - [Introduction to Lectio Divina](https://youtu.be/gKYEOc3ik9k?si=Mfk6hmiZP6jUUiq6)
+  - [The Bible in 10 Minutes](https://www.youtube.com/watch?v=Jm3b4Q98Vx8)
+  - [Prayer for Beginners](https://youtu.be/BO3YJHZVdxs?si=Wpj-_MuQYnp5upIT&t=30)
+- About the **Eucharist**:
+  - [From the Catechism of the Catholic Church. Summary about the Eucharist](https://youtu.be/d3AttEMJfSA?si=WdXcSTj4JmUek8vv&t=85)
+  - [Do Catholics "eat" Jesus?](https://youtu.be/UQPTfyxZLKI?si=flX9lCovXnW3IysC)
+  - [Jonathan Roumie (Jesus in The Chosen) speaks about the Eucharist](https://www.youtube.com/watch?v=H7iZEOxAWoE&t=118s) 
 
 ### Books you could consider buying or asking for as a gift for your Confirmation
 - [The Gospels booklet](https://www.pilgrimgifts.co.uk/products/new-revised-standard-version-the-gospels-pocket-sized-edition-by-bible-society-uk): Pope Francis said that we should carry the Gospels with us all the time. This booklet is a pocket-sized edition of the Gospels.
