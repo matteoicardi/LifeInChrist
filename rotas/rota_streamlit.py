@@ -34,7 +34,7 @@ Role: Reader, EM, Steward
 Mass: Sat, Sun, Extra  (Extra are masses not on Sat or Sun)
 AvoidWeeks: 2, 4  (Weeks to avoid, -1 for last week of the month)
 AvoidDates: 01/01/2022-31/01/2022, 01/07/2022-31/07/2022  (Dates to avoid)
-With: Jane Doe, Mary Smith  (People to be scheduled with)
+With: Jane, Mary  (People to be scheduled with)
 NB: CAREFULLY FOLLOW THIS FORMAT, NOTICE THE SPACES AND COMMAS AND HYPHENS
 """
 
