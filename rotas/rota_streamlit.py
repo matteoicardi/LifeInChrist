@@ -245,6 +245,8 @@ def main():
     if st.button("Remove All Data Files"):
         # Confirm the action
         if st.button("Click here to confirm deletion of all data files"):
+            people_files = list_files(PEOPLE_FOLDER)
+            roles_files = list_files(ROLES_FOLDER)
             for file in people_files:
                 print(f"Removing {file}")
                 delete_file(file)
