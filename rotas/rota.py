@@ -13,6 +13,11 @@ if __name__ == "__main__":
         type=str,
         help="Date range for the rota in the format DD/MM/YYYY-DD/MM/YYYY",
     )
+    parser.add_argument(
+        "roles",
+        nargs='*',
+        help="Optional list of roles to include in the rota",
+    )
     args = parser.parse_args()
 
     # Parse the date range
@@ -33,9 +38,17 @@ if __name__ == "__main__":
 
     people = read_people(people_folder)
     roles = read_roles(roles_folder)
-    
+
+    # Filter roles if specified
+    if args.roles:
+        roles = [role for role in roles if role.name in args.roles]
+        
+    if not roles:
+        print("Error: No roles found. Check the roles folder or spell the roles correctly as argument of the function.")
+        exit
+
     # Generate the rota
-    rota,duty_count,duty = generate_rota(people, roles, weekends)
+    rota, duty_count, duty = generate_rota(people, roles, weekends)
 
     # Generate filename based on the date range
     output_filename = generate_filename(start_date, end_date)
@@ -49,4 +62,4 @@ if __name__ == "__main__":
     output_pdf_filename = output_filename.replace(".md", ".pdf")
     convert_md_to_pdf(output_filename, output_pdf_filename)
 
-    print(f"PDF successfully generated: {output_pdf_filename}")   
+    print(f"PDF successfully generated: {output_pdf_filename}")

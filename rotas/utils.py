@@ -1,4 +1,5 @@
 import subprocess
+import os
 
 def export_to_markdown(rota, output_file,date_range,duty_count,duty):
     """
@@ -67,3 +68,21 @@ def generate_filename(start_date, end_date):
     end_str = end_date.strftime("%Y-%m-%d")
     filename = f"output/rota_{start_str}_to_{end_str}.md"
     return filename
+
+def read_file(filepath):
+    """Read the content of a file."""
+    with open(filepath, "r") as file:
+        return file.read()
+
+def write_file(filepath, content):
+    """Write content to a file."""
+    with open(filepath, "w") as file:
+        file.write(content)
+
+def delete_file(filepath):
+    """Delete a file."""
+    os.remove(filepath)
+    
+    
+def list_files(folder):
+    return [f for f in os.listdir(folder) if f.endswith(".md") or f.endswith(".txt")]

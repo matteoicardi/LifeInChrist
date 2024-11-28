@@ -108,7 +108,7 @@ def read_people(folder_path):
     """Load all people from the folder."""
     people = []
     for filename in os.listdir(folder_path):
-        if filename.endswith(".md"):
+        if filename.endswith(".md") or filename.endswith(".txt"):
             filepath = os.path.join(folder_path, filename)
             person = parse_person_file(filepath)
             people.append(person)
@@ -119,8 +119,9 @@ def read_roles(folder_path):
     """Load all roles from the folder."""
     roles = []
     for filename in os.listdir(folder_path):
-        if filename.endswith(".md"):
+        if filename.endswith(".md") or filename.endswith(".txt"):
             filepath = os.path.join(folder_path, filename)
             role = parse_role_file(filepath)
             roles.append(role)
     return roles
+

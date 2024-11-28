@@ -1,5 +1,6 @@
 from datetime import timedelta
 import random
+from calendar import monthrange
 
 def generate_rota(people, roles, weekends):
     """
@@ -17,7 +18,8 @@ def generate_rota(people, roles, weekends):
     rota = []  # List to hold the schedule for each mass
     duty_count = {person.name: {role.name: 0 for role in roles} for person in people}  # Track the number of duties per person per role
     duty = {person.name: {role.name: [] for role in roles} for person in people}  # Track the dates of duties per person per role
-    random.seed(42)  # Seed the random number generator for reproducibility
+    # Seed the random number generator for reproducibility as the first date in weekends
+    random.seed(weekends[0][2].strftime("%Y%m%d"))
 
     weekend_people = []
     week_number0 = -1
@@ -121,6 +123,13 @@ def is_unavailable(person, mass_day, week_number, date):
     for start_date, end_date in person.avoid_dates:
         if start_date <= date <= end_date:
             return True
+    
+    # Check if the person is unavailable for the last week of the month
+    if -1 in person.avoid_weeks:
+        year, month = date.year, date.month
+        num_sundays = count_sundays(year, month)
+        if week_number == num_sundays:
+            return True
 
     return False
 
@@ -161,3 +170,11 @@ def compute_weekends(start_date, end_date):
         current_date += timedelta(days=7)
 
     return weekends
+
+def count_sundays(year, month):
+    """Count the number of Sundays in a given month."""
+    num_sundays = 0
+    for day in range(1, monthrange(year, month)[1] + 1):
+        if datetime(year, month, day).weekday() == 6:  # Sunday
+            num_sundays += 1
+    return num_sundays
