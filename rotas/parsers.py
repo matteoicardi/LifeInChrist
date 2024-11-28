@@ -141,7 +141,10 @@ def read_people(folder_path):
         if filename.endswith(".md") or filename.endswith(".txt"):
             print(f"Reading {filename}")
             filepath = os.path.join(folder_path, filename)
-            people.append(Person.read(filepath))
+            try:
+                people.append(Person.read(filepath))
+            except Exception as e:
+                print(f"Error reading {filename}: {e}")
     return people
 
 # read all roles using the class method
@@ -152,7 +155,10 @@ def read_roles(folder_path):
         if filename.endswith(".md") or filename.endswith(".txt"):
             print(f"Reading {filename}")
             filepath = os.path.join(folder_path, filename)
-            roles.append(Role.read(filepath))
+            try:
+                roles.append(Role.read(filepath))
+            except Exception as e:
+                print(f"Error reading {filename}: {e}")
     return roles
 
 # save all people using the class method
