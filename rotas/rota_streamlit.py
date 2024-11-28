@@ -125,8 +125,9 @@ def main():
         # Generate the rota
         rota, duty_count, duty = generate_rota(people, roles, weekends)
 
-        # Generate filename based on the date range
+        # Generate filename based on the date range and make it relative to the current directory
         output_filename = generate_filename(start_date, end_date)
+        output_filename = os.path.join(BASE_DIR, output_filename)
 
         # Export the rota to Markdown
         markdown_text = export_to_markdown(rota, date_range, duty_count, duty)
