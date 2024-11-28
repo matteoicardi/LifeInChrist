@@ -241,11 +241,13 @@ def main():
             st.error("Invalid data format.")
         st.rerun()
     
+    st.session_state["confirm_delete"] = False
+    
     # Remove all data files
     if st.button("Remove All Data Files"):
-        st.session_state.confirm_delete = True
+        st.session_state["confirm_delete"] = True
 
-    if st.session_state.confirm_delete:
+    if st.session_state["confirm_delete"]:
         st.warning("Type 'DELETE' to confirm deletion of all data files.")
         confirmation_text = st.text_input("Type 'DELETE' to confirm", "")
         if confirmation_text == "DELETE":
