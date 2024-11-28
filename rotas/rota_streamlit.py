@@ -111,9 +111,6 @@ def main():
             st.error("Invalid date range format. Use DD/MM/YYYY-DD/MM/YYYY.")
             return
 
-        # Compute weekends
-        weekends = compute_weekends(start_date, end_date)
-
         # Filter roles if specified
         if roles_list:
             roles = [role for role in roles if role.name in roles_list]
@@ -122,12 +119,21 @@ def main():
             st.error("No roles found. Check the roles folder or spell the roles correctly as argument of the function.")
             return
 
+        # Compute weekends
+        weekends = compute_weekends(start_date, end_date)
+        # Add special dates
+        weekends.extend(compute_special_dates(start_date, end_date, roles))
+        # order weekends by date
+        weekends.sort(key=lambda x: x[2])
+
+
         # Generate the rota
         rota, duty_count, duty = generate_rota(people, roles, weekends)
 
         # Generate filename based on the date range and make it relative to the current directory
-        output_filename = generate_filename(start_date, end_date)
-        output_filename = os.path.join(BASE_DIR, output_filename)
+        output_filename = os.path.join(BASE_DIR, generate_filename(start_date, end_date))
+        # create the clean filename using start and end dates with no folder path
+        st.session_state["filename"] = os.path.basename(output_filename)
 
         # Export the rota to Markdown
         markdown_text = export_to_markdown(rota, date_range, duty_count, duty)
@@ -166,15 +172,15 @@ def main():
     # Display download buttons if files are available
     if st.session_state.get("output_filename"):
         with open(st.session_state["output_filename"], "r") as file:
-            st.download_button("Download Markdown", file, file_name=st.session_state["output_filename"])
+            st.download_button("Download Markdown", file, file_name=st.session_state["filename"]+".md")
 
     if st.session_state.get("output_pdf_filename"):
         with open(st.session_state["output_pdf_filename"], "rb") as file:
-            st.download_button("Download PDF", file, file_name=st.session_state["output_pdf_filename"])
+            st.download_button("Download PDF", file, file_name=st.session_state["filename"]+".pdf")
     
     if st.session_state.get("output_html_filename"):
         with open(st.session_state["output_html_filename"], "r") as file:
-            st.download_button("Download HTML", file, file_name=st.session_state["output_html_filename"])
+            st.download_button("Download HTML", file, file_name=st.session_state["filename"]+".html")
 
     # Section to download and upload roles data
     st.header("Download/Upload Data")
@@ -201,6 +207,19 @@ def main():
             st.success("Roles data uploaded and files created.")
         else:
             st.error("Invalid data format.")
+        st.rerun()
+    
+    # Remove all data files
+    if st.button("Remove All Data Files"):
+        # Confirm the action
+        if not st.checkbox("Are you sure you want to remove all data files?"):
+            st.warning("Please confirm the action.")
+            return
+        for file in people_files:
+            delete_file(os.path.join(PEOPLE_FOLDER, file))
+        for file in roles_files:
+            delete_file(os.path.join(ROLES_FOLDER, file))
+        st.success("All data files removed.")
         st.rerun()
                 
         

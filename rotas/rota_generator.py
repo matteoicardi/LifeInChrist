@@ -36,6 +36,8 @@ def generate_rota(people, roles, weekends):
         for role in roles:
             # Determine the number of people required for this role at this mass
             required = getattr(role, f"{mass_day.lower()}_required", 0)
+            if (mass_day=="Extra"):
+                required = role.extra_dates[date]
 
             # Filter people who are available for this mass, this role, and this week
             available_people = [
@@ -57,6 +59,8 @@ def generate_rota(people, roles, weekends):
             while len(selected_people) < required:
                 if not available_people:
                     print(f"Warning: Not enough people available for {role.name} on {date} ({mass_day}), week {week_number}")
+                    # add placeholders for the missing people
+                    selected_people.extend([None] * (required - len(selected_people)))
                     break
                 # Count the minimum duty count for the available people
                 min_duty_count = min(duty_count[p.name][role.name] for p in available_people)
@@ -178,3 +182,25 @@ def count_sundays(year, month):
         if datetime(year, month, day).weekday() == 6:  # Sunday
             num_sundays += 1
     return num_sundays
+
+def compute_special_dates(start_date, end_date, roles):
+    """
+    Compute special dates based on the extra dates required by the roles.
+    
+    Parameters:
+        start_date (datetime): The start of the date range.
+        end_date (datetime): The end of the date range.
+        roles (list): List of Role objects.
+        
+    Returns:
+        list: List of (mass_day, week_number, mass_date) tuples for special dates.
+        mass_day is "Extra", week_number is 0
+    """
+    special_dates = []
+    for role in roles:
+        for date, num_people in role.extra_dates.items():
+            if start_date <= date <= end_date:
+                # avoid duplicates
+                if ("Extra", 0, date) not in special_dates:
+                    special_dates.append(("Extra", 0, date))
+    return special_dates

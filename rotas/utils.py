@@ -28,11 +28,20 @@ def export_to_markdown(rota, date_range, duty_count, duty):
         markdown_text.append(f"### {date}, Week {week_number}\n")
         
         # Write roles and their assignments
-        for role, assigned_people in entry["roles"].items():
+        for role, people in entry["roles"].items():
+            #list people names only for elements of assigned_people that are not None
+            assigned_people = [p for p in people if p is not None]
+            print(assigned_people)
             people_names = ", ".join([f"{p.name} {p.surname}" for p in assigned_people])
-            markdown_text.append(f"- **{role}:** {people_names if people_names else 'No assignment'}\n")
+            markdown_text.append(f"- **{role}:** {people_names if people_names else 'No assignment'}")
+            # Add the remaining Unassigned tasks
+            if len(assigned_people) < len(people):
+                unassigned = len(people) - len(assigned_people)
+                markdown_text.append(unassigned * ", Unassigned")
+            markdown_text.append("\n")
 
         markdown_text.append("\n")  # Separate masses
+    
     
     # Add a section for duties listing the number of duties each person has
     markdown_text.append(f"\n# List of duties {date_range}\n")
@@ -91,4 +100,4 @@ def delete_file(filepath):
     
     
 def list_files(folder):
-    return [f for f in os.listdir(folder) if f.endswith(".md") or f.endswith(".txt")]
+    return sorted([f for f in os.listdir(folder) if f.endswith(".md") or f.endswith(".txt")])
