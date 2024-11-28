@@ -243,18 +243,21 @@ def main():
     
     # Remove all data files
     if st.button("Remove All Data Files"):
-        # Confirm the action
-        if st.button("Click here to confirm deletion of all data files"):
-            people_files = list_files(PEOPLE_FOLDER)
-            roles_files = list_files(ROLES_FOLDER)
-            for file in people_files:
-                print(f"Removing {file}")
-                delete_file(file)
-            for file in roles_files:
-                print(f"Removing {file}")
-                delete_file(file)
-            st.success("All data files removed.")
-            st.rerun()
+        st.session_state.confirm_delete = True
+
+    if st.session_state.confirm_delete:
+        st.warning("Type 'DELETE' to confirm deletion of all data files.")
+        confirmation_text = st.text_input("Type 'DELETE' to confirm", "")
+        if confirmation_text == "DELETE":
+            if st.button("Confirm Deletion"):
+                for file in people_files:
+                    print(f"Removing {file}")
+                    delete_file(os.path.join(PEOPLE_FOLDER, file))
+                for file in roles_files:
+                    print(f"Removing {file}")
+                    delete_file(os.path.join(ROLES_FOLDER, file))
+                st.success("All data files removed.")
+                st.rerun()
                 
         
 if __name__ == "__main__":
