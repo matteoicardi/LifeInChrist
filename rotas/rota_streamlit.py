@@ -72,9 +72,12 @@ def main():
         if st.button("Save Person"):
             write_file(os.path.join(PEOPLE_FOLDER, selected_person_file), updated_person_content)
             st.success("Person file saved.")
+            # selected_person_file = None
+            st.rerun()
         if st.button("Delete Person"):
             delete_file(os.path.join(PEOPLE_FOLDER, selected_person_file))
             st.success("Person file deleted.")
+            # selected_person_file = None
             st.rerun()
 
     st.markdown("### Add New Person")
@@ -100,9 +103,12 @@ def main():
         if st.button("Save Role"):
             write_file(os.path.join(ROLES_FOLDER, selected_role_file), updated_role_content)
             st.success("Role file saved.")
+            # selected_role_file = None
+            st.rerun()
         if st.button("Delete Role"):
             delete_file(os.path.join(ROLES_FOLDER, selected_role_file))
             st.success("Role file deleted.")
+            # selected_role_file = None
             st.rerun()
 
     st.markdown("### Add New Role")
@@ -122,10 +128,6 @@ def main():
     # Input roles
     roles_input = st.text_input("Rota only for the following roles (comma-separated, optional)", "")
     
-    # Load people and roles
-    people = read_people(PEOPLE_FOLDER)
-    roles = read_roles(ROLES_FOLDER)
-
     # Add a button to generate the rota
     if st.button("Generate Rota"):
         if not date_range:
@@ -157,7 +159,10 @@ def main():
         weekends.extend(compute_special_dates(start_date, end_date, roles))
         # order weekends by date
         weekends.sort(key=lambda x: x[2])
-
+        
+        # Load people and roles
+        people = read_people(PEOPLE_FOLDER)
+        roles = read_roles(ROLES_FOLDER)
 
         # Generate the rota
         rota, duty_count, duty = generate_rota(people, roles, weekends)
@@ -217,14 +222,24 @@ def main():
     # Section to download and upload roles data
     st.header("Download/Upload Data")
     
-    # Download People Data
-    # people_binary = save_people_binary(people)
-    st.download_button("Download People Data", data=pickle.dumps(people), file_name="people.rota")
+    # Prepare People and Roles Data for Download
+    if st.button("Download data"):
+        people = read_people(PEOPLE_FOLDER)
+        people_binary = pickle.dumps(people)
+        st.session_state["people_binary"] = people_binary
 
-    # Download Roles Data
-    # roles_binary = save_roles_binary(roles)
-    st.download_button("Download Roles Data", data=pickle.dumps(roles), file_name="roles.rota")
-    
+        roles = read_roles(ROLES_FOLDER)
+        roles_binary = pickle.dumps(roles)
+        st.session_state["roles_binary"] = roles_binary
+
+    # Provide Download Link for People Data
+    if "people_binary" in st.session_state:
+        st.download_button("Download People Data", data=st.session_state["people_binary"], file_name="people.rota")
+
+    # Provide Download Link for Roles Data
+    if "roles_binary" in st.session_state:
+        st.download_button("Download Roles Data", data=st.session_state["roles_binary"], file_name="roles.rota")
+            
     # Upload People or Roles Data using pickle files saved above
     uploaded_file = st.file_uploader("Upload People or Roles Data", type=["rota"])
     if uploaded_file:
@@ -239,28 +254,20 @@ def main():
             st.success("Roles data uploaded and files created.")
         else:
             st.error("Invalid data format.")
+        # clean up the uploaded file
+        uploaded_file = None
         st.rerun()
-    
-    # Initialize session state for confirmation
-    if "confirm_delete" not in st.session_state:
-        st.session_state.confirm_delete = False
     
     # Remove all data files
     if st.button("Remove All Data Files"):
-        st.session_state.confirm_delete = True
-
-    if st.session_state.confirm_delete:
-        st.warning("Type 'DELETE' to confirm deletion of all data files.")
-        confirmation_text = st.text_input("Type 'DELETE' to confirm", "")
-        if confirmation_text == "DELETE":
-            for file in people_files:
-                print(f"Removing {file}")
-                delete_file(os.path.join(PEOPLE_FOLDER, file))
-            for file in roles_files:
-                print(f"Removing {file}")
-                delete_file(os.path.join(ROLES_FOLDER, file))
-            st.success("All data files removed.")
-            st.rerun()
+        for file in people_files:
+            print(f"Removing {file}")
+            delete_file(os.path.join(PEOPLE_FOLDER, file))
+        for file in roles_files:
+            print(f"Removing {file}")
+            delete_file(os.path.join(ROLES_FOLDER, file))
+        st.success("All data files removed.")
+        st.rerun()
                 
         
 if __name__ == "__main__":
