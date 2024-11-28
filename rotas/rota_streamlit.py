@@ -27,10 +27,28 @@ AvoidDates:
 With: 
 """
 
+new_person_example = """Name: John
+Surname: Doe
+Phone: 123456789
+Role: Reader, EM, Steward
+Mass: Sat, Sun, Extra  (Extra are masses not on Sat or Sun)
+AvoidWeeks: 2, 4  (Weeks to avoid, -1 for last week of the month)
+AvoidDates: 01/01/2022-31/01/2022, 01/07/2022-31/07/2022  (Dates to avoid)
+With: Jane Doe, Mary Smith  (People to be scheduled with)
+NB: CAREFULLY FOLLOW THIS FORMAT, NOTICE THE SPACES AND COMMAS AND HYPHENS
+"""
+
 new_role_template = """Role: 
 Sat: 
 Sun: 
 ExtraDates: 
+"""
+
+new_role_example = """Role: Reader
+Sat: 1 (Number of people required)
+Sun: 1 (Number of people required)
+ExtraDates: 01/01/2022 (2), 01/07/2022 (1) (Extra masses with number of people required)
+NB: THE SPELLING OF THE ROLE SHOULD MATCH THE ROLE IN THE PERSON FILES
 """
 
 
@@ -39,6 +57,11 @@ def main():
 
     # Section to manage people files
     st.header("Manage People")
+    
+    # show example of how to write a new person file
+    st.markdown("### New Person File Example")
+    st.code(new_person_example, language="text")
+    st.markdown("### Modify existing person file")
     people_files = list_files(PEOPLE_FOLDER)
     selected_person_file = st.selectbox("Select a person file to edit", people_files)
     if selected_person_file:
@@ -52,6 +75,7 @@ def main():
             st.success("Person file deleted.")
             st.rerun()
 
+    st.markdown("### Add New Person")
     new_person_name = st.text_input("New person file name (without extension)")
     new_person_content = st.text_area("New person file content", new_person_template)
     if st.button("Add New Person"):
@@ -62,6 +86,11 @@ def main():
 
     # Section to manage roles files
     st.header("Manage Roles")
+    
+    # show example of how to write a new role file
+    st.markdown("### New Role File Example")
+    st.code(new_role_example, language="text")
+    st.markdown("### Modify existing role file")
     roles_files = list_files(ROLES_FOLDER)
     selected_role_file = st.selectbox("Select a role file to edit", roles_files)
     if selected_role_file:
@@ -75,6 +104,7 @@ def main():
             st.success("Role file deleted.")
             st.rerun()
 
+    st.markdown("### Add New Role")
     new_role_name = st.text_input("New role file name (without extension)")
     new_role_content = st.text_area("New role file content", new_role_template)
     if st.button("Add New Role"):
@@ -88,7 +118,7 @@ def main():
     # Input date range
     date_range = st.text_input("Date range (DD/MM/YYYY-DD/MM/YYYY)", "")    
     # Input roles
-    roles_input = st.text_input("Roles (comma-separated, optional)", "")
+    roles_input = st.text_input("Rota only for the following roles (comma-separated, optional)", "")
     
     # Load people and roles
     people = read_people(PEOPLE_FOLDER)
