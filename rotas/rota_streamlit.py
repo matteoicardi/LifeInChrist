@@ -5,8 +5,14 @@ from utils import export_to_markdown, convert_md_to_pdf, generate_filename, read
 from datetime import datetime
 import os
 
-PEOPLE_FOLDER = "data/people"
-ROLES_FOLDER = "data/roles"
+# Define absolute paths for the data directories
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PEOPLE_FOLDER = os.path.join(BASE_DIR, "data/people")
+ROLES_FOLDER = os.path.join(BASE_DIR, "data/roles")
+
+# Ensure the directories exist
+os.makedirs(PEOPLE_FOLDER, exist_ok=True)
+os.makedirs(ROLES_FOLDER, exist_ok=True)
 
 new_person_template = """Name: 
 Surname: 
