@@ -251,15 +251,14 @@ def main():
         st.warning("Type 'DELETE' to confirm deletion of all data files.")
         confirmation_text = st.text_input("Type 'DELETE' to confirm", "")
         if confirmation_text == "DELETE":
-            if st.button("Confirm Deletion"):
-                for file in people_files:
-                    print(f"Removing {file}")
-                    delete_file(os.path.join(PEOPLE_FOLDER, file))
-                for file in roles_files:
-                    print(f"Removing {file}")
-                    delete_file(os.path.join(ROLES_FOLDER, file))
-                st.success("All data files removed.")
-                st.rerun()
+            for file in people_files:
+                print(f"Removing {file}")
+                delete_file(os.path.join(PEOPLE_FOLDER, file))
+            for file in roles_files:
+                print(f"Removing {file}")
+                delete_file(os.path.join(ROLES_FOLDER, file))
+            st.success("All data files removed.")
+            st.rerun()
                 
         
 if __name__ == "__main__":
