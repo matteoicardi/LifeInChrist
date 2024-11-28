@@ -54,6 +54,9 @@ NB: THE SPELLING OF THE ROLE SHOULD MATCH THE ROLE IN THE PERSON FILES
 
 def main():
     st.title("Parish Rota Generator")
+    
+    people_files = list_files(PEOPLE_FOLDER)
+    roles_files = list_files(ROLES_FOLDER)
 
     # Section to manage people files
     st.header("Manage People")
@@ -62,7 +65,6 @@ def main():
     st.markdown("### New Person File Example")
     st.code(new_person_example, language="text")
     st.markdown("### Modify existing person file")
-    people_files = list_files(PEOPLE_FOLDER)
     selected_person_file = st.selectbox("Select a person file to edit", people_files)
     if selected_person_file:
         person_content = read_file(os.path.join(PEOPLE_FOLDER, selected_person_file))
@@ -91,7 +93,6 @@ def main():
     st.markdown("### New Role File Example")
     st.code(new_role_example, language="text")
     st.markdown("### Modify existing role file")
-    roles_files = list_files(ROLES_FOLDER)
     selected_role_file = st.selectbox("Select a role file to edit", roles_files)
     if selected_role_file:
         role_content = read_file(os.path.join(ROLES_FOLDER, selected_role_file))
@@ -113,6 +114,7 @@ def main():
             st.success("New role file added.")
             st.rerun()
 
+    # Section to generate the rota
     st.header("Generate Rota")
 
     # Input date range
@@ -244,9 +246,11 @@ def main():
         # Confirm the action
         if st.button("Click here to confirm deletion of all data files"):
             for file in people_files:
-                delete_file(os.path.join(PEOPLE_FOLDER, file))
+                print(f"Removing {file}")
+                delete_file(file)
             for file in roles_files:
-                delete_file(os.path.join(ROLES_FOLDER, file))
+                print(f"Removing {file}")
+                delete_file(file)
             st.success("All data files removed.")
             st.rerun()
                 
