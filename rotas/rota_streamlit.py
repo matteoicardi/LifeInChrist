@@ -164,15 +164,15 @@ def main():
         st.session_state["output_html_filename"] = output_html_filename
         
     # Display download buttons if files are available
-    if "output_filename" in st.session_state:
+    if st.session_state.get("output_filename"):
         with open(st.session_state["output_filename"], "r") as file:
             st.download_button("Download Markdown", file, file_name=st.session_state["output_filename"])
 
-    if "output_pdf_filename" in st.session_state:
+    if st.session_state.get("output_pdf_filename"):
         with open(st.session_state["output_pdf_filename"], "rb") as file:
             st.download_button("Download PDF", file, file_name=st.session_state["output_pdf_filename"])
     
-    if "output_html_filename" in st.session_state:
+    if st.session_state.get("output_html_filename"):
         with open(st.session_state["output_html_filename"], "r") as file:
             st.download_button("Download HTML", file, file_name=st.session_state["output_html_filename"])
 
