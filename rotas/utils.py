@@ -1,49 +1,55 @@
 import subprocess
 import os
 
-def export_to_markdown(rota, output_file,date_range,duty_count,duty):
+def export_to_markdown(rota, date_range, duty_count, duty):
     """
-    Export the rota to a Markdown file.
+    Export the rota to a Markdown string.
 
     Parameters:
         rota (list): A list of mass schedules, each a dictionary with date, mass_day, and roles.
-        output_file (str): Path to the output Markdown file.
+        date_range (str): The date range for the rota.
+        duty_count (dict): A dictionary with person names and role name as keys, counting the number of duties.
+        duty (dict): A dictionary with person names and role name as keys, listing the dates of duties.
+
+    Returns:
+        str: The Markdown content as a string.
     """
-    with open(output_file, "w") as file:
-        # Write the title
-        file.write(f"# All Saints West Nottingham, Rota {date_range}\n\n")
+    markdown_text = []
 
-        # Iterate over the masses in the rota
-        for entry in rota:
-            mass_day = entry["mass_day"]
-            date = entry["date"].strftime("%A, %d %B %Y")  # Format date as "Day, DD Month YYYY"
-            week_number = entry["week_number"]
+    # Write the title
+    markdown_text.append(f"# Rota {date_range}\n")
 
-            file.write(f"### {date}, Week {week_number}\n")
-            
-            # Write roles and their assignments
-            for role, assigned_people in entry["roles"].items():
-                people_names = ", ".join([f"{p.name} {p.surname}" for p in assigned_people])
-                file.write(f"- **{role}:** {people_names if people_names else 'No assignment'}\n")
+    # Iterate over the masses in the rota
+    for entry in rota:
+        mass_day = entry["mass_day"]
+        date = entry["date"].strftime("%A, %d %B %Y")  # Format date as "Day, DD Month YYYY"
+        week_number = entry["week_number"]
 
-            file.write("\n")  # Separate masses
+        markdown_text.append(f"### {date}, Week {week_number}\n")
         
-        # Add a section for duties listing the number of duties each person has
-        file.write("## List of duties\n")
-        # duties is a dictionary with person names and role name as keys
-        for person in duty_count:
-            file.write(f"### {person}\n")
-            for role in duty_count[person]:
-                file.write(f"- {role}: {duty_count[person][role]} (")
-                for date in duty[person][role]:
-                    file.write(f" {date.strftime('%d %B %Y')},")
-                file.write(")\n")
-            file.write("\n")       
-            
+        # Write roles and their assignments
+        for role, assigned_people in entry["roles"].items():
+            people_names = ", ".join([f"{p.name} {p.surname}" for p in assigned_people])
+            markdown_text.append(f"- **{role}:** {people_names if people_names else 'No assignment'}\n")
 
-        # Add a footer
-        file.write("\n---\nGenerated automatically by MI's rota program .\n")
-        
+        markdown_text.append("\n")  # Separate masses
+    
+    # Add a section for duties listing the number of duties each person has
+    markdown_text.append(f"\n# List of duties {date_range}\n")
+    # duties is a dictionary with person names and role name as keys
+    for person in duty_count:
+        markdown_text.append(f"### {person}\n")
+        for role in duty_count[person]:
+            markdown_text.append(f"- {role}: {duty_count[person][role]} (")
+            for date in duty[person][role]:
+                markdown_text.append(f" {date.strftime('%d %B %Y')},")
+            markdown_text.append(")\n")
+        markdown_text.append("\n")       
+
+    # Add a footer
+    markdown_text.append("\n---\nGenerated automatically by MI's rota program.\n")
+
+    return "\n".join(markdown_text)
 
 def convert_md_to_pdf(input_md_file, output_pdf_file):
     # Command to convert Markdown to PDF using pandoc

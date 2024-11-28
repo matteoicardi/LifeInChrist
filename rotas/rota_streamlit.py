@@ -1,9 +1,12 @@
 import streamlit as st
-from parsers import read_people, read_roles
-from rota_generator import generate_rota, compute_weekends
-from utils import export_to_markdown, convert_md_to_pdf, generate_filename, read_file, write_file, delete_file, list_files
+import markdown
+# import pdfkit
 from datetime import datetime
 import os
+import pickle
+from parsers import *
+from rota_generator import *
+from utils import *
 
 # Define absolute paths for the data directories
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -80,13 +83,17 @@ def main():
             st.success("New role file added.")
             st.rerun()
 
-    # Input date range
     st.header("Generate Rota")
-    date_range = st.text_input("Date range (DD/MM/YYYY-DD/MM/YYYY)", "")
-    
+
+    # Input date range
+    date_range = st.text_input("Date range (DD/MM/YYYY-DD/MM/YYYY)", "")    
     # Input roles
     roles_input = st.text_input("Roles (comma-separated, optional)", "")
     
+    # Load people and roles
+    people = read_people(PEOPLE_FOLDER)
+    roles = read_roles(ROLES_FOLDER)
+
     # Add a button to generate the rota
     if st.button("Generate Rota"):
         if not date_range:
@@ -107,10 +114,6 @@ def main():
         # Compute weekends
         weekends = compute_weekends(start_date, end_date)
 
-        # Load people and roles
-        people = read_people(PEOPLE_FOLDER)
-        roles = read_roles(ROLES_FOLDER)
-
         # Filter roles if specified
         if roles_list:
             roles = [role for role in roles if role.name in roles_list]
@@ -126,19 +129,38 @@ def main():
         output_filename = generate_filename(start_date, end_date)
 
         # Export the rota to Markdown
-        export_to_markdown(rota, output_filename, date_range, duty_count, duty)
-
+        markdown_text = export_to_markdown(rota, date_range, duty_count, duty)
+        with open(output_filename, "w") as file:
+            file.write(markdown_text)
         st.success(f"Rota successfully exported to {output_filename}")
+        st.session_state["output_filename"] = output_filename
 
-        # Convert the generated Markdown file to PDF
+        # HTML
+        output_html_filename = output_filename.replace(".md", ".html")
+        try:
+            html_text = markdown.markdown(markdown_text)
+            with open(output_html_filename, "w") as file:
+                file.write(html_text)
+            st.session_state["output_html_filename"] = output_html_filename
+            st.success(f"HTML successfully generated: {output_html_filename}")
+        except Exception as e:
+            st.error(f"Error generating HTML: {e}")
+            st.session_state["output_html_filename"] = None
+            
+        # PDF
         output_pdf_filename = output_filename.replace(".md", ".pdf")
-        convert_md_to_pdf(output_filename, output_pdf_filename)
+        try:
+            # pdfkit.from_string(html_text, output_pdf_filename)
+            convert_md_to_pdf(output_filename, output_pdf_filename)
+            st.session_state["output_pdf_filename"] = output_pdf_filename
+            st.success(f"PDF successfully generated: {output_pdf_filename}")
+        except Exception as e:
+            st.error(f"Error generating PDF: {e}")
+            st.session_state["output_pdf_filename"] = None
 
-        st.success(f"PDF successfully generated: {output_pdf_filename}")
 
         # Store filenames in session state to keep download buttons visible
-        st.session_state["output_filename"] = output_filename
-        st.session_state["output_pdf_filename"] = output_pdf_filename
+        st.session_state["output_html_filename"] = output_html_filename
         
     # Display download buttons if files are available
     if "output_filename" in st.session_state:
@@ -148,8 +170,38 @@ def main():
     if "output_pdf_filename" in st.session_state:
         with open(st.session_state["output_pdf_filename"], "rb") as file:
             st.download_button("Download PDF", file, file_name=st.session_state["output_pdf_filename"])
+    
+    if "output_html_filename" in st.session_state:
+        with open(st.session_state["output_html_filename"], "r") as file:
+            st.download_button("Download HTML", file, file_name=st.session_state["output_html_filename"])
 
+    # Section to download and upload roles data
+    st.header("Download/Upload Data")
+    
+    # Download People Data
+    # people_binary = save_people_binary(people)
+    st.download_button("Download People Data", data=pickle.dumps(people), file_name="people.rota")
 
-
+    # Download Roles Data
+    # roles_binary = save_roles_binary(roles)
+    st.download_button("Download Roles Data", data=pickle.dumps(roles), file_name="roles.rota")
+    
+    # Upload People or Roles Data using pickle files saved above
+    uploaded_file = st.file_uploader("Upload People or Roles Data", type=["rota"])
+    if uploaded_file:
+        data = pickle.load(uploaded_file)
+        if isinstance(data[0], Person):
+            for person in data:
+                person.write(os.path.join(PEOPLE_FOLDER, f"{person.name}_{person.surname}.txt"))
+            st.success("People data uploaded and files created.")
+        elif isinstance(data[0], Role):
+            for role in data:
+                role.write(os.path.join(ROLES_FOLDER, f"{role.name}.txt"))
+            st.success("Roles data uploaded and files created.")
+        else:
+            st.error("Invalid data format.")
+        st.rerun()
+                
+        
 if __name__ == "__main__":
     main()
