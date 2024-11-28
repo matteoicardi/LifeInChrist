@@ -242,15 +242,13 @@ def main():
     # Remove all data files
     if st.button("Remove All Data Files"):
         # Confirm the action
-        if not st.checkbox("Are you sure you want to remove all data files?"):
-            st.warning("Please confirm the action.")
-            return
-        for file in people_files:
-            delete_file(os.path.join(PEOPLE_FOLDER, file))
-        for file in roles_files:
-            delete_file(os.path.join(ROLES_FOLDER, file))
-        st.success("All data files removed.")
-        st.rerun()
+        if st.button("Click here to confirm deletion of all data files"):
+            for file in people_files:
+                delete_file(os.path.join(PEOPLE_FOLDER, file))
+            for file in roles_files:
+                delete_file(os.path.join(ROLES_FOLDER, file))
+            st.success("All data files removed.")
+            st.rerun()
                 
         
 if __name__ == "__main__":
