@@ -2,10 +2,11 @@ import os
 from datetime import datetime
 
 class Person:
-    def __init__(self, name, surname, phone, roles, masses, avoid_weeks, avoid_dates, with_person):
+    def __init__(self, name, surname, phone, email, roles, masses, avoid_weeks, avoid_dates, with_person):
         self.name = name
         self.surname = surname
         self.phone = phone
+        self.email = email
         self.roles = roles
         self.masses = masses
         self.avoid_weeks = avoid_weeks
@@ -13,7 +14,7 @@ class Person:
         self.with_person = with_person
 
     def __repr__(self):
-        return f"Person({self.name} {self.surname}, Phone: {self.phone}, Roles: {self.roles}, Masses: {self.masses}), AvoidWeeks: {self.avoid_weeks}, AvoidDates: {self.avoid_dates}, With: {self.with_person})"
+        return f"Person({self.name} {self.surname}, Phone: {self.phone}, Email: {self.email}, Roles: {self.roles}, Masses: {self.masses}), AvoidWeeks: {self.avoid_weeks}, AvoidDates: {self.avoid_dates}, With: {self.with_person})"
     
     # write method to write the person object to a file
     def write(self, filepath):
@@ -21,6 +22,7 @@ class Person:
             file.write(f"Name: {self.name}\n")
             file.write(f"Surname: {self.surname}\n")
             file.write(f"Phone: {self.phone}\n")
+            file.write(f"E-mail: {self.email}\n")
             file.write(f"Role: {', '.join(self.roles)}\n")
             file.write(f"Mass: {', '.join(self.masses)}\n")
             file.write(f"AvoidWeeks: {', '.join(self.avoid_weeks)}\n")
@@ -51,6 +53,7 @@ class Person:
             name=data["Name"],
             surname=data["Surname"],
             phone=data["Phone"],
+            email=data["Email"],
             roles=data["Role"],
             masses=data["Mass"],
             avoid_weeks=data.get("AvoidWeeks", []),

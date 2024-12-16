@@ -112,29 +112,35 @@ def is_unavailable(person, mass_day, week_number, date):
         bool: True if the person is unavailable, False otherwise.
     """
     
-    # # Debug
-    # print(f"Checking availability for {person.name} {person.surname} on {date} ({mass_day}), week {week_number}")
+    # Debug
+    print(f"Checking availability for {person.name} {person.surname} on {date} ({mass_day}), week {week_number}")
     
     # Check AvoidWeeks
-    if week_number in person.avoid_weeks:
+    # avoid_weeks is a list of integers or of strings with the numbers of the weeks to avoid
+    if week_number in person.avoid_weeks or str(week_number) in person.avoid_weeks:
+        print(f"  {person.name} {person.surname} is unavailable for week {week_number}")
         return True
     
     # Check Masses
     if mass_day not in person.masses:
+        print(f"  {person.name} {person.surname} is unavailable for {mass_day}")
         return True
 
     # Check AvoidDates
     for start_date, end_date in person.avoid_dates:
         if start_date <= date <= end_date:
+            print(f"  {person.name} {person.surname} is unavailable between {start_date} and {end_date}")
             return True
     
     # Check if the person is unavailable for the last week of the month
-    if -1 in person.avoid_weeks:
+    if -1 in person.avoid_weeks or "-1" in person.avoid_weeks:
         year, month = date.year, date.month
         num_sundays = count_sundays(year, month)
         if week_number == num_sundays:
+            print(f"  {person.name} {person.surname} is unavailable for the last week of the month")
             return True
 
+    print("  Person is available")
     return False
 
 def compute_weekends(start_date, end_date):

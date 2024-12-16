@@ -128,6 +128,9 @@ def main():
     # Input roles
     roles_input = st.text_input("Rota only for the following roles (comma-separated, optional)", "")
     
+    # add a flag to add contacts to the markdown
+    add_contacts = st.checkbox("Add contacts to the generated rotas", value=False)
+    
     # Add a button to generate the rota
     if st.button("Generate Rota"):
         if not date_range:
@@ -145,9 +148,15 @@ def main():
             st.error("Invalid date range format. Use DD/MM/YYYY-DD/MM/YYYY.")
             return
 
+        # Load people and roles
+        people = read_people(PEOPLE_FOLDER)
+        roles = read_roles(ROLES_FOLDER)
+
         # Filter roles if specified
         if roles_list:
             roles = [role for role in roles if role.name in roles_list]
+        # filter people who are not available for any of the roles
+        people = [person for person in people if any(role.name in person.roles for role in roles)]
 
         if not roles:
             st.error("No roles found. Check the roles folder or spell the roles correctly as argument of the function.")
@@ -160,20 +169,31 @@ def main():
         # order weekends by date
         weekends.sort(key=lambda x: x[2])
         
-        # Load people and roles
-        people = read_people(PEOPLE_FOLDER)
-        roles = read_roles(ROLES_FOLDER)
-
+        # Debug
+        print("\nWeekends: ")
+        for weekend in weekends:
+            print(weekend)
+        print("\nPeople: ")
+        for person in people:
+            print(person)
+        print("\nRoles: ")
+        for role in roles:
+            print(role)
+        
         # Generate the rota
         rota, duty_count, duty = generate_rota(people, roles, weekends)
 
         # Generate filename based on the date range and make it relative to the current directory
         output_filename = os.path.join(BASE_DIR, generate_filename(start_date, end_date))
         # create the clean filename using start and end dates with no folder path
-        st.session_state["filename"] = os.path.basename(output_filename)
+        st.session_state["filename"] = os.path.basename(output_filename).replace(".md", "")
 
         # Export the rota to Markdown
         markdown_text = export_to_markdown(rota, date_range, duty_count, duty)
+        # add the export_people_to_markdown to markdown_text if a add_contacts is true
+        if add_contacts:
+            markdown_text += export_people_to_markdown(people, roles)
+        
         with open(output_filename, "w") as file:
             file.write(markdown_text)
         st.success(f"Rota successfully exported to {output_filename}")
@@ -217,7 +237,7 @@ def main():
     
     if st.session_state.get("output_html_filename"):
         with open(st.session_state["output_html_filename"], "r") as file:
-            st.download_button("Download HTML", file, file_name=st.session_state["filename"]+".html")
+            st.download_button("Download HTML", file, file_name=st.session_state["filename"]+".html")            
 
     # Section to download and upload roles data
     st.header("Download/Upload Data")

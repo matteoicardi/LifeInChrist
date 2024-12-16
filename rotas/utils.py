@@ -31,7 +31,6 @@ def export_to_markdown(rota, date_range, duty_count, duty):
         for role, people in entry["roles"].items():
             #list people names only for elements of assigned_people that are not None
             assigned_people = [p for p in people if p is not None]
-            print(assigned_people)
             people_names = ", ".join([f"{p.name} {p.surname}" for p in assigned_people])
             markdown_text.append(f"- **{role}:** {people_names if people_names else 'No assignment'}")
             # Add the remaining Unassigned tasks
@@ -42,6 +41,7 @@ def export_to_markdown(rota, date_range, duty_count, duty):
 
         markdown_text.append("\n")  # Separate masses
     
+    markdown_text.append("\n---\n")
     
     # Add a section for duties listing the number of duties each person has
     markdown_text.append(f"\n# List of duties {date_range}\n")
@@ -56,7 +56,7 @@ def export_to_markdown(rota, date_range, duty_count, duty):
         markdown_text.append("\n")       
 
     # Add a footer
-    markdown_text.append("\n---\nGenerated automatically by MI's rota program.\n")
+    markdown_text.append("\n---\n")
 
     return "\n".join(markdown_text)
 
@@ -101,3 +101,22 @@ def delete_file(filepath):
     
 def list_files(folder):
     return sorted([f for f in os.listdir(folder) if f.endswith(".md") or f.endswith(".txt")])
+
+def export_people_to_markdown(people,roles):
+    """Export the list of people if they are available for a role to a Markdown string."""
+    markdown_text = []
+    # Write the title
+    markdown_text.append(f"\n# List of ministers\n")
+    # Iterate over the roles
+    for role in roles:
+        markdown_text.append(f"## {role.name}\n")
+        # List the people available for the role
+        # each person gets a bullet point with their name and surname, phone number, and email
+        for person in people:
+            if role.name in person.roles:
+                print("DEBUG: ", person.name, person.surname, person.phone, person.email)
+                markdown_text.append(f"- {person.name} {person.surname}, {person.phone}, {person.email}")
+        markdown_text.append("\n")
+    markdown_text.append("\n---\n")
+
+    return "\n".join(markdown_text)
