@@ -17,3 +17,7 @@ Go to the [Resources page](./ResourcesforConfirmation.md) for the full list and 
 | Tue 15th Oct  | 6-7pm       | 8. Reconciliation               |  -[Confirmation SketchPad](https://www.youtube.com/watch?v=Lu3MoT_egFI): one final recap<br>- Read or [listen to the Pentecost story](https://youtu.be/LtoUrd0t1Rs?si=0HCL3jxnNYrA5QGz&t=118) (Acts 2)                                                                                 |
 | Tue 29th Oct  | 6-7pm       | 9. Rehearsal                    |  [Recite the "Veni Creator Spiritus" prayer](https://reginacaeliparish.org/documents/Veni%20Creator%20Spirtus.pdf) every day the week before Confirmation                   |
 | Fri 1st Nov   | 7pm         | CONFIRMATION MASS                        | The journey of Faith is not over! Keep exploring, asking questions, reading, and experiencing the Life in Christ                        |
+
+
+
+[Back to main page](../index.md)

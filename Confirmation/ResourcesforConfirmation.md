@@ -103,7 +103,7 @@ The theology of the body is a incredible and revolutionary teaching developed by
 - [Theology of the Body part I](https://youtu.be/cqrD-d_jiw8?si=lbFKvGjRyixg-Q_z)
 - [Theology of the Body - Crash course](https://ascensionpress.com/pages/tob-crash-course)
 
-### Courses - We reccomend to watch at least one of these courses
+### Courses and series to rediscover the Christian faith
 - [Sycamore](https://www.sycamore.fm/videos/). A series of films and discussions about the Christian faith made in the UK. It is a great way to learn about the basics of the Christian faith. **FREE**
 - [Catholicism series by Bishop Robert Barron](https://youtube.com/playlist?list=PLfHAaQBH7FelvkvlF_OExqvMXaHJ3HjTY&si=nUyO7p5quDpkAQ4a). This is a series of films and discussions about the Catholic faith. Bishop Barron is a US bishop and great speaker and funder of Word on Fire institute and website which has many other resources. **FREE** to watch on Youtube, while Word on Fire has a subscription service.
 - [The Search](https://www.thesearchbegins.org). A series of films and discussions about the Christian faith. It is a great way to learn about the basics of the Christian faith. **FREE**
@@ -111,10 +111,20 @@ The theology of the body is a incredible and revolutionary teaching developed by
 - [Alpha Course](https://youtube.com/playlist?list=PLgXlx7pDeVhQ1MUhydQojpBcUHTMPDHme&si=OJrqhUi7QoFK-Qs0). The most popular course for evangelisation. Used by many churches around the world, not only Catholics. It is normally done in groups, but you can watch it online. **FREE**
 - [The Chosen](https://watch.thechosen.tv). A fantastic series about the life of Jesus. It is a great way to get to know Jesus better and it is a great series to watch with your family. **FREE** to watch if you register.
 
-### Catholic Apps and streaming services
+### Catholic Apps
+- [Amen](https://amenapp.org) · A free simple Catholic prayer app with daily readings, prayers, and bedtime stories.
 - [Pray as you go](https://pray-as-you-go.org) · A daily prayer session, designed to go with you wherever you go, to help you pray whenever you find time.
-- [Hallow](https://hallow.com) · A Catholic meditation app
-- [Bible app](https://www.bible.com) · The Bible app by YouVersion
-- [Christian Art](https://www.christianart.org) · If you are an artist, you can find inspiration here
+- [Ascension App](https://ascensionpress.com/pages/ascension-app) · A Catholic app with many resources, including the Bible in a Year and the Catechism in a Year. Basic content is **FREE**. Premium content requires a subscription.
+- [Hallow](https://hallow.com) · A Catholic meditation app. Basic content is **FREE**. Premium content requires a subscription.
+- [Bible app](https://www.bible.com) · The Bible app by YouVersion. It has many versions of the Bible, reading plans, etc. **FREE**
+
+### Catholic TV and streaming services
+- [Catholic TV](https://www.catholictv.org) · A Catholic streaming service **FREE**
+- [Shalom TV](https://www.shalomworld.org) · A Catholic streaming service **FREE**
+- [Christian Art](https://www.christianart.org) · If you are an artist, you can find inspiration here, daily readings with art, etc. **FREE**
 - [Wild Goose TV](https://wildgoose.tv) · A Catholic streaming service **FREE**
 - [Formed](https://watch.formed.org). This is like Netflix for Catholics. It has movies, documentaries, series, audiobooks, etc.
+- [EWTN](https://www.ewtn.com) · The largest Catholic TV network in the world. It has many resources, including TV shows, documentaries, etc. **FREE**
+
+
+[Back to main page](../index.md)
