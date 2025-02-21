@@ -14,7 +14,7 @@ description: Catholic festivals and groups in the UK
 - [Fanning the Flame](https://www.fanningtheflame.co.uk) - Summer camp for 12+
 - [Faith Movement](http://www.faith.org.uk/) - A Catholic movement that organises a summer camp for 11-18 year olds
 - [Jesus Youth Teens](https://www.jesusyouth.co.uk/teens-ministry.html) - A Catholic youth movement that organises retreats and prayer festivals for young people
-- [Generation Hope - Mary's Meals](https://www.gen-hope.org/) - Glasgow-based youth movement that supports Mary's Meals
+- [Generation Hope - Mary's Meals](https://www.gen-hope.org/) - Glasgow-based movement that organises retreats for Scottish catholic secondary schools (12-15)
 
 # Families
 - [Celebrate](http://www.celebrateconference.org/) - A Catholic family conference that takes place in the UK
