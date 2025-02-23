@@ -22,6 +22,8 @@ description: Catholic festivals and groups in the UK
 - [We believe](https://www.webelievefestival.com) - A Catholic festival supported by the Guild of Our Lady of Ransom, aimed at families
 - [New Dawn](https://princeofpeace.org.uk) - Weekend residential retreats for families organised by the Community of Christ Prince of Peace
 
+# Diocesan youth services
+- [Kenelm Youth Trust](https://www.kenelmyouthtrust.org.uk) - Summer Camps (11-18), pilgrimages, retreats and events for young people, based in the Archdiocese of Birmingham but open to all
 
 # Marriage
 - [Teams of Our Lady](https://www.teamsgb.org.uk/) - A Catholic movement for married couples
