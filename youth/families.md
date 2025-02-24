@@ -24,6 +24,7 @@ description: Catholic festivals and groups in the UK
 
 # Diocesan youth services
 - [Kenelm Youth Trust](https://www.kenelmyouthtrust.org.uk) - Summer Camps (11-18), pilgrimages, retreats and events for young people, based in the Archdiocese of Birmingham but open to all
+- [Notts Diocesan Youth Service](https://www.ndcys.com) - Events, retreats and resources for young people in the Diocese of Nottingham. The retreat centre at The Briars is open to all, and is hosting a [Youth2000 Lent retreat for 16-35 year olds on March 22, 2025](https://www.youth2000.org/events/nottingham2025)
 
 # Marriage
 - [Teams of Our Lady](https://www.teamsgb.org.uk/) - A Catholic movement for married couples
