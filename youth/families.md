@@ -7,6 +7,7 @@ description: Catholic festivals and groups in the UK
 - [Youth 2000](http://www.youth2000.org/) - A Catholic youth organisation that organises retreats and prayer festivals for young people. Summer festival is open to a limited number of families
 - [Jesus Youth](https://www.jesusyouth.co.uk) - A Catholic youth movement that organises retreats and prayer festivals for young people
 - [Flame](https://www.cbcew.org.uk/flame-2025/) - A Catholic youth event that takes place every two years in the UK
+- [Joel's Bar](https://www.joelsbar.com) - A Catholic youth (18-28) residential retreat, stemming from the Celebrate movement
 
 
 # Teens
