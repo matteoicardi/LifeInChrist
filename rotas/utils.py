@@ -34,7 +34,7 @@ def export_to_markdown(rota, date_range, duty_count, duty):
             first_row = False
 
         # Optional: Add a thick line between dates (looks clearer in long rotas)
-        markdown_text.append("|---|---|---|")
+        markdown_text.append("|------|------|----------|")
 
     markdown_text.append("\n---\n")
 

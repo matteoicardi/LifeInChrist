@@ -36,8 +36,12 @@ def generate_rota(people, roles, weekends):
         for role in roles:
             # Determine the number of people required for this role at this mass
             required = getattr(role, f"{mass_day.lower()}_required", 0)
-            if (mass_day=="Extra"):
-                required = role.extra_dates[date]
+            if mass_day == "Extra":
+                if date in role.extra_dates:
+                    required = role.extra_dates[date]
+                else:
+                    print(f"Warning: Date {date} not found in extra_dates for role {role.name}")
+                    required = 0
 
             # Filter people who are available for this mass, this role, and this week
             available_people = [
