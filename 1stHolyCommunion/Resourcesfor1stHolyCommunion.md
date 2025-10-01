@@ -39,7 +39,7 @@ This page contains resources for parents and children preparing for First Holy C
 
 ---
 
-## Bible and Catechisms Resources for Parents
+## Bible and Catechism
 - [The Bible in 10 minutes - Fr Mike Schmitz](https://www.youtube.com/watch?v=Jm3b4Q98Vx8)- A summary of the Bible in 10 minutes.
 - [3 minutes Catechism](https://www.youtube.com/playlist?list=PLIcePO_eJb2_EElTdFm1PFLNkH17EQcV-) - A series of short videos explaining the Catholic faith.
 - [Compendium of the Catechism of the Catholic Church](https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html) - A summary of the Catechism of the Catholic Church where you can look up any topic you want to know more about with simple questions and answers.
@@ -66,7 +66,7 @@ This page contains resources for parents and children preparing for First Holy C
 
 ---
 
-## The Sacrament of Reconciliation (Confession)
+## The Reconciliation (Confession)
 
 ### Videos for parents
 
