@@ -10,6 +10,13 @@ This page contains resources for parents and children preparing for First Holy C
 
 ## Programme 2025–2026
 
+Here you will find the detailed calendar and plan for the 2025-2026 First Holy Communion and First Reconciliation programme.
+
+- [Programme Calendar 2025-2026](./FHC-2025-2026.pdf)
+- [Detailed Programme Plan](./programme_plan.md)
+
+### Schedule Overview
+
 | Date                        | Activity                               | Notes                                        |
 |----------------------------|----------------------------------------|----------------------------------------------|
 | Thursday 2nd October 2025  | Parents Session                        | St Teresa’s Church 6pm                        |
