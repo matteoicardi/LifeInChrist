@@ -38,4 +38,5 @@ description: Catholic festivals and groups in the UK
 ![Saint John Paul II](gp2.png)
 
 
-[Back to main page](../index.md)
+---
+[Back to Main Page](../index.md)

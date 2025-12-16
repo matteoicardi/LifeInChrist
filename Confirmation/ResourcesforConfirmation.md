@@ -127,4 +127,5 @@ The theology of the body is a incredible and revolutionary teaching developed by
 - [EWTN](https://www.ewtn.com) · The largest Catholic TV network in the world. It has many resources, including TV shows, documentaries, etc. **FREE**
 
 
-[Back to main page](../index.md)
+---
+[Back to Main Page](../index.md)

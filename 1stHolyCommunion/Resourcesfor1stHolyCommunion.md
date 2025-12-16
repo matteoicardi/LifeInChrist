@@ -86,4 +86,5 @@ The formation for parents is based on the 5-part *Kerygma* proclamation model fr
 
 ---
 
-[Back to main page](../index.md)
+---
+[Back to Main Page](../index.md)
