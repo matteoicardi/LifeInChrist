@@ -12,10 +12,11 @@ This page contains resources for parents and children preparing for First Holy C
 
 Here you will find the detailed calendar and plan for the 2025-2026 First Holy Communion and First Reconciliation programme.
 
-The formation for parents is based on the 5-part *Kerygma* proclamation model developed by Dr. Edward Sri, designed to create a powerful encounter with the core message of the Gospel.
+The formation for parents is based on the 5-part *Kerygma* proclamation model from the book "What Do You Seek?" by Dr. Edward Sri, designed to create a powerful encounter with the core message of the Gospel.
 
 - [Programme Calendar 2025-2026](./FHC-2025-2026.pdf)
 - [Parents' Session Plan](./parents_sessions.md)
+- [Full Children's Programme Booklet](./FHC_Children_Booklet_2025-2026.pdf)
 
 ### Schedule Overview
 
