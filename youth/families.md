@@ -16,7 +16,6 @@ description: Catholic festivals and groups in the UK
 - **3–7 Aug 2026 (Manchester, UK)** - [New Dawn Summer Conference](https://princeofpeace.org.uk/events-ministries/) - Catholic charismatic family conference (streams for adults, children and teens)
 - **15–19 Aug 2026 (Worth School, West Sussex, UK)** - [Celebrate Festival](https://www.celebratefestival.org/) - Catholic charismatic family festival (Mass, sacraments, worship, teaching, and children/youth programme)
 - **28–31 Aug 2026 (Warwick University, UK)** - [Jesus Youth UK Silver Jubilee](https://www.jesusyouth.co.uk/jubilee) - Catholic jubilee gathering for young people (worship, talks, prayer and community)
-- **Late August 2026 (UK, dates TBC)** - [Youth 2000 Summer Festival (UK)](http://www.youth2000.org/) - Catholic prayer festival (Mass, confession, adoration, talks and worship); typically around the UK Summer Bank Holiday weekend (28–31 Aug 2026), but 2026 UK dates not published
 
 ### Music festivals (UK / Ireland / Scotland)
 - **23–26 Jul 2026 (Wiston Estate, West Sussex, UK)** - [Wildfires Festival](https://wildfiresfestival.com/wildfires/) - *Ecumenical Christian (non-Catholic)* worship & teaching festival with kids and youth programme
@@ -25,7 +24,7 @@ description: Catholic festivals and groups in the UK
 ### Summer camps (UK / Ireland / Scotland)
 - **26 Jul–1 Aug 2026 (Cromer, Norfolk, UK)** - [WEC Camps (Week A)](https://www.weccamps.org/) - *Evangelical / inter-church (non-Catholic)* youth tent camps with Bible teaching, worship, sports and beach time
 - **2–8 Aug 2026 (Cromer, Norfolk, UK)** - [WEC Camps (Week B)](https://www.weccamps.org/) - *Evangelical / inter-church (non-Catholic)* youth tent camps with Bible teaching, worship, sports and beach time
-- **Mid-August 2026 (UK, dates TBC)** - [Faith Movement - Summer Break (11–15)](https://www.faith.org.uk/events/faith-summer-break-2025) - Catholic holiday/formation days for younger teens; 2026 dates not yet published (2025 ran 11–14 Aug)
+- *10-12 August 2026 (Ascott, UK)** - [Faith Movement - Summer Break (11–15)](https://www.faith.org.uk/events/faith-summer-break-2026) - Catholic holiday/formation days for younger teens
 - **August 2026 (UK, dates TBC)** - [Fanning the Flame](https://www.fanningtheflame.co.uk) - Catholic youth summer camp (praise & worship, Mass, adoration/confession, talks, games); 2026 dates not yet published
 
 ### European events
