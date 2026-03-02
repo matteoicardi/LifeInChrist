@@ -4,6 +4,23 @@ description: Preparation and youth group sessions
 ---
 
 # Preparation for the Sacrament of the Eucharist and Reconciliation
+
+<div style="background: #eef8f4; border-left: 6px solid #1f6f5d; padding: 20px; margin-bottom: 30px;">
+  <h2 style="margin-top: 0;">End of Programme: Continue the Encounter</h2>
+  <p style="font-size: 1.1em; margin-bottom: 12px;">Before you leave, please complete these two short forms (2-3 minutes total):</p>
+  <p style="margin-top: 0; margin-bottom: 16px;"><strong>Saturday Adoration:</strong> every Saturday. Come for 10 minutes or an hour.</p>
+  <ul style="list-style: none; padding-left: 0;">
+    <li style="margin-bottom: 15px;">
+      <a href="./parents-feedback.html" style="background-color: #2e6da8; color: white; padding: 12px 25px; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: bold; font-size: 1.05em;">1. Parents' Journey Feedback</a>
+      <br><small>Share what helped you encounter Jesus and what to improve next year.</small>
+    </li>
+    <li>
+      <a href="./next-steps.html" style="background-color: #1f6f5d; color: white; padding: 12px 25px; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: bold; font-size: 1.05em;">2. Keep Walking with Jesus: Next Steps Form</a>
+      <br><small>Tell us which follow-on groups, support, and formation paths you would join.</small>
+    </li>
+  </ul>
+</div>
+
 This page contains resources for parents and children preparing for First Holy Communion (the Eucharist) and First Reconciliation (Confession).
 
 ---
@@ -17,7 +34,6 @@ The formation for parents is based on the 5-part *Kerygma* proclamation model fr
 - [Programme Calendar 2025-2026](./FHC-2025-2026.pdf)
 - [Parents' Session Plan](./parents_sessions.md)
 - [Full Children's Programme Booklet](./FHC_Children_Booklet_2025-2026.pdf)
-- [Next Steps: Interest & Feedback Form](./next-steps.html)
 
 ### Schedule Overview
 

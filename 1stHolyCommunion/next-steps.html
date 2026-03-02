@@ -3,138 +3,321 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Next Steps - All Saints Parish</title>
+    <title>Keep Walking with Jesus - All Saints Parish</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 20px auto; padding: 20px; background-color: #f9f9f9; }
-        h1, h2 { color: #2c3e50; }
-        .description { margin-bottom: 30px; background: #fff; padding: 15px; border-left: 5px solid #3498db; border-radius: 4px; }
-        form { background: #fff; padding: 25px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-        .section { margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #eee; }
-        .section:last-of-type { border-bottom: none; }
-        label { display: block; margin-bottom: 8px; font-weight: bold; }
-        input[type="text"], input[type="email"], input[type="tel"], textarea, select { width: 100%; padding: 10px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
-        .checkbox-group, .radio-group { margin-bottom: 15px; }
-        .checkbox-group label, .radio-group label { font-weight: normal; display: inline-block; margin-left: 5px; margin-bottom: 5px; }
-        input[type="checkbox"], input[type="radio"] { margin-top: 5px; }
-        button { background-color: #3498db; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; width: 100%; }
-        button:hover { background-color: #2980b9; }
-        .footer { margin-top: 20px; text-align: center; font-size: 0.9em; color: #7f8c8d; }
+        :root {
+            --bg: #f6f4ee;
+            --surface: #ffffff;
+            --ink: #1f2a2a;
+            --muted: #5f6b68;
+            --brand: #1f6f5d;
+            --brand-2: #b8842f;
+            --line: #d8dedb;
+        }
+
+        * { box-sizing: border-box; }
+
+        body {
+            margin: 0;
+            font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+            color: var(--ink);
+            background:
+                radial-gradient(circle at 90% 10%, #e4f0ec 0, transparent 30%),
+                radial-gradient(circle at 10% 90%, #f1e8d8 0, transparent 30%),
+                var(--bg);
+            line-height: 1.55;
+        }
+
+        .wrap {
+            max-width: 760px;
+            margin: 24px auto;
+            padding: 0 16px 32px;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #1f6f5d, #2f8f74);
+            color: #fff;
+            border-radius: 14px;
+            padding: 20px;
+            box-shadow: 0 10px 22px rgba(0, 0, 0, 0.12);
+        }
+
+        .hero h1 {
+            margin: 0 0 8px;
+            font-size: 1.7rem;
+        }
+
+        .hero p { margin: 0; }
+
+        .pill-row {
+            margin-top: 12px;
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .pill {
+            font-size: 0.88rem;
+            background: rgba(255, 255, 255, 0.17);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 999px;
+            padding: 5px 10px;
+        }
+
+        form {
+            margin-top: 16px;
+            background: var(--surface);
+            border: 1px solid var(--line);
+            border-radius: 14px;
+            padding: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+        }
+
+        fieldset {
+            border: 1px solid var(--line);
+            border-radius: 10px;
+            padding: 14px;
+            margin: 0 0 14px;
+        }
+
+        legend {
+            font-weight: 700;
+            color: var(--brand);
+            padding: 0 6px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 6px;
+            font-weight: 600;
+        }
+
+        .hint {
+            margin: 0 0 10px;
+            color: var(--muted);
+            font-size: 0.92rem;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        textarea,
+        select {
+            width: 100%;
+            padding: 10px 11px;
+            border: 1px solid #bac6c2;
+            border-radius: 8px;
+            margin-bottom: 12px;
+            font: inherit;
+            background: #fff;
+        }
+
+        textarea { min-height: 86px; resize: vertical; }
+
+        .options {
+            display: grid;
+            gap: 8px;
+            margin-bottom: 10px;
+        }
+
+        .option {
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+            font-weight: 500;
+        }
+
+        .option input { margin-top: 3px; }
+
+        .row {
+            display: grid;
+            gap: 10px;
+            grid-template-columns: 1fr;
+        }
+
+        .error {
+            color: #a52323;
+            background: #fdecec;
+            border: 1px solid #f1c1c1;
+            border-radius: 8px;
+            padding: 8px 10px;
+            margin: 8px 0 0;
+            display: none;
+        }
+
+        button {
+            width: 100%;
+            border: none;
+            border-radius: 10px;
+            background: linear-gradient(135deg, var(--brand), #2d8b72);
+            color: #fff;
+            font-size: 1rem;
+            font-weight: 700;
+            padding: 12px 14px;
+            cursor: pointer;
+        }
+
+        button:hover { filter: brightness(0.96); }
+
+        .fine {
+            margin-top: 12px;
+            color: var(--muted);
+            font-size: 0.88rem;
+            text-align: center;
+        }
+
+        .adoration {
+            border-left: 4px solid var(--brand-2);
+            background: #fdf8ef;
+            padding: 10px 12px;
+            border-radius: 8px;
+            margin: 0 0 12px;
+        }
+
+        @media (min-width: 640px) {
+            .row { grid-template-columns: 1fr 1fr; }
+        }
     </style>
 </head>
 <body>
-
-    <h1>Next Steps & Feedback</h1>
-    
-    <div class="description">
-        <p>Thank you for walking this First Holy Communion journey with us.</p>
-        <p>If you’d like to keep going after the programme ends, we’re starting a few small groups and initiatives in the parish. This form takes about <strong>2 minutes</strong> and helps us follow up well.</p>
-        <p><strong>Saturday Adoration:</strong> Every Saturday (come for 10 minutes or an hour — come as you are).</p>
-    </div>
-
-    <form action="https://formspree.io/f/xlgwylkk" method="POST">
-        
-        <!-- Section 1: Contact -->
-        <div class="section">
-            <h2>1. Contact Details</h2>
-            <label for="name">Full Name *</label>
-            <input type="text" id="name" name="name" required placeholder="Enter your full name">
-
-            <label for="email">Email Address *</label>
-            <input type="email" id="email" name="_replyto" required placeholder="yourname@example.com">
-
-            <label for="phone">Phone (optional)</label>
-            <input type="tel" id="phone" name="phone" placeholder="Enter your phone number">
-        </div>
-
-        <!-- Section 2: Interests -->
-        <div class="section">
-            <h2>2. I’m interested in...</h2>
-            <p style="font-size: 0.9em; color: #666; margin-top: -10px;">Select all that apply</p>
-            <div class="checkbox-group">
-                <input type="checkbox" name="interest" value="intercessory-prayer"> <label>Intercessory prayer group</label><br>
-                <input type="checkbox" name="interest" value="parents-fellowship"> <label>Parents’ group / fellowship</label><br>
-                <input type="checkbox" name="interest" value="faith-discovery"> <label>Faith discovery group</label><br>
-                <input type="checkbox" name="interest" value="mens-group"> <label>Men’s group</label><br>
-                <input type="checkbox" name="interest" value="running-walking"> <label>Running / walking group</label><br>
-                <input type="checkbox" name="interest" value="online-zoom"> <label>Online group (Zoom)</label><br>
-                <input type="checkbox" name="interest" value="inner-healing"> <label>Inner healing & transformation</label><br>
-                <input type="checkbox" name="interest" value="youth-group"> <label>Youth group(s) for children after FHC</label><br>
-                <input type="checkbox" name="interest" value="volunteering"> <label>Serving / volunteering in the parish</label><br>
-                <input type="checkbox" name="interest" value="other"> <label>Other:</label>
-                <input type="text" name="interest-other" placeholder="Please specify">
+    <div class="wrap">
+        <section class="hero">
+            <h1>Keep Walking with Jesus</h1>
+            <p>Thank you for walking the First Holy Communion journey with us. Help us build what comes next.</p>
+            <div class="pill-row">
+                <span class="pill">2-minute form</span>
+                <span class="pill">Name + email required</span>
+                <span class="pill">Small groups and support</span>
             </div>
-        </div>
+        </section>
 
-        <!-- Section 3: Practicalities -->
-        <div class="section">
-            <h2>3. Practicalities</h2>
-            <label>Preferred format *</label>
-            <div class="radio-group">
-                <input type="radio" name="format" value="in-person" required> <label>In-person</label><br>
-                <input type="radio" name="format" value="online"> <label>Online</label><br>
-                <input type="radio" name="format" value="either"> <label>Either</label>
+        <form id="next-steps-form" action="https://formspree.io/f/xlgwylkk" method="POST" novalidate>
+            <div class="adoration">
+                <strong>Saturday Adoration:</strong> every Saturday. Come for 10 minutes or an hour.
             </div>
 
-            <label>Best times *</label>
-            <div class="checkbox-group">
-                <input type="checkbox" name="best-time" value="weekday-evening"> <label>Weekday evening</label><br>
-                <input type="checkbox" name="best-time" value="weekend-morning"> <label>Weekend morning</label><br>
-                <input type="checkbox" name="best-time" value="weekend-afternoon"> <label>Weekend afternoon</label>
-            </div>
+            <fieldset>
+                <legend>1) Contact details</legend>
+                <div class="row">
+                    <div>
+                        <label for="name">Full name *</label>
+                        <input type="text" id="name" name="name" required autocomplete="name" placeholder="Your full name">
+                    </div>
+                    <div>
+                        <label for="email">Email *</label>
+                        <input type="email" id="email" name="_replyto" required autocomplete="email" placeholder="yourname@example.com">
+                    </div>
+                </div>
+                <label for="phone">Phone (optional)</label>
+                <input type="tel" id="phone" name="phone" autocomplete="tel" placeholder="Mobile or WhatsApp (optional)">
+            </fieldset>
 
-            <label>Would you be willing to help organise/host? *</label>
-            <div class="radio-group">
-                <input type="radio" name="help-organise" value="yes" required> <label>Yes</label><br>
-                <input type="radio" name="help-organise" value="maybe"> <label>Maybe</label><br>
-                <input type="radio" name="help-organise" value="not-now"> <label>Not right now</label>
-            </div>
-        </div>
+            <fieldset>
+                <legend>2) I am interested in...</legend>
+                <p class="hint">Select at least one.</p>
+                <div class="options" id="interest-options">
+                    <label class="option"><input type="checkbox" name="interest" value="intercessory-prayer"> Intercessory prayer group</label>
+                    <label class="option"><input type="checkbox" name="interest" value="parents-fellowship"> Parents' group / fellowship</label>
+                    <label class="option"><input type="checkbox" name="interest" value="faith-discovery"> Faith discovery group (exploring or returning)</label>
+                    <label class="option"><input type="checkbox" name="interest" value="mens-group"> Men's group</label>
+                    <label class="option"><input type="checkbox" name="interest" value="running-walking"> Running / walking group</label>
+                    <label class="option"><input type="checkbox" name="interest" value="online-group"> Online group</label>
+                    <label class="option"><input type="checkbox" name="interest" value="inner-healing"> Inner healing and transformation</label>
+                    <label class="option"><input type="checkbox" name="interest" value="youth-after-fhc"> Youth support after First Holy Communion</label>
+                    <label class="option"><input type="checkbox" name="interest" value="music-choir"> Music / choir</label>
+                    <label class="option"><input type="checkbox" name="interest" value="serving-volunteering"> Serving / volunteering</label>
+                </div>
+                <label for="interest-other">Other (optional)</label>
+                <input type="text" id="interest-other" name="interest-other" placeholder="Tell us what you would like to start or join">
+                <p id="interest-error" class="error">Please select at least one interest.</p>
+            </fieldset>
 
-        <!-- Section 4: Adoration -->
-        <div class="section">
-            <h2>4. Adoration</h2>
-            <label>Would you like reminders for Saturday Adoration?</label>
-            <div class="radio-group">
-                <input type="radio" name="adoration-reminders" value="yes"> <label>Yes</label><br>
-                <input type="radio" name="adoration-reminders" value="no"> <label>No</label>
-            </div>
-        </div>
+            <fieldset>
+                <legend>3) Practicalities</legend>
+                <label for="format">Preferred format *</label>
+                <select id="format" name="format" required>
+                    <option value="">Please choose...</option>
+                    <option value="in-person">In person</option>
+                    <option value="online">Online</option>
+                    <option value="either">Either</option>
+                </select>
 
-        <!-- Section 5: Feedback -->
-        <div class="section">
-            <h2>5. Feedback</h2>
-            <label for="helpful">What was most helpful about the parents’ programme?</label>
-            <textarea id="helpful" name="feedback-helpful" rows="3"></textarea>
+                <p class="hint">Best times (select at least one):</p>
+                <div class="options" id="time-options">
+                    <label class="option"><input type="checkbox" name="best-time" value="weekday-evening"> Weekday evening</label>
+                    <label class="option"><input type="checkbox" name="best-time" value="weekend-morning"> Weekend morning</label>
+                    <label class="option"><input type="checkbox" name="best-time" value="weekend-afternoon"> Weekend afternoon</label>
+                </div>
+                <p id="time-error" class="error">Please select at least one preferred time.</p>
 
-            <label for="more">What would you like more of next year?</label>
-            <textarea id="more" name="feedback-more" rows="3"></textarea>
+                <label for="help-organise">Willing to help organise/host? *</label>
+                <select id="help-organise" name="help-organise" required>
+                    <option value="">Please choose...</option>
+                    <option value="yes">Yes</option>
+                    <option value="maybe">Maybe</option>
+                    <option value="not-right-now">Not right now</option>
+                </select>
+            </fieldset>
 
-            <label>Would you like someone from the team to follow up with you?</label>
-            <div class="radio-group">
-                <input type="radio" name="follow-up" value="yes"> <label>Yes</label><br>
-                <input type="radio" name="follow-up" value="no"> <label>No</label>
-            </div>
-        </div>
+            <fieldset>
+                <legend>4) Adoration and follow-up</legend>
+                <label for="adoration-reminder">Would you like reminders for Saturday Adoration? *</label>
+                <select id="adoration-reminder" name="adoration-reminder" required>
+                    <option value="">Please choose...</option>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
 
-        <!-- Consent -->
-        <div class="section">
-            <div class="checkbox-group">
-                <input type="checkbox" id="consent" name="consent" required> 
-                <label for="consent" style="display: inline; font-size: 0.9em;">
-                    I consent to All Saints Parish contacting me about the items I selected. My details will not be shared outside the parish team. To withdraw, email volunteer1.ny@dioceseofnottingham.uk. *
+                <label for="family-support">Would a team member's call/message help your family faith life? *</label>
+                <select id="family-support" name="family-support" required>
+                    <option value="">Please choose...</option>
+                    <option value="yes">Yes, please</option>
+                    <option value="maybe">Maybe later</option>
+                    <option value="no">No, thank you</option>
+                </select>
+
+                <label for="notes">Anything else we should know? (optional)</label>
+                <textarea id="notes" name="notes" placeholder="Any suggestion, question, or initiative idea"></textarea>
+            </fieldset>
+
+            <fieldset>
+                <legend>5) Consent</legend>
+                <label class="option" for="consent">
+                    <input type="checkbox" id="consent" name="consent" required>
+                    I consent to All Saints Parish contacting me about the items I selected. My details will stay within the parish team. To withdraw consent, email volunteer1.ny@dioceseofnottingham.uk.
                 </label>
-            </div>
-        </div>
+            </fieldset>
 
-        <button type="submit">Submit My Response</button>
-        
-        <input type="hidden" name="_subject" value="New FHC Next Steps Submission!">
-        <input type="hidden" name="_next" value="https://pmzmi1.github.io/AllSaintsFHC/thank-you.html">
-    </form>
+            <button type="submit">Submit my next steps</button>
 
-    <div class="footer">
-        <p>&copy; 2026 All Saints Parish. We will use your details only for parish follow-up.</p>
+            <input type="hidden" name="_subject" value="FHC Next Steps Submission">
+            <input type="hidden" name="_next" value="https://pmzmi1.github.io/AllSaintsFHC/thank-you.html">
+            <input type="text" name="_gotcha" style="display:none">
+        </form>
+
+        <p class="fine">All Saints Parish · Thank you for helping us grow a living community of families.</p>
     </div>
 
+    <script>
+        (function () {
+            const form = document.getElementById('next-steps-form');
+            const interest = Array.from(document.querySelectorAll('input[name="interest"]'));
+            const times = Array.from(document.querySelectorAll('input[name="best-time"]'));
+            const interestError = document.getElementById('interest-error');
+            const timeError = document.getElementById('time-error');
+
+            form.addEventListener('submit', function (event) {
+                const interestOk = interest.some(item => item.checked);
+                const timesOk = times.some(item => item.checked);
+
+                interestError.style.display = interestOk ? 'none' : 'block';
+                timeError.style.display = timesOk ? 'none' : 'block';
+
+                if (!interestOk || !timesOk) {
+                    event.preventDefault();
+                }
+            });
+        })();
+    </script>
 </body>
 </html>
