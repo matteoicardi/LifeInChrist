@@ -3,19 +3,19 @@ title: First Holy Communion and first Reconciliation
 description: Preparation and youth group sessions
 ---
 
-# Preparation for the Sacrament of the Eucharist and Reconciliation
-
 <div style="background: #eef8f4; border-left: 6px solid #1f6f5d; padding: 20px; margin-bottom: 30px;">
-  <h2 style="margin-top: 0;">End of Programme: Continue the Encounter</h2>
-  <p style="font-size: 1.1em; margin-bottom: 12px;">Before you leave, please complete these two short forms (2-3 minutes total):</p>
-  <p style="margin-top: 0; margin-bottom: 16px;"><strong>Saturday Adoration:</strong> every Saturday. Come for 10 minutes or an hour.</p>
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 15px;">
-      <a href="./parents-feedback.html" style="background-color: #2e6da8; color: white; padding: 12px 25px; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: bold; font-size: 1.05em;">1. Parents' Journey Feedback</a>
+      <div style="background: #fff; border: 1px solid #d6e8e1; padding: 10px 12px; border-radius: 6px;">
+        <strong>Saturday Adoration:</strong> every Saturday, 9:30 AM to 10:30 AM. Spend some time with the One who truly knows you and loves you.
+      </div>
+    </li>
+    <li style="margin-bottom: 15px;">
+      <a href="./parents-feedback.html" target="_blank" rel="noopener noreferrer" style="background-color: #2e6da8; color: white; padding: 12px 25px; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: bold; font-size: 1.05em;">1. Parents' Journey Feedback</a>
       <br><small>Share what helped you encounter Jesus and what to improve next year.</small>
     </li>
     <li>
-      <a href="./next-steps.html" style="background-color: #1f6f5d; color: white; padding: 12px 25px; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: bold; font-size: 1.05em;">2. Keep Walking with Jesus: Next Steps Form</a>
+      <a href="./next-steps.html" target="_blank" rel="noopener noreferrer" style="background-color: #1f6f5d; color: white; padding: 12px 25px; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: bold; font-size: 1.05em;">2. Keep Walking with Jesus: Next Steps Form</a>
       <br><small>Tell us which follow-on groups, support, and formation paths you would join.</small>
     </li>
   </ul>
@@ -24,6 +24,8 @@ description: Preparation and youth group sessions
 This page contains resources for parents and children preparing for First Holy Communion (the Eucharist) and First Reconciliation (Confession).
 
 ---
+
+# Preparation for the Sacrament of the Eucharist and Reconciliation
 
 ## Programme 2025–2026
 
@@ -70,6 +72,10 @@ The formation for parents is based on the 5-part *Kerygma* proclamation model fr
 - [The Bible in 10 minutes - Fr Mike Schmitz](https://www.youtube.com/watch?v=Jm3b4Q98Vx8)- A summary of the Bible in 10 minutes.
 - [3 minutes Catechism](https://www.youtube.com/playlist?list=PLIcePO_eJb2_EElTdFm1PFLNkH17EQcV-) - A series of short videos explaining the Catholic faith.
 - [Compendium of the Catechism of the Catholic Church](https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html) - A summary of the Catechism of the Catholic Church where you can look up any topic you want to know more about with simple questions and answers.
+
+## Mass Walk-Through Guides
+- [Mass Walk-Through for Adults](../Mass/Mass_Walkthrough_ADULT_CLEANED.html) - A complete adult guide to pray and understand each part of Mass.
+- [Mass Walk-Through for Kids](../Mass/Mass_Walkthrough_KIDS_CLEANED.html) - A simple, child-friendly guide for ages 8 to 10.
 
 ## 🍞 The Eucharist (The Mass)
 

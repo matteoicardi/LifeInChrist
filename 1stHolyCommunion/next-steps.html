@@ -128,6 +128,14 @@
         }
 
         .option input { margin-top: 3px; }
+        .option-text { display: inline-block; }
+        .activity-desc {
+            display: block;
+            color: var(--muted);
+            font-size: 0.86rem;
+            font-weight: 400;
+            margin-top: 2px;
+        }
 
         .row {
             display: grid;
@@ -193,7 +201,7 @@
 
         <form id="next-steps-form" action="https://formspree.io/f/xlgwylkk" method="POST" novalidate>
             <div class="adoration">
-                <strong>Saturday Adoration:</strong> every Saturday. Come for 10 minutes or an hour.
+                <strong>Saturday Adoration:</strong> every Saturday, 9:30 AM to 10:30 AM. Spend some time with the One who truly knows you and loves you.
             </div>
 
             <fieldset>
@@ -216,16 +224,16 @@
                 <legend>2) I am interested in...</legend>
                 <p class="hint">Select at least one.</p>
                 <div class="options" id="interest-options">
-                    <label class="option"><input type="checkbox" name="interest" value="intercessory-prayer"> Intercessory prayer group</label>
-                    <label class="option"><input type="checkbox" name="interest" value="parents-fellowship"> Parents' group / fellowship</label>
-                    <label class="option"><input type="checkbox" name="interest" value="faith-discovery"> Faith discovery group (exploring or returning)</label>
-                    <label class="option"><input type="checkbox" name="interest" value="mens-group"> Men's group</label>
-                    <label class="option"><input type="checkbox" name="interest" value="running-walking"> Running / walking group</label>
-                    <label class="option"><input type="checkbox" name="interest" value="online-group"> Online group</label>
-                    <label class="option"><input type="checkbox" name="interest" value="inner-healing"> Inner healing and transformation</label>
-                    <label class="option"><input type="checkbox" name="interest" value="youth-after-fhc"> Youth support after First Holy Communion</label>
-                    <label class="option"><input type="checkbox" name="interest" value="music-choir"> Music / choir</label>
-                    <label class="option"><input type="checkbox" name="interest" value="serving-volunteering"> Serving / volunteering</label>
+                    <label class="option"><input type="checkbox" name="interest" value="intercessory-prayer"><span class="option-text">Intercessory prayer group<span class="activity-desc">Pray weekly for families, children, and parish intentions.</span></span></label>
+                    <label class="option"><input type="checkbox" name="interest" value="parents-fellowship"><span class="option-text">Parents' group / fellowship<span class="activity-desc">Meet with other parents for support, friendship, and faith sharing.</span></span></label>
+                    <label class="option"><input type="checkbox" name="interest" value="faith-discovery"><span class="option-text">Faith discovery group<span class="activity-desc">A gentle space for questions and returning to faith.</span></span></label>
+                    <label class="option"><input type="checkbox" name="interest" value="mens-group"><span class="option-text">Men's group<span class="activity-desc">Prayer, brotherhood, and practical Christian life.</span></span></label>
+                    <label class="option"><input type="checkbox" name="interest" value="running-walking"><span class="option-text">Running / walking group<span class="activity-desc">Build friendship and wellbeing while walking with faith.</span></span></label>
+                    <label class="option"><input type="checkbox" name="interest" value="online-group"><span class="option-text">Online group<span class="activity-desc">Flexible online gatherings for those with busy schedules.</span></span></label>
+                    <label class="option"><input type="checkbox" name="interest" value="inner-healing"><span class="option-text">Inner healing and transformation<span class="activity-desc">Prayerful pathway for deeper healing and freedom in Christ.</span></span></label>
+                    <label class="option"><input type="checkbox" name="interest" value="youth-after-fhc"><span class="option-text">Youth support after First Holy Communion<span class="activity-desc">Help children keep growing in prayer, friendship, and mission.</span></span></label>
+                    <label class="option"><input type="checkbox" name="interest" value="music-choir"><span class="option-text">Music / choir<span class="activity-desc">Serve through singing or instruments at parish gatherings.</span></span></label>
+                    <label class="option"><input type="checkbox" name="interest" value="serving-volunteering"><span class="option-text">Serving / volunteering<span class="activity-desc">Support hospitality, catechesis, events, and parish life.</span></span></label>
                 </div>
                 <label for="interest-other">Other (optional)</label>
                 <input type="text" id="interest-other" name="interest-other" placeholder="Tell us what you would like to start or join">
@@ -260,16 +268,9 @@
             </fieldset>
 
             <fieldset>
-                <legend>4) Adoration and follow-up</legend>
-                <label for="adoration-reminder">Would you like reminders for Saturday Adoration? *</label>
-                <select id="adoration-reminder" name="adoration-reminder" required>
-                    <option value="">Please choose...</option>
-                    <option value="yes">Yes</option>
-                    <option value="no">No</option>
-                </select>
-
-                <label for="family-support">Would a team member's call/message help your family faith life? *</label>
-                <select id="family-support" name="family-support" required>
+                <legend>4) Follow-up support (optional)</legend>
+                <label for="family-support">Would a team member's call/message help your family faith life?</label>
+                <select id="family-support" name="family-support">
                     <option value="">Please choose...</option>
                     <option value="yes">Yes, please</option>
                     <option value="maybe">Maybe later</option>
@@ -291,7 +292,7 @@
             <button type="submit">Submit my next steps</button>
 
             <input type="hidden" name="_subject" value="FHC Next Steps Submission">
-            <input type="hidden" name="_next" value="https://pmzmi1.github.io/AllSaintsFHC/thank-you.html">
+            <input type="hidden" name="_next" value="https://matteoicardi.github.io/LifeInChrist/1stHolyCommunion/thank-you.html">
             <input type="text" name="_gotcha" style="display:none">
         </form>
 
