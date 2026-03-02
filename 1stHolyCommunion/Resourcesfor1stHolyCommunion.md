@@ -54,7 +54,23 @@ The formation for parents is based on the 5-part *Kerygma* proclamation model fr
 - [3 minutes Catechism](https://www.youtube.com/playlist?list=PLIcePO_eJb2_EElTdFm1PFLNkH17EQcV-) - A series of short videos explaining the Catholic faith.
 - [Compendium of the Catechism of the Catholic Church](https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html) - A summary of the Catechism of the Catholic Church where you can look up any topic you want to know more about with simple questions and answers.
 
-## The Eucharist (the Mass)
+## 🍞 The Eucharist (The Mass)
+
+**What is it?**
+It is the **Source & Summit** of our faith! We receive the Body and Blood of Christ. It looks like bread and wine, but it is **truly Jesus**.
+
+**Why it matters?**
+*   **Real Presence:** It’s the most intimate way to meet Jesus on earth.
+*   **Soul Food:** It nourishes us and strengthens our love for God and others.
+*   **Community:** We gather as God's family to worship together.
+
+**What happens?**
+1.  📖 **Listen:** God speaks to us in the readings.
+2.  🙏 **Pray:** We offer our lives to God.
+3.  🍞 **Receive:** Jesus gives Himself to us in Holy Communion.
+
+**🗣️ What to tell your child:**
+> "Jesus loves you so much that He wants to be with you in a very special way. In Holy Communion, He comes to live in your heart to help you be strong, kind, and full of love."
 
 
 ### Videos for parents
@@ -83,15 +99,50 @@ The formation for parents is based on the 5-part *Kerygma* proclamation model fr
 
 ---
 
-## The Reconciliation (Confession)
+## 💜 Reconciliation (Confession)
+
+**What is it?**
+A fresh start! We tell God we are sorry for our mistakes (sins), and through the priest, Jesus **forgives us completely**.
+
+**Why it matters?**
+*   **Restoration:** Sin hurts our friendship with God; Confession fixes it.
+*   **Peace:** It lifts the burden of guilt and gives us peace.
+*   **Strength:** We get special grace (help) to make better choices next time.
+
+**What happens?**
+1.  🤔 **Reflect:** We think about our choices.
+2.  🗣️ **Confess:** We say sorry for what we did wrong.
+3.  ✨ **Forgive:** The priest speaks Jesus' words of forgiveness.
+
+**🗣️ What to tell your child:**
+> "God is like a loving Father who is always ready to forgive us. When we make mistakes, we say sorry in Confession, and He wipes them all away. It’s like a shower for the soul!"
+
+“Jesus doesn’t just forgive you — He restores you.”  
+
 
 ### Videos for parents
 
+- [Confession (Reconciliation) Explained](https://youtu.be/iWxp5BNgmVY) - Fr Mike Schmitz explains what Confession is, why we need it, and how it restores our relationship with God.
 
-### Videos for children
+- [How to Go to Confession (Step-by-Step)](https://youtu.be/GCmumpsrwBE) - A clear, practical guide for parents to help their children prepare.
 
+- [Why Go to Confession?](https://youtu.be/YiVjwlUO9Sc) - Short theological explanation of sin, grace, and absolution.
+
+- [The Sacrament of Reconciliation](https://youtu.be/h2RVNCAGofo) - Bishop Robert Barron on the meaning and necessity of Confession.
+
+- [A Funny & Honest Take on Confession](https://youtu.be/0U5Zp9XgF4Q) - Fr. Michael David Moses gives a short, humorous and practical encouragement about going to Confession.
+
+
+### For children
+
+- [What Is Confession? (For Kids)](https://youtu.be/4gHI8Q603dw) - Simple explanation of saying sorry to God and receiving His forgiveness.
+
+- [How to Go to Confession (For First Reconciliation)](https://youtu.be/pvZSgRKnOkg) - A child-friendly walkthrough of what to say and do.
+
+- [God’s Mercy and Forgiveness](https://youtu.be/deL9a3vF7HI) - Explains Confession in very simple language for younger children.
+
+- [Examination of Conscience for Kids](https://youtu.be/NHSFUlf3fkc) - Helps children prepare by reflecting on their actions.
 
 ---
 
----
 [Back to Main Page](../index.md)
