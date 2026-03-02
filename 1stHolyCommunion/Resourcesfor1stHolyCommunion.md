@@ -58,6 +58,11 @@ The formation for parents is based on the 5-part *Kerygma* proclamation model fr
 
 
 ### Videos for parents
+- [The Mass Explained](https://youtu.be/EJxdioI9u5A?si=LUAAO4qgBv2F9iy7) - A detailed explanation of the Mass by Dr. Edward Sri.
+
+- [Understanding the Mass as Biblical: A Walk-Thru (Part 1) - Explaining the Faith](https://youtu.be/XpciIRVaz3w?si=mm7jZ1s0aRMqoCcI) - Fr Chris Alar
+- [Understanding the Mass as Biblical: A Walk-Thru (Part 2) - Explaining the Faith](https://youtu.be/3bpqLWWa3tY?si=3_YgKAHA96wp5Mjx) - Fr Chris Alar
+
 - [Understanding the Mass](https://youtube.com/playlist?list=PLin-65Tka1_8LM8BZwj73pdril2auzwhO&si=JRuAZNgMtQiVdHh2)
 
 - [The Mass and the book of Revelation](https://youtu.be/YBS9WfkS1tg?si=Xt6guwJr3GU4v4HF)
@@ -65,6 +70,8 @@ The formation for parents is based on the 5-part *Kerygma* proclamation model fr
 - [A step by step guide to the Mass](https://youtu.be/HiWonBGkmwY?si=dbrVVEg5ChnPiFkt)
 
 - [The Mass comes from the Bible](https://youtu.be/1ecF7ea-6TA?si=WngVBuAU79k6R8J0)
+
+- [Why Mass is not optional](https://youtu.be/EVmQWX_L3xA?si=Hri1gCpKWIKiXINW)
 
 
 ### For children
