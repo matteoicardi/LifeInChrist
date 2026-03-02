@@ -17,6 +17,7 @@ The formation for parents is based on the 5-part *Kerygma* proclamation model fr
 - [Programme Calendar 2025-2026](./FHC-2025-2026.pdf)
 - [Parents' Session Plan](./parents_sessions.md)
 - [Full Children's Programme Booklet](./FHC_Children_Booklet_2025-2026.pdf)
+- [Next Steps: Interest & Feedback Form](./next-steps.html)
 
 ### Schedule Overview
 
