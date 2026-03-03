@@ -21,6 +21,10 @@ description: Preparation and youth group sessions
         <div style="background: #fff; border: 1px solid #d6e8e1; padding: 10px 12px; border-radius: 6px;">
         <strong>Adoration:</strong> every Saturday, 9:30 AM to 10:30 AM. Spend some time with the One who truly knows you and loves you.
       </div>
+      <div style="background: #fff; border: 1px solid #d6e8e1; padding: 10px 12px; border-radius: 6px; margin-top: 10px;">
+        <strong>Want to know more about Jesus' life? </strong>  Watch "The Chosen" series, free to watch by 
+        <a href="https://www.thechosen.tv/en-us" target="_blank" rel="noopener noreferrer" style="color: #2e6da8; font-weight: bold;">downloading the free app</a>
+      </div>
 
 </div>
 
@@ -31,10 +35,6 @@ description: Preparation and youth group sessions
 ---
 
 ## Programme 2025–2026
-
-Here you will find the detailed calendar and plan for the 2025-2026 First Holy Communion and First Reconciliation programme.
-
-The formation for parents is based on the 5-part *Kerygma* proclamation model from the book "What Do You Seek?" by Dr. Edward Sri, designed to create a powerful encounter with the core message of the Gospel.
 
 - [Programme Calendar 2025-2026](./FHC-2025-2026.pdf)
 - [Parents' Session Plan](./parents_sessions.md)
