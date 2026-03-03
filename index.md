@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Life In Christ
-description: Resources from a parish catechist
+description: Catechetical resources for sacramental preparation and family formation.
 ---
+
+*Note: The parish is not responsible for the content of these personal resources.*
 
 Welcome to **Life In Christ**. These are resources for sacramental preparation and family formation, shared by a parish catechist.
 
@@ -17,7 +19,7 @@ Welcome to **Life In Christ**. These are resources for sacramental preparation a
 - [Theology of the Body](./TOB/index.md)
 
 <p align="center">
-  <img src="http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg" alt="starry sky" style="max-width:100%;height:auto;">
+  <img src="http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg" alt="night sky with stars" style="max-width:100%;height:auto;">
 </p>
 
 

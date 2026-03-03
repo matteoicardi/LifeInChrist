@@ -1,7 +1,9 @@
 ---
 title: Sacrament of Confirmation
-description: Preparation and continous formation
+description: Preparation and continuous formation
 ---
+
+*Note: The parish is not responsible for the content of these personal resources.*
 
 # Preparation for the Sacrament of Confirmation
 

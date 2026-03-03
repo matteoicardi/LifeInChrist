@@ -3,6 +3,8 @@ title: Organisations and events for youth and families
 description: Catholic festivals and groups in the UK
 ---
 
+*Note: The parish is not responsible for the content of these personal resources.*
+
 ## Spring/Summer 2026 events
 
 ### Non-music festivals & retreats (UK / Ireland / Scotland)

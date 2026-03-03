@@ -7,21 +7,21 @@ description: Resources for parents and children preparing for the sacraments of 
 
 # Preparation for the Sacrament of the Eucharist and Reconciliation
 
-<div style="background: #eef8f4; border-left: 6px solid #1f6f5d; padding: 20px; margin-bottom: 30px;">
-  <ul style="list-style: none; padding-left: 0;">
+<div class="callout">
+  <ul>
     <li style="margin-bottom: 15px;">
-      <a href="./parents-feedback.html" target="_blank" rel="noopener noreferrer" style="background-color: #2e6da8; color: white; padding: 12px 25px; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: bold; font-size: 1.05em;">1. Parents' Journey Feedback</a>
+      <a class="cta-button" href="./parents-feedback.html" target="_blank" rel="noopener noreferrer">1. Parents' Journey Feedback</a>
       <br><small>Share what helped you encounter Jesus and what to improve next year.</small>
     </li>
     <li>
-      <a href="./next-steps.html" target="_blank" rel="noopener noreferrer" style="background-color: #1f6f5d; color: white; padding: 12px 25px; text-decoration: none; border-radius: 4px; display: inline-block; font-weight: bold; font-size: 1.05em;">2. Keep Walking with Jesus: Next Steps Form</a>
+      <a class="cta-button secondary" href="./next-steps.html" target="_blank" rel="noopener noreferrer">2. Keep Walking with Jesus: Next Steps Form</a>
       <br><small>Tell us which follow-on groups, support, and formation paths you would join.</small>
     </li>
   </ul>
-        <div style="background: #fff; border: 1px solid #d6e8e1; padding: 10px 12px; border-radius: 6px;">
+        <div class="info-box">
         <strong>Adoration:</strong> every Saturday, 9:30 AM to 10:30 AM. Spend some time with the One who truly knows you and loves you.
       </div>
-      <div style="background: #fff; border: 1px solid #d6e8e1; padding: 10px 12px; border-radius: 6px; margin-top: 10px;">
+      <div class="info-box" style="margin-top: 10px;">
         <strong>Want to know more about Jesus' life? </strong>  Watch "The Chosen" series, free to watch by 
         <a href="https://www.thechosen.tv/en-us" target="_blank" rel="noopener noreferrer" style="color: #2e6da8; font-weight: bold;">downloading the free app</a>
       </div>
@@ -29,12 +29,14 @@ description: Resources for parents and children preparing for the sacraments of 
 </div>
 
 ## Mass Walk-Through Guides
-- [Mass Walk-Through for Adults](../Mass/Mass_Walkthrough_ADULT_CLEANED.html) - A complete adult guide to pray and understand each part of Mass.
-- [Mass Walk-Through for Kids](../Mass/Mass_Walkthrough_KIDS_CLEANED.html) - A simple, child-friendly guide for ages 8 to 10.
+- [Mass Walk-Through for Adults](../Mass/Mass_Walkthrough_ADULT_CLEANED.md) - A complete adult guide to pray and understand each part of Mass.
+- [Mass Walk-Through for Kids](../Mass/Mass_Walkthrough_KIDS_CLEANED.md) - A simple, child-friendly guide for ages 8 to 10.
 
 ---
 
 ## Programme 2025–2026
+
+*Last updated: 3 March 2026*
 
 - [Programme Calendar 2025-2026](./FHC-2025-2026.pdf)
 - [Parents' Session Plan](./parents_sessions.md)

@@ -59,15 +59,35 @@
   transition: background-color 0.2s ease, color 0.2s ease;
 }
 
-.site-nav-list a:hover,
-.site-nav-list a:focus {
-  background-color: rgba(255, 255, 255, 0.22);
+/* callout & button styles used on FHC page */
+.callout {
+  background: #eef8f4;
+  border-left: 6px solid #1f6f5d;
+  padding: 20px;
+  margin-bottom: 30px;
 }
-
-.site-nav-list a[aria-current="page"] {
-  background-color: #ffffff;
-  color: #0f4c75;
-  border-color: #ffffff;
+.callout ul {
+  list-style: none;
+  padding-left: 0;
+}
+.cta-button {
+  background-color: #2e6da8;
+  color: white !important;
+  padding: 12px 25px;
+  text-decoration: none;
+  border-radius: 4px;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 1.05em;
+}
+.cta-button.secondary {
+  background-color: #1f6f5d;
+}
+.info-box {
+  background: #fff;
+  border: 1px solid #d6e8e1;
+  padding: 10px 12px;
+  border-radius: 6px;
 }
 
 .main-content {
