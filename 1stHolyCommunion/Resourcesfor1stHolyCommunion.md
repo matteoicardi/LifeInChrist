@@ -7,7 +7,7 @@ description: Preparation and youth group sessions
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 15px;">
       <div style="background: #fff; border: 1px solid #d6e8e1; padding: 10px 12px; border-radius: 6px;">
-        <strong>Saturday Adoration:</strong> every Saturday, 9:30 AM to 10:30 AM. Spend some time with the One who truly knows you and loves you.
+        <strong>Adoration:</strong> every Saturday, 9:30 AM to 10:30 AM. Spend some time with the One who truly knows you and loves you.
       </div>
     </li>
     <li style="margin-bottom: 15px;">
@@ -21,11 +21,17 @@ description: Preparation and youth group sessions
   </ul>
 </div>
 
-This page contains resources for parents and children preparing for First Holy Communion (the Eucharist) and First Reconciliation (Confession).
-
 ---
 
 # Preparation for the Sacrament of the Eucharist and Reconciliation
+
+
+## Mass Walk-Through Guides
+- [Mass Walk-Through for Adults](../Mass/Mass_Walkthrough_ADULT_CLEANED.html) - A complete adult guide to pray and understand each part of Mass.
+- [Mass Walk-Through for Kids](../Mass/Mass_Walkthrough_KIDS_CLEANED.html) - A simple, child-friendly guide for ages 8 to 10.
+
+---
+
 
 ## Programme 2025–2026
 
@@ -73,9 +79,6 @@ The formation for parents is based on the 5-part *Kerygma* proclamation model fr
 - [3 minutes Catechism](https://www.youtube.com/playlist?list=PLIcePO_eJb2_EElTdFm1PFLNkH17EQcV-) - A series of short videos explaining the Catholic faith.
 - [Compendium of the Catechism of the Catholic Church](https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html) - A summary of the Catechism of the Catholic Church where you can look up any topic you want to know more about with simple questions and answers.
 
-## Mass Walk-Through Guides
-- [Mass Walk-Through for Adults](../Mass/Mass_Walkthrough_ADULT_CLEANED.html) - A complete adult guide to pray and understand each part of Mass.
-- [Mass Walk-Through for Kids](../Mass/Mass_Walkthrough_KIDS_CLEANED.html) - A simple, child-friendly guide for ages 8 to 10.
 
 ## 🍞 The Eucharist (The Mass)
 
