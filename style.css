@@ -1,0 +1,139 @@
+/* Global readability and layout improvements */
+
+#skip-to-content {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  background: #ffffff;
+  color: #0f4c75;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.25rem;
+}
+
+#skip-to-content:focus {
+  left: 1rem;
+  top: 1rem;
+  z-index: 1000;
+}
+
+.page-header {
+  padding-top: 1.25rem;
+  padding-bottom: 1.1rem;
+}
+
+.page-header .project-name {
+  margin: 0.15rem 0 0.45rem;
+  font-size: 2.2rem;
+  line-height: 1.1;
+}
+
+.page-header .project-tagline {
+  margin: 0 0 0.9rem;
+  font-size: 1.05rem;
+  opacity: 0.95;
+}
+
+.site-nav {
+  margin-top: 0.2rem;
+}
+
+.site-nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.55rem;
+}
+
+.site-nav-list a {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 999px;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.site-nav-list a:hover,
+.site-nav-list a:focus {
+  background-color: rgba(255, 255, 255, 0.22);
+}
+
+.site-nav-list a[aria-current="page"] {
+  background-color: #ffffff;
+  color: #0f4c75;
+  border-color: #ffffff;
+}
+
+.main-content {
+  font-size: 1.02rem;
+  line-height: 1.7;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  margin-top: 1.9rem;
+  margin-bottom: 0.7rem;
+  line-height: 1.25;
+}
+
+.main-content p,
+.main-content ul,
+.main-content ol {
+  margin-bottom: 1rem;
+}
+
+.main-content ul,
+.main-content ol {
+  padding-left: 1.3rem;
+}
+
+.main-content li {
+  margin-bottom: 0.4rem;
+}
+
+.main-content blockquote {
+  margin: 1.2rem 0;
+  padding: 0.9rem 1rem;
+  background: #f3f8fc;
+  border-left: 4px solid #2f7da5;
+}
+
+.main-content table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+  max-width: 100%;
+}
+
+.site-footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.92rem;
+  color: #4c5d6b;
+}
+
+@media (max-width: 700px) {
+  .page-header .project-name {
+    font-size: 1.8rem;
+  }
+
+  .page-header .project-tagline {
+    font-size: 0.95rem;
+  }
+
+  .site-nav-list {
+    gap: 0.45rem;
+  }
+
+  .site-nav-list a {
+    font-size: 0.88rem;
+    padding: 0.34rem 0.65rem;
+  }
+}

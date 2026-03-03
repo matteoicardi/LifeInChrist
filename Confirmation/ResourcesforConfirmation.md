@@ -6,7 +6,7 @@ description: Preparation and continous formation
 # Preparation for the Sacrament of Confirmation
 
 ### 2024 Programme
-- [All Saints West Nottingham 2024 booklet](./Confirmation_2024_Booklet_St_Teresa_s.pdf)
+- [Confirmation 2024 booklet](./Confirmation_2024_Booklet_St_Teresa_s.pdf)
 - [Calendar of all meetings and homework](./2024Calendar.md)
 
 ### Prayer - printable resources - choose one or more to accompany you in your journey

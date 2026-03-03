@@ -1,30 +1,40 @@
+title: Life In Christ
+description: Resources from a parish catechist
+
+theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
 
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
 include:
   - index.md
+  - style.css
 
-theme: jekyll-theme-slate
-
-# Architect
-# Cayman
-# Dinky
-# Hacker
-# Leap day
-# Merlot
-# Midnight
-# Minima
-# Minimal
-# Modernist
-# Slate
-# Tactile
-# Time machine
-
+exclude:
+  - .devcontainer/
+  - rotas/
 
 navigation:
   - title: Home
-    url: /
-  # Add more links as needed
+    url: /index.html
+  - title: Confirmation
+    url: /Confirmation/ResourcesforConfirmation.html
+  - title: First Holy Communion
+    url: /1stHolyCommunion/Resourcesfor1stHolyCommunion.html
+  - title: Families
+    url: /youth/families.html
+  - title: Mass
+    url: /Mass/index.html
+  - title: TOB
+    url: /TOB/index.html

@@ -8,6 +8,9 @@ description: A vivid biblical and salvation-history guide for praying every mome
 ## 🔥 If You Remember One Line
 **At Mass, heaven opens, the sacrifice of Calvary is made present, and Christ feeds His people with His own life.**
 
+- ⚡ You are not attending a memorial lecture. You are stepping into the Church's worship of the risen Christ in heaven ([Hebrews 12:22-24](https://www.biblegateway.com/passage/?search=Hebrews+12%3A22-24&version=RSVCE)).
+- ⚡ You are not only remembering Calvary. You are sacramentally present to Christ's one sacrifice.
+
 ## 📱 How to Use This on Your Phone During Mass
 - Read only the section you are currently in.
 - Use the one-line prayer prompt if you feel distracted.
@@ -93,6 +96,7 @@ description: A vivid biblical and salvation-history guide for praying every mome
 - At Christ's words, bread and wine become His Body and Blood ([Matthew 26:26-28](https://www.biblegateway.com/passage/?search=Matthew+26%3A26-28&version=RSVCE), [1 Corinthians 11:23-26](https://www.biblegateway.com/passage/?search=1+Corinthians+11%3A23-26&version=RSVCE)).
 - This does not repeat Calvary. It makes present Christ's one sacrifice ([Hebrews 7:27](https://www.biblegateway.com/passage/?search=Hebrews+7%3A27&version=RSVCE), [Hebrews 9:24-28](https://www.biblegateway.com/passage/?search=Hebrews+9%3A24-28&version=RSVCE), [Hebrews 10:10-14](https://www.biblegateway.com/passage/?search=Hebrews+10%3A10-14&version=RSVCE)).
 - Your "Amen" is your signature under this mystery.
+- ⚡ The altar is where heaven, the Upper Room, and Calvary meet in one act of worship.
 
 ### 📖 Salvation-History Link
 - Passover lamb and blood of covenant ([Exodus 12:1-14](https://www.biblegateway.com/passage/?search=Exodus+12%3A1-14&version=RSVCE), [Exodus 24:8](https://www.biblegateway.com/passage/?search=Exodus+24%3A8&version=RSVCE)).
@@ -141,11 +145,6 @@ description: A vivid biblical and salvation-history guide for praying every mome
 > "Send me, Lord. I will not keep this gift for myself." ([Isaiah 6:8](https://www.biblegateway.com/passage/?search=Isaiah+6%3A8&version=RSVCE))
 
 ---
-
-## ⚡ Shock Lines for Neophytes
-- You are not watching a memorial service. You are standing inside the Church's worship of the risen Christ in heaven ([Hebrews 12:22-24](https://www.biblegateway.com/passage/?search=Hebrews+12%3A22-24&version=RSVCE)).
-- You are not only remembering Calvary. You are sacramentally present to Christ's one sacrifice.
-- You are not only attending church. You are being remade into what you receive.
 
 ## ⏱️ One-Minute Prep Before Mass Begins
 - Arrive early enough for silence.

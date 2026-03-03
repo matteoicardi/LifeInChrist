@@ -1,0 +1,15 @@
+# OS X
+.DS_Store
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Folders excluded in config
+.devcontainer/
+rotas/
+
+# Temporary files
+*.tmp
+*.log
