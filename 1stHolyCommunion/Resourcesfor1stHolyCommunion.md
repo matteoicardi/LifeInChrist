@@ -1,6 +1,6 @@
 ---
 title: First Holy Communion and first Reconciliation
-description: Preparation and youth group sessions
+description: Resources for parents and children preparing for the sacraments of the Eucharist and Reconciliation.
 ---
 
 

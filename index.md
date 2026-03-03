@@ -16,6 +16,11 @@ Welcome to **Life In Christ**. These are resources for sacramental preparation a
 - [Mass Walkthroughs](./Mass/index.md)
 - [Theology of the Body](./TOB/index.md)
 
+<p align="center">
+  <img src="http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg" alt="starry sky" style="max-width:100%;height:auto;">
+</p>
+
+
 > When I look at your heavens, the work of your fingers, the moon and the stars that you have established; what are human beings that you are mindful of them, mortals that you care for them? Yet you have made them a little lower than God, and crowned them with glory and honor. You have given them dominion over the works of your hands; you have put all things under their feet.
 >
 > **Psalm 8:3-4**
