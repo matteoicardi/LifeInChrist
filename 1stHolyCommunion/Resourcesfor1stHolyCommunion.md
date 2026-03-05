@@ -80,6 +80,20 @@ description: Resources for parents and children preparing for the sacraments of 
 
 ---
 
+## 🕊️ The 7 Sacraments & Faith for Children
+
+**Videos & Songs**
+- [What Are the Sacraments?](https://www.youtube.com/watch?v=M3WqNuhxAHU) - Animated storytelling explaining sacraments as "magic keys" to God's love.
+- [Seven Sacraments Song](https://www.youtube.com/watch?v=IL6PozmZdNc) - A catchy counting and rhyming song.
+- [Learn the 7 Sacraments](https://www.youtube.com/watch?v=7nrrP2kNk3s) - Fr. Edward Looney explains sacraments by grouping them.
+- [Sacraments 101 (Busted Halo)](https://www.youtube.com/playlist?list=PL7F11C6E6627B27E1) - Engaging videos for older children and teens.
+
+**Channels**
+- [Catholic Kids Media](https://www.youtube.com/c/CatholicKidsMedia/videos) - Animated videos explaining the Mass and faith mysteries.
+- [Brother Francis](https://www.youtube.com/channel/UC6-h_YhJ-mS-tW_L-G-G-Gg) - High-energy animation and music explaining spiritual realities.
+
+---
+
 ## 🍞 The Eucharist (The Mass)
 
 **What is it?**
@@ -100,6 +114,8 @@ It is the **Source & Summit** of our faith! We receive the Body and Blood of Chr
 
 
 ### Videos for parents
+- [Don't do this when receiving Communion!](https://www.youtube.com/watch?v=EELZFNRqRco) - Fr David Moses explains the proper way to receive Communion and why it matters.
+
 - [The Mass Explained](https://youtu.be/EJxdioI9u5A?si=LUAAO4qgBv2F9iy7) - A detailed explanation of the Mass by Dr. Edward Sri.
 
 - [Understanding the Mass as Biblical: A Walk-Thru (Part 1) - Explaining the Faith](https://youtu.be/XpciIRVaz3w?si=mm7jZ1s0aRMqoCcI) - Fr Chris Alar
@@ -117,11 +133,13 @@ It is the **Source & Summit** of our faith! We receive the Body and Blood of Chr
 
 
 ### For children
+- [The sign of the cross](https://youtu.be/RfP3QSjxnHY?si=eK-ibUagvmXH1oyP)
+
 - [What is the Eucharist?](https://youtu.be/Y_sc_tquTwo?si=LQQWUHmFNZBSrp3T)
 
 - [The Mass](https://youtu.be/RcsqhafoS_k?si=2ghKDoq8_BX4JFsT)
 
-- [The sign of the cross](https://youtu.be/RfP3QSjxnHY?si=eK-ibUagvmXH1oyP)
+- [Dynamic Catholic's "Blessed" First Communion Playlist](https://www.youtube.com/playlist?list=PLZisXcLIZva6wnuJgKnPxNo-GJOHu5wKF) - World-class animated series preparing children for First Communion.
 
 ---
 
@@ -156,7 +174,7 @@ A fresh start! We tell God we are sorry for our mistakes (sins), and through the
 
 - [The Sacrament of Reconciliation](https://youtu.be/h2RVNCAGofo) - Bishop Robert Barron on the meaning and necessity of Confession.
 
-- [A Funny & Honest Take on Confession](https://youtu.be/0U5Zp9XgF4Q) - Fr. Michael David Moses gives a short, humorous and practical encouragement about going to Confession.
+- [How to Go to Confession (COMPLETE Step-by-Step Catholic Guide)](https://www.youtube.com/watch?v=a0sNNXaHwVY) - Fr. Michael David Moses gives a short, humorous and practical encouragement about going to Confession.
 
 
 ### For children
@@ -168,6 +186,8 @@ A fresh start! We tell God we are sorry for our mistakes (sins), and through the
 - [God’s Mercy and Forgiveness](https://youtu.be/deL9a3vF7HI) - Explains Confession in very simple language for younger children.
 
 - [Examination of Conscience for Kids](https://youtu.be/NHSFUlf3fkc) - Helps children prepare by reflecting on their actions.
+
+ - [Dynamic Catholic's "Blessed" First Reconciliation Playlist](https://www.youtube.com/playlist?list=PLZisXcLIZva4ZGET7CPqvgB75PFXZfVo7) - Engaging animated videos for First Reconciliation.
 
 ---
 
