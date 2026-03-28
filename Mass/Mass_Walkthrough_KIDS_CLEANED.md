@@ -23,16 +23,25 @@ description: A child-friendly guide for following and praying the Catholic Mass 
 
 ## 🙌 1) We Gather (Introductory Rites)
 ### 👀 What Is Happening
+- **The Baptismal Font:** We dip our hand in the water at the door.
+- **Genuflection:** We bend one knee toward the gold box (the Tabernacle) before we sit down.
 - 🎶 We stand, sing, and make the Sign of the Cross.
 - 💚 We ask God for mercy.
 - 🎵 We pray the Gloria on most Sundays.
+
+### ✨ Wow Truths
+- **The Doorway:** The holy water font is at the door because Baptism is our "entryway" into God’s family. It reminds us that we belong to Him!
+- **Why do we Genuflect?** When you bend your knee, try this 3-step prayer in your head:
+    1. "God, You are God and I am not." (Humility)
+    2. "Jesus, I am here to serve You." (Service)
+    3. "Jesus, I love You with all my heart." (Love)
 
 ### 📖 Bible Light
 - ✝️ Sign of the Cross: [Matthew 28:19](https://www.biblegateway.com/passage/?search=Matthew+28%3A19&version=RSVCE)
 - 🎺 Gloria: [Luke 2:14](https://www.biblegateway.com/passage/?search=Luke+2%3A14&version=RSVCE)
 
 ### 🙏 Pray in Your Heart
-> "Jesus, I am here for You."
+> "Jesus, I am here for You. I give You my whole heart."
 
 ---
 
@@ -81,14 +90,18 @@ description: A child-friendly guide for following and praying the Catholic Mass 
 
 ---
 
-## 🤍 5) We Receive Jesus (Communion Rite)
+### 🤍 We Receive Jesus (Communion Rite)
 ### 👀 What Is Happening
 - 🤲 We pray the Our Father.
 - 🐑 We sing "Lamb of God."
 - 👀 We hear: "Behold the Lamb of God."
-- 🤍 If we have made First Communion, we receive Jesus with reverence and say "Amen."
+- 🤲 If we have made First Communion, we receive Jesus with reverence and say "Amen."
+
+### ✨ Wow Truths
+- **The Best Amen:** When you say "Amen," it doesn't just mean "Thank you." It means: "I believe this is Jesus with all my heart and I stake my life on Him!"
 
 ### 📖 Bible Light
+
 - 🙏 Our Father: [Matthew 6:9-13](https://www.biblegateway.com/passage/?search=Matthew+6%3A9-13&version=RSVCE)
 - 🐑 Lamb of God: [John 1:29](https://www.biblegateway.com/passage/?search=John+1%3A29&version=RSVCE)
 - 🏠 "Lord, I am not worthy": [Matthew 8:8](https://www.biblegateway.com/passage/?search=Matthew+8%3A8&version=RSVCE)

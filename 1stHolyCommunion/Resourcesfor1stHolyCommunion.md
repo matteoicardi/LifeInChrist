@@ -114,6 +114,8 @@ It is the **Source & Summit** of our faith! We receive the Body and Blood of Chr
 
 
 ### Videos for parents
+- **[Catholic Mass 101: Learn Every Part of the Mass and What It Means (w/ Fr. Mike Schmitz)](https://www.youtube.com/watch?v=RS8NrJ0Y5O8)** - **Probably the best walkthrough of the Mass!** Fr. Mike Schmitz breaks down the Liturgy not as a familiar ritual, but as a profound encounter with Christ. (Highly recommended for parents).
+
 - [Don't do this when receiving Communion!](https://www.youtube.com/watch?v=EELZFNRqRco) - Fr David Moses explains the proper way to receive Communion and why it matters.
 
 - [The Mass Explained](https://youtu.be/EJxdioI9u5A?si=LUAAO4qgBv2F9iy7) - A detailed explanation of the Mass by Dr. Edward Sri.

@@ -28,9 +28,16 @@ description: A vivid biblical and salvation-history guide for praying every mome
 
 ## 🕊️ 1) Introductory Rites: God Gathers His People
 ### 👀 What You See
-- Procession, altar reverence, Sign of the Cross, greeting, penitential act, Gloria, Collect.
+- **The Baptismal Font:** Usually at the entrance. We dip our hand and make the Sign of the Cross.
+- **Genuflection:** We bend the knee toward the Tabernacle before entering the pew.
+- **The Rites:** Procession, altar reverence, Sign of the Cross, greeting, penitential act, Gloria, Collect.
 
 ### ✨ What Is Really Happening
+- **Baptismal Entrance:** The font is at the door because Baptism is our "entryway" into the life of Christ. We cannot approach God on our own; we need the grace we first received at that font.
+- **The Three Meanings of Genuflection:** When you bend the knee, think:
+    1. *Humility:* "God, You are God and I am not."
+    2. *Service:* "Lord, I am at Your service; I am Yours."
+    3. *Love:* Like a proposal, you are offering your whole life to the One you love.
 - You are not entering a meeting. You are entering holy ground.
 - The Sign of the Cross marks you as belonging to the Trinity ([Matthew 28:19](https://www.biblegateway.com/passage/?search=Matthew+28%3A19&version=RSVCE)).
 - The liturgical greeting and response are biblical ([Ruth 2:4](https://www.biblegateway.com/passage/?search=Ruth+2%3A4&version=RSVCE), [2 Timothy 4:22](https://www.biblegateway.com/passage/?search=2+Timothy+4%3A22&version=RSVCE), [Galatians 6:18](https://www.biblegateway.com/passage/?search=Galatians+6%3A18&version=RSVCE)).
@@ -38,6 +45,7 @@ description: A vivid biblical and salvation-history guide for praying every mome
 - The Gloria begins with the angels' Christmas song ([Luke 2:14](https://www.biblegateway.com/passage/?search=Luke+2%3A14&version=RSVCE)).
 
 ### 📖 Salvation-History Link
+- **The Kingdom Priest:** In the pew before Mass begins, remember that by your Baptism, you have been anointed as a "Kingdom Priest." You are consecrated to offer the sacrifice of your life alongside the priest at the altar.
 - God marked His people for protection ([Ezekiel 9:4](https://www.biblegateway.com/passage/?search=Ezekiel+9%3A4&version=RSVCE)).
 - God calls unworthy people into mission: Moses, Joshua, Mary ([Exodus 3:12](https://www.biblegateway.com/passage/?search=Exodus+3%3A12&version=RSVCE), [Joshua 1:9](https://www.biblegateway.com/passage/?search=Joshua+1%3A9&version=RSVCE), [Luke 1:28](https://www.biblegateway.com/passage/?search=Luke+1%3A28&version=RSVCE)).
 
@@ -71,9 +79,9 @@ description: A vivid biblical and salvation-history guide for praying every mome
 
 ### ✨ What Is Really Happening
 - This is not a pause. This is your moment of self-offering.
+- **Your Kingdom Priesthood:** When the priest says, "Pray, my brothers and sisters, that *my sacrifice and yours* may be acceptable," he is reminding you that you aren't a spectator. You are exercising your "Kingdom Priesthood" by placing your week and your heart on that altar.
 - Bread and wine represent creation and human work, and also your week: fatigue, wounds, gratitude, family.
 - The drop of water with wine symbolizes our humanity joined to Christ's life.
-- When the priest says "my sacrifice and yours," he means it.
 
 ### 📖 Salvation-History Link
 - Melchizedek offered bread and wine ([Genesis 14:18](https://www.biblegateway.com/passage/?search=Genesis+14%3A18&version=RSVCE)).
