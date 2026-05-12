@@ -82,6 +82,9 @@ description: Resources for parents and children preparing for the sacraments of 
 
 ## 🕊️ The 7 Sacraments & Faith for Children
 
+**Resources for Parents**
+- 🆕 **[Passing the Faith to our Children](../youth/passing-the-faith.md)** - A guide for family prayer, domestic church routines, and recommended resources for parents.
+
 **Videos & Songs**
 - [What Are the Sacraments?](https://www.youtube.com/watch?v=M3WqNuhxAHU) - Animated storytelling explaining sacraments as "magic keys" to God's love.
 - [Seven Sacraments Song](https://www.youtube.com/watch?v=IL6PozmZdNc) - A catchy counting and rhyming song.
