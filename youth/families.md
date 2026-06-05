@@ -9,11 +9,9 @@ description: Catholic festivals and groups in the UK
 
 🆕 **[Passing the Faith to our Children](./passing-the-faith.md)** - A guide for family prayer, domestic church routines, and recommended resources for parents.
 
-## Spring/Summer 2026 events
+## Summer 2026 events
 
 ### Non-music festivals & retreats (UK / Ireland / Scotland)
-- **22–25 May 2026 (Dalmally, Argyll, Scotland)** - [Craig Lodge - Stronghold Festival](https://www.craiglodge.org/events/stronghold-festival-2026) - Catholic Eucharistic worship camping festival (64 hours of continuous worship, with Mass and confession)
-- **29–31 May 2026 (Manchester, UK)** - [New Dawn Weekend](https://princeofpeace.org.uk/events-ministries/) - Catholic charismatic weekend retreat for families (talks, worship and prayer, with children/teens programme)
 - **13–17 Jul 2026 (Dalmally, Argyll, Scotland)** - [Craig Lodge - Green Pastures (Family Holiday Week 1)](https://www.craiglodge.org/ministries/families) - Catholic family retreat week (daily Mass, prayer, teaching, and a children’s programme)
 - **20–24 Jul 2026 (Dalmally, Argyll, Scotland)** - [Craig Lodge - Green Pastures (Family Holiday Week 2)](https://www.craiglodge.org/ministries/families) - Catholic family retreat week
 - **24–27 Jul 2026 (St Mary's College, Oscott, UK)** - [We Believe](https://www.webelievefestival.com) - Catholic family festival (talks, worship, sacraments, and children/teens activities)
@@ -60,7 +58,7 @@ description: Catholic festivals and groups in the UK
 - [Craig Lodge](https://www.craiglodge.org/) - Catholic family house of prayer in the Scottish Highlands (family weeks, retreats and Stronghold worship festival)
 - [Sion Community](https://sioncommunity.org.uk/) - Catholic community with retreats and festivals (often family-focused)
 - [We Believe](https://www.webelievefestival.com) - Catholic festival aimed at families
-- [New Dawn](https://princeofpeace.org.uk/new-dawn/) - Catholic charismatic family conferences and retreats (Manchester)
+- [New Dawn](https://princeofpeace.org.uk/new-dawn/) - Catholic charismatic family conferences and retreats (Manchester/Walsingham). *Note: The August 2026 Walsingham conference is cancelled due to a community sabbatical.*
 - [Chemin Neuf - Cana](https://www.chemin-neuf.org.uk/programmes/cana/) - Catholic community (*with ecumenical vocation*), supporting couples and families (Cana weeks/retreats)
 
 ### Diocesan youth services
@@ -82,4 +80,5 @@ description: Catholic festivals and groups in the UK
 ![Saint John Paul II](gp2.png)
 
 
+---
 [Back to Main Page](../index.md)
