@@ -20,7 +20,7 @@ description: Catholic festivals and groups in the UK
 - **27–31 Jul 2026 (Ampleforth Abbey, UK)** - [Faith Summer Session](https://www.faith.org.uk/events/faith-summer-session-2024-1-1) - Catholic residential summer conference (16–30) with daily Mass, talks and prayer
 - **July 2026 (UK, dates TBC)** - [Sion Community - Family Camp](https://sioncommunity.org.uk/family-and-children/) - Catholic community retreat for families (prayer, worship, formation and fellowship); 2026 dates not yet published (2025 ran 24–27 Jul)
 - **26 Jul–1 Aug 2026 (UK)** - [Cana Summer Week (Chemin Neuf)](https://www.chemin-neuf.org.uk/event/cana-summer-week-2026/) - Catholic community (*with ecumenical vocation*) week for couples/families to rest, pray and grow together (with programme for children)
-- **3–7 Aug 2026 (Manchester, UK)** - [New Dawn Summer Conference](https://princeofpeace.org.uk/events-ministries/) - Catholic charismatic family conference (streams for adults, children and teens)
+- **3–7 Aug 2026 (Manchester, UK)** - [New Dawn Summer Conference](https://princeofpeace.org.uk/events-ministries/) - *Note: The 2026 Summer Conference in Walsingham is cancelled as the community is on sabbatical.*
 - **15–19 Aug 2026 (Worth School, West Sussex, UK)** - [Celebrate Festival](https://www.celebratefestival.org/) - Catholic charismatic family festival (Mass, sacraments, worship, teaching, and children/youth programme)
 - **28–31 Aug 2026 (Warwick University, UK)** - [Jesus Youth UK Silver Jubilee](https://www.jesusyouth.co.uk/jubilee) - Catholic jubilee gathering for young people (worship, talks, prayer and community)
 
@@ -33,10 +33,9 @@ description: Catholic festivals and groups in the UK
 - **26 Jul–1 Aug 2026 (Cromer, Norfolk, UK)** - [WEC Camps (Week A)](https://www.weccamps.org/) - *Evangelical / inter-church (non-Catholic)* youth tent camps with Bible teaching, worship, sports and beach time
 - **2–8 Aug 2026 (Cromer, Norfolk, UK)** - [WEC Camps (Week B)](https://www.weccamps.org/) - *Evangelical / inter-church (non-Catholic)* youth tent camps with Bible teaching, worship, sports and beach time
 - **10–13 Aug 2026 (Ascott, UK)** - [Faith Movement - Summer Break (11–15)](https://www.faith.org.uk/events/faith-summer-break-2026) - Catholic holiday/formation days for younger teens
-- **August 2026 (UK, dates TBC)** - [Fanning the Flame](https://www.fanningtheflame.co.uk) - Catholic youth summer camp (praise & worship, Mass, adoration/confession, talks, games); 2026 dates not yet published
+- **17–21 Aug 2026 (St Cassian's, Kintbury, UK)** - [Fanning the Flame](https://www.fanningtheflame.co.uk) - Catholic youth summer camp (praise & worship, Mass, adoration/confession, talks, games)
 
 ### European events
-- **23–25 May 2026 (France)** - [Paris-Chartres pilgrimage (Notre-Dame de Chrétienté)](https://www.nd-chretiente.com) - Traditional Catholic Pentecost pilgrimage (walking + camping + daily Mass)
 - **10 Jul–19 Aug 2026 (Paray-le-Monial, France)** - [Sessions d'été pour tous (Emmanuel Community)](https://emmanuel.info/propositions/session-2026/) - Catholic summer sessions with tracks for families, youth and children (talks, prayer and worship)
 - **30 Jul–6 Aug 2026 (Medjugorje, Bosnia & Herzegovina)** - [Youth 2000 Medjugorje Festival (Mladifest)](https://www.youth2000.org/) - Catholic pilgrimage to the Medjugorje Youth Festival (Mass, adoration, catechesis and international youth programme)
 - **21–23 Aug 2026 (Paray-le-Monial, France)** - [Jesus Festival](https://jesusfestival.fr/) - Catholic music festival (worship + Christian bands, family-friendly)
@@ -79,6 +78,13 @@ description: Catholic festivals and groups in the UK
 
 > **"It is Jesus that you seek when you dream of happiness; He is waiting for you when nothing else you find satisfies you; He is the beauty to which you are so attracted."**  
 > *(St. John Paul II, World Youth Day 2000, Vigil at Tor Vergata, August 19, 2000)*
+
+![Saint John Paul II](gp2.png)
+
+
+---
+[Back to Main Page](../index.md)
+st 19, 2000)*
 
 ![Saint John Paul II](gp2.png)
 

@@ -24,6 +24,14 @@ include:
 exclude:
   - .devcontainer/
   - rotas/
+  - "**/*.docx"
+  - "**/*.xlsx"
+  - "**/*.pptx"
+  - "**/*.rtf"
+  - "**/*.csv"
+  - "**/*.doc"
+  - GEMINI.md
+  - MEMORY.md
 
 navigation:
   - title: Home
@@ -38,3 +46,5 @@ navigation:
     url: /Mass/index.html
   - title: TOB
     url: /TOB/index.html
+  - title: Retreat Centres
+    url: /retreats/index.html

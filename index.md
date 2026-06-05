@@ -17,6 +17,7 @@ Welcome to **Life In Christ**. These are resources for sacramental preparation a
 - [Family Events and Resources](./youth/families.md)
 - [Mass Walkthroughs](./Mass/index.md)
 - [Theology of the Body](./TOB/index.md)
+- [Retreat Centres](./retreats/index.md)
 
 <p align="center">
   <img src="http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg" alt="night sky with stars" style="max-width:100%;height:auto;">
