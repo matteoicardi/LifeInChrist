@@ -24,6 +24,8 @@ include:
 exclude:
   - .devcontainer/
   - rotas/
+  - Confirmation/resources/
+  - Confirmation/2026/
   - "**/*.docx"
   - "**/*.xlsx"
   - "**/*.pptx"
