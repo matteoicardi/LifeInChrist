@@ -35,7 +35,7 @@ description: Catholic festivals and groups in the UK
 - **1–2 May 2027 (UK)** - [Cana Family Weekend (Chemin Neuf)](https://www.chemin-neuf.org.uk/) - A weekend of rest, sharing, and family prayer.
 
 ### Youth & Teen events
-- **6 Mar 2027 (OVO Arena Wembley, London)** - [Flame 2027](https://cymfed.org.uk/flame2027/) - The largest national Catholic youth event in the UK, organized by CYMFed.
+- **6 Mar 2027 (OVO Arena Wembley, London)** - [Flame 2027](https://cymfed.org.uk/flame2027/) - The largest national Catholic youth event in the UK, organized by CYMFed (for young people in **Year 9 up to university age/young adults**).
 - **28–31 May 2027 (Dalmally, Argyll, Scotland)** - [Stronghold Festival (Craig Lodge)](https://www.craiglodge.org/events) - 64 hours of non-stop worship, adoration, sacraments, and fellowship for youth and young adults.
 
 ### European events & pilgrimages
@@ -72,7 +72,7 @@ description: Catholic festivals and groups in the UK
 ### Youth (18-35)
 - [Youth 2000](http://www.youth2000.org/) - Catholic youth retreats and prayer festivals (some events open to families)
 - [Jesus Youth](https://www.jesusyouth.co.uk) - Catholic missionary movement with retreats, prayer festivals and ministries
-- [Flame](https://cymfed.org.uk/flame2027/) - Catholic youth event (next national gathering at Wembley on Saturday, 6 March 2027)
+- [Flame](https://cymfed.org.uk/flame2027/) - Catholic youth event (next national gathering at Wembley on Saturday, 6 March 2027, open to **Year 9 up to university age/young adults**)
 - [Joel's Bar](https://www.joelsbar.com) - Catholic residential retreat for young adults (18-28), from the Celebrate movement
 
 ### Teens
