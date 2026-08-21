@@ -34,8 +34,21 @@ Focusing on spiritual direction, specific retreat themes (like Ignatian spiritua
 | **Launde Abbey** | Leicestershire | Ecumenical | Stunning 12th-century priory; 39 en-suite bedrooms. | [laundeabbey.org.uk](https://www.laundeabbey.org.uk/) |
 | **Madonna House** | North Yorks | Lay Community | "Hospitality of the heart" in Robin Hood's Bay; features a *poustinia*. | [madonnahouse.org](https://www.madonnahouse.org/fieldhouse/robin-hoods-bay/) |
 | **House of the Open Door** | Worcestershire | Lay Community | Self-catering retreat house and cottage for individuals and families. | [houseoftheopendoor.org](https://www.houseoftheopendoor.org/) |
+| **House of Prayer** | North Wales | Augustinian Priory | 5 single en-suite rooms near the sea, with a garden labyrinth and art room. | [houseofprayer.org.uk](https://www.houseofprayer.org.uk) |
+| **Ffald y Brenin** | West Wales | House of Prayer & Retreat | Self-catered rooms/cottages for 20+ guests, quiet Gwaun Valley setting. | [ffald-y-brenin.org](https://ffald-y-brenin.org) |
 | **Dupuis Centre** | Birmingham | Sisters of Charity | 10 en-suite rooms in a peaceful walled garden (Selly Park). | [sellypark.org](https://www.sellypark.org/dupuis-centre/) |
 | **Centre for Unity** | Herts | Focolare | Conference and retreat centre in Welwyn Garden City. | [focolare.org.uk](https://www.focolare.org.uk/centre-for-unity-welwyn-garden-city/) |
+
+## Formation & Evangelisation Centres
+
+These centres focus particularly on evangelisation, leadership formation, marriage and family life, young adults, and Catholic mission. Many host conferences, residential weekends and training programmes alongside traditional retreats.
+
+| Centre | Location | Structure | Accommodation | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Christian Heritage Centre (Stonyhurst)** | Lancashire | Catholic Formation Centre | Residential accommodation within the historic Stonyhurst estate; hosts leadership programmes, conferences, retreats and formation weekends. | [christianheritagecentre.com](https://christianheritagecentre.com/) |
+| **Sion Community** | Buckinghamshire (Buckden Towers) | Catholic Community | Residential retreats, parish missions, schools and family formation events. | [sioncommunity.org.uk](https://www.sioncommunity.org.uk/) |
+| **SPEC Retreat Centre** | London | Catholic Youth & Formation Centre | Residential retreat centre serving the Archdiocese of Southwark, ideal for schools, parishes and young adults. | [spectrust.org.uk](https://www.spectrust.org.uk/) |
+| **Amigo Hall** | London | Archdiocesan Conference Centre | Conference and formation venue frequently used for Catholic conferences, evangelisation and diocesan events. | [rcaos.org.uk](https://www.rcaos.org.uk/) |
 
 ## Conference & Diocesan Centres
 
@@ -47,6 +60,8 @@ Usually better suited for larger parish groups, families, or training events.
 | **The Briars** | Derbyshire | Catholic Youth | The Nottingham Diocesan Catholic Youth Retreat Centre. | [ndcys.com](https://www.ndcys.com/) |
 | **Hinsley Hall** | Leeds | Pastoral Centre | Leeds Diocesan centre; excellent group and family facilities. | [hinsley-hall.co.uk](https://www.hinsley-hall.co.uk/) |
 | **Shallowford House** | Stafford | Diocesan | Traditional retreat house with extensive grounds. | [shallowfordhouse.org.uk](https://www.shallowfordhouse.org.uk/) |
+| **Buckden Towers** | Cambridgeshire | Catholic Conference Centre | Historic conference and retreat venue regularly hosting Sion Community events and diocesan formation. | [buckdentowers.org.uk](https://buckdentowers.org.uk/) |
+| **Minsteracres Retreat Centre** | Northumberland | Passionist Retreat Centre | Comfortable residential retreat house with extensive grounds, renowned for preached retreats and parish groups. | [minsteracres.org](https://www.minsteracres.org/) |
 | **Cliff College** | Derbyshire | Bible College | Peak District location; en-suite rooms and study facilities. | [cliffcollege.ac.uk](https://www.cliffcollege.ac.uk/) |
 | **Scargill House** | North Yorks | Community | Multi-denominational community; very family-friendly. | [scargillmovement.org](https://scargillmovement.org/) |
 
@@ -58,6 +73,8 @@ Usually better suited for larger parish groups, families, or training events.
 
 ---
 
-### Resources for Finding More
+### Further Resources
 *   **National Retreat Association:** [retreats.org.uk](https://www.retreats.org.uk) - An index of over 200 retreat houses.
 *   **Teams of Our Lady:** [teamsgb.org.uk](https://teamsgb.org.uk/members/retreat-centres/) - A list of centres recommended for couples and families.
+*   **Christian Heritage Centre:** [christianheritagecentre.com](https://christianheritagecentre.com) - Leadership formation, evangelisation, conferences and retreats.
+*   **Sion Community:** [sioncommunity.org.uk](https://www.sioncommunity.org.uk) - Catholic community offering missions, retreats and formation.

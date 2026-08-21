@@ -10,6 +10,13 @@ Welcome to **Life In Christ**. These are resources for sacramental preparation a
 
 *Disclaimer: This is a personal project by a volunteer; the parish is not responsible for any content published on this site.*
 
+> [!IMPORTANT]
+> **Save the Date: The Well Event in Nottingham**
+> **Christopher West & Mike Mangione**
+> 📅 **Tuesday, 19th January 2027**
+> 📍 **St Teresa's Church, Nottingham**
+> An evening of beauty, reflection, and Eucharistic Revival featuring Christopher West and Mike Mangione. Tickets and webpage link to appear soon. Save the date!
+
 ## Quick Links
 
 - [Confirmation Resources](./Confirmation/ResourcesforConfirmation.md)

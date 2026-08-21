@@ -7,6 +7,13 @@ description: Introductions, transcripts and notes on St John Paul II’s r
 
 The **Theology of the Body** refers to the collection of meditations delivered by St John Paul II from 1979–1984.  They probe the meaning of the human body, marital love and human sexuality in the light of creation, sin and redemption.  Rather than beginning with prohibitions, TOB unveils the body itself as a sacrament: a visible sign that points to the invisible mystery of God’s love for us.  Many catechists and couples use it as a roadmap for marriage preparation and personal conversion.
 
+> [!IMPORTANT]
+> **Save the Date: The Well Event in Nottingham**
+> **Christopher West & Mike Mangione**
+> 📅 **Tuesday, 19th January 2027**
+> 📍 **St Teresa's Church, Nottingham**
+> An evening of beauty, reflection, and Eucharistic Revival featuring Christopher West and Mike Mangione. Tickets and webpage link to appear soon. Save the date!
+
 Below are a couple of documents that provide a clear, original summary of Christopher West’s approach.  They are derived from public interviews but rewritten in the author’s own words so they avoid copyright issues.
 
 - [Theology of the Body: Desire, Beauty, and Interior Integration](ChristopherWest_TOB_Synthesis_Draft.md) – a concise synthesis of several West reflections, suitable for group discussion.
