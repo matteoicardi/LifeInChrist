@@ -12,35 +12,28 @@ description: Dates and information for the 2026 Confirmation journey
 
 ## Dates
 
-| Date | Time | Meeting |
-|------|------|---------|
-| Tuesday 15 September | 7:00 pm | Introduction |
-| Tuesday 22 September | 7:00 pm | Session 1 |
-| Tuesday 29 September | 7:00 pm | Session 2 |
-| Sunday 4 October | 11:00 am | Commitment Mass at St Teresa's |
-| Tuesday 6 October | 7:00 pm | Session 3 |
-| Tuesday 13 October | 7:00 pm | Session 4 |
-| - | - | **Half-term break** |
-| Tuesday 3 November | 7:00 pm | Session 5 |
-| Tuesday 10 November | 7:00 pm | Session 6 |
-| Tuesday 17 November | 7:00 pm | Session 7 |
-| Tuesday 24 November | 7:00 pm | Session 8 |
-| Thursday 26 November | 7:00 pm | **Confirmation Mass** |
+Ordinary sessions run from **7:00–8:00 pm in St Teresa's Church Hall**. The two Masses take place in **St Teresa's Church**.
 
-Please keep all these dates free. Any practical updates will be communicated directly to candidates and families.
+| Date | Time | Session and theme | Leader / activity |
+|------|------|-------------------|-------------------|
+| Tuesday 15 September | 7:00 pm | **Session 1:** Why Confirmation / Life Choices | Nick |
+| Tuesday 22 September | 7:00 pm | **Session 2:** Jesus / The Creed / Eucharist | Fr Victor |
+| Tuesday 29 September | 7:00 pm | **Session 3:** Prayer; introducing the need for a sponsor | Matteo, with Bernie invited to be involved |
+| Sunday 4 October | 11:00 am | **Commitment Mass** | Candidates will read and lead the bidding prayers |
+| Tuesday 6 October | 7:00 pm | **Session 4:** The Bible and the Church | Ada |
+| Tuesday 13 October | 7:00 pm | **Session 5:** Sacraments / Reconciliation | Maria |
+| - | - | **Half-term break** | - |
+| Tuesday 3 November | 7:00 pm | **Session 6:** The Saints / Mission | Matteo |
+| Tuesday 10 November | 7:00 pm | **Session 7:** Discipleship / Gifts and Fruits of the Holy Spirit | Anthony |
+| Tuesday 17 November | 7:00 pm | **Session 8:** Group presentations | Candidates |
+| Tuesday 24 November | 7:00 pm | **Session 9:** Symbols and rehearsal | Fr Victor |
+| Thursday 26 November | 7:00 pm | **Confirmation Mass** | Bishop Patrick will confer the sacrament |
+
+Please keep all these dates free. Candidates are expected to attend Mass each weekend and participate in every preparation session. If a candidate misses a session, they should speak to a member of the Confirmation team. Missing two sessions means too much preparation has been missed to be confirmed with this group, though the candidate will be welcome to reapply next time.
 
 ## The shape of the journey
 
-The programme follows the diocesan vision of **Encounter, Discipleship and Mission**, inspired by the Holy Spirit and nourished by the Eucharist. Across the eight sessions we will explore:
-
-- the human search for happiness and the questions young people really ask;
-- who Jesus is, the Gospel and his invitation to each of us;
-- prayer, Scripture and learning to listen to God;
-- Baptism, Confirmation and the gift of the Holy Spirit;
-- forgiveness, healing and the Sacrament of Reconciliation;
-- the Eucharist and belonging to the worshipping Church;
-- the rite of Confirmation, the gifts of the Spirit and Christian mission;
-- how to continue praying, belonging and serving after Confirmation.
+The nine sessions follow the diocesan vision of **Encounter, Discipleship and Mission**, inspired by the Holy Spirit and nourished by the Eucharist. The themes are varied, but the thread running through them is that God acts first: he loves and calls each young person, Christ died and rose for them, and the Holy Spirit strengthens and sends them. Prayer, the sacraments, discipleship and moral life are our response to this gift.
 
 The catechists will draw especially on [Sycamore's six-week Confirmation pathway](https://www.sycamore.fm/pathways/c-sacramental-pathways/confirmation-short/) and [Dynamic Catholic's Decision Point](https://www.dynamiccatholic.com/confirmation.html), using the strongest elements of each rather than turning the meetings into another school lesson.
 

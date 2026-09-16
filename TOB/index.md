@@ -20,6 +20,20 @@ Below are a couple of documents that provide a clear, original summary of Christ
 - [Il desiderio e l’anelito del cuore](desires_it.md) – Italian notes for engaged couples on desire, prayer and the sacramental meaning of marriage.
 - [Desire and the Ache of the Heart](desires.md) – English version of the same marriage‑prep notes.
 
+## Institutes, networks and educators
+
+These are independent Catholic apostolates. Check each site for current courses, retreats and booking.
+
+### United States
+
+- **[Theology of the Body Institute](https://tobinstitute.org/)** — Pennsylvania. Immersion courses, certification and resources in St John Paul II’s teaching, associated with Christopher West.
+- **[John Paul II Healing Center](https://jpiihealingcenter.org/)** — Tallahassee, Florida. Retreats and formation that bring TOB into healing of identity, marriage and the whole person (Dr Bob Schuchts and team).
+
+### United Kingdom and Europe
+
+- **[TOB Network UK](https://www.tobnetworkuk.com/)** — Network launched in 2020 by Fr David Marsden SCJ and Dr Christine Ward, connecting people across the UK, Europe and beyond. [About the network](https://www.tobnetworkuk.com/blank-1) · [Talks and videos](https://www.tobnetworkuk.com/single-project) · email `Tobnetworkuk@gmail.com`.
+- **[TOB Educators](https://tobeducators.com/)** — International community of teachers and speakers (UK, Europe, US and beyond), with courses, conferences and retreats. Executive director based in Kraków; UK/Europe voices include Fr David Marsden (England), Stefan Kaminski (UK) and Fr Miguel Pereira (Portugal). [About the educators](https://tobeducators.com/about/).
+
 *More summaries and study‑guides will be added when they are ready.*
 
 ---

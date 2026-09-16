@@ -58,6 +58,7 @@ Usually better suited for larger parish groups, families, or training events.
 | :--- | :--- | :--- | :--- | :--- |
 | **The Hayes (CCT)** | Derbyshire | Conference Centre | Large-scale (400 capacity), fully en-suite, professional facilities. | [cct.org.uk/the-hayes](https://www.cct.org.uk/the-hayes/introduction) |
 | **The Briars** | Derbyshire | Catholic Youth | The Nottingham Diocesan Catholic Youth Retreat Centre. | [ndcys.com](https://www.ndcys.com/) |
+| **Kairos Centre** | Northampton | Church venue for hire | Grange Park Church: main meeting room (up to 70, projector and sound), small meeting room (6), coffee lounge (up to 50) with kitchen. Day hire for groups and meetings. Book via 01604 709519 or `bookings@grangeparkchurch.com`. | [grangeparkchurch.com/kairos_centre](https://grangeparkchurch.com/kairos_centre/) |
 | **Hinsley Hall** | Leeds | Pastoral Centre | Leeds Diocesan centre; excellent group and family facilities. | [hinsley-hall.co.uk](https://www.hinsley-hall.co.uk/) |
 | **Shallowford House** | Stafford | Diocesan | Traditional retreat house with extensive grounds. | [shallowfordhouse.org.uk](https://www.shallowfordhouse.org.uk/) |
 | **Buckden Towers** | Cambridgeshire | Catholic Conference Centre | Historic conference and retreat venue regularly hosting Sion Community events and diocesan formation. | [buckdentowers.org.uk](https://buckdentowers.org.uk/) |

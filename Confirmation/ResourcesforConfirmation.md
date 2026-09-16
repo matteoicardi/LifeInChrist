@@ -11,7 +11,7 @@ Welcome. This is the starting point for the current programme, the previous prog
   <section class="programme-card programme-card-current">
     <p class="eyebrow">Current programme</p>
     <h2>Confirmation 2026</h2>
-    <p>Eight formation meetings, the Commitment Mass and the Confirmation Mass on Thursday 26 November.</p>
+    <p>Nine formation meetings, the Commitment Mass and the Confirmation Mass on Thursday 26 November.</p>
     <a class="cta-button" href="./2026Programme.html">Dates and programme</a>
   </section>
   <section class="programme-card">
@@ -37,7 +37,7 @@ These are complementary rather than competing options. Sycamore supplies a natur
   <section class="resource-card resource-card-featured">
     <p class="resource-label">Free · 12 sessions · 72 short films</p>
     <h3><a href="https://www.dynamiccatholic.com/confirmation.html">Decision Point</a></h3>
-    <p>A polished American programme built for teenagers, with short films, a complete student workbook and a detailed leader guide. Its strongest sessions can enrich the 2026 journey without forcing twelve sessions into eight meetings.</p>
+    <p>A polished American programme built for teenagers, with short films, a complete student workbook and a detailed leader guide. Its strongest sessions can enrich the 2026 journey without forcing twelve sessions into nine meetings.</p>
   </section>
 </div>
 
