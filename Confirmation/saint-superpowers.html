@@ -159,10 +159,10 @@ button.print {
   font-size: .95rem;
 }
 @media print {
-  @page { size: A4; margin: 12mm; }
-  body { background: white; }
-  header { padding: 20px; }
-  main { max-width: none; padding: 10px; }
+  @page { size: A4; margin: 10mm; }
+  body { background: white; font-size: 10.5pt; line-height: 1.38; }
+  header, .activity, .intro, footer, button.print, .site-link { display: none; }
+  main { max-width: none; padding: 0; }
   .cards { display: block; }
   .card {
     box-shadow: none;
@@ -173,10 +173,17 @@ button.print {
     break-inside: avoid;
     margin: 0;
   }
-  .card-top, .card-body { padding: 17px 24px; }
-  .card-body h3 { margin-top: 15px; }
-  .activity, .intro, footer, button.print, .site-link { display: none; }
-  .card-top {
+  .card:last-child { page-break-after: auto; break-after: auto; }
+  .card-top { padding: 14px 22px; }
+  .card-top .icon { font-size: 1.9rem; }
+  .card-top h2 { font-size: 1.5rem; margin-top: 4px; }
+  .card-top .power { margin-top: 6px; }
+  .card-body { padding: 10px 22px 12px; }
+  .card-body h3 { margin: 11px 0 4px; }
+  .card-body p { margin: 0 0 6px; }
+  .card-body li { margin-bottom: 3px; }
+  .message { margin-top: 12px; padding: 10px 14px; font-size: 11pt; }
+  .card-top, .message {
     print-color-adjust: exact;
     -webkit-print-color-adjust: exact;
   }
