@@ -37,6 +37,8 @@ The nine sessions follow the diocesan vision of **Encounter, Discipleship and Mi
 
 The catechists will draw especially on [Sycamore's six-week Confirmation pathway](https://www.sycamore.fm/pathways/c-sacramental-pathways/confirmation-short/) and [Dynamic Catholic's Decision Point](https://www.dynamiccatholic.com/confirmation.html), using the strongest elements of each rather than turning the meetings into another school lesson.
 
+Session 6 (the Saints / Mission) can use the [Saint Superpowers](./saint-superpowers.html) profiles: eight lives, printable A4 sheets, and a private “which superpower do you need?” picker.
+
 ## A resource to keep
 
 [YOUCAT](https://youcat.org/products/youcat/) is the Catholic Church's youth catechism. Its short question-and-answer format makes it useful during preparation and long afterwards. There is also a [YOUCAT Confirmation Book](https://youcat.org/products/youcat-confirmation-book/) and [free Confirmation Handbook material](https://youcat.org/bonus-material/confirmation-handbook/).

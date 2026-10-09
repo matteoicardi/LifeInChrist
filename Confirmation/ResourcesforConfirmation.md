@@ -22,6 +22,10 @@ Welcome. This is the starting point for the current programme, the previous prog
   </section>
 </div>
 
+<div class="callout">
+  <p><strong><a href="./saint-superpowers.html">Saint Superpowers</a></strong> — eight saint profiles for Confirmation names and the All Saints Youth Group. Printable A4 sheets, plus an interactive picker to find the person whose struggles resonate.</p>
+</div>
+
 *This is a personal project maintained by a volunteer catechist. The parish is not responsible for external content linked from this page.*
 
 ## The two principal programme resources
@@ -131,7 +135,13 @@ Confirmation is not graduation from the Church. Christ strengthens the baptised 
 
 ## Saints and Confirmation names
 
-Candidates may choose a saint whose life can inspire and accompany them. Good starting points include Saint Maria Goretti, Saint Pier Giorgio Frassati, Saint Carlo Acutis, Saint Thérèse of Lisieux, Saint Dominic Savio, Saint Kateri Tekakwitha, Saint Josephine Bakhita, Saint Maximilian Kolbe, Saint Teresa Benedicta of the Cross and the English Martyrs.
+Candidates may choose a saint whose life can inspire and accompany them.
+
+<div class="callout">
+  <p><strong><a href="./saint-superpowers.html">Saint Superpowers</a></strong> — eight profiles: St Monica, St John Paul II, Clare Crockett, St Augustine, St Carlo Acutis, St Pier Giorgio Frassati, St Thérèse of Lisieux and Blessed Chiara Luce Badano. Each card has struggles, a turning point, questions, and a print-ready A4 layout, plus a private picker: “which superpower do you need?”</p>
+</div>
+
+Other starting points include Saint Maria Goretti, Saint Dominic Savio, Saint Kateri Tekakwitha, Saint Josephine Bakhita, Saint Maximilian Kolbe, Saint Teresa Benedicta of the Cross and the English Martyrs.
 
 Pier Giorgio Frassati and Carlo Acutis were canonised on 7 September 2025 and are now both saints.
 

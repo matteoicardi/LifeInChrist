@@ -1,0 +1,831 @@
+---
+layout: null
+title: Saint Superpowers
+description: Eight saint profiles for Confirmation names and the All Saints Youth Group
+---
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Saint Superpowers | All Saints Youth Group</title>
+<style>
+:root {
+  --navy: #17233b;
+  --burgundy: #792c47;
+  --gold: #c59b43;
+  --cream: #faf7f0;
+  --text: #263044;
+  --muted: #637084;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: #edf0f4;
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Arial, sans-serif;
+  line-height: 1.55;
+}
+header {
+  padding: 55px 20px;
+  text-align: center;
+  background: linear-gradient(135deg,#17233b,#792c47);
+  color: white;
+}
+header h1 {
+  font-size: clamp(2.3rem,6vw,4rem);
+  margin: 0;
+  letter-spacing: .03em;
+}
+header p { max-width: 680px; margin: 15px auto; }
+header .tagline {
+  color: #f1cf83;
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+header a {
+  color: #f1cf83;
+}
+main { max-width: 1100px; margin: auto; padding: 30px 18px; }
+.intro {
+  padding: 25px;
+  background: white;
+  border-left: 6px solid var(--gold);
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(320px,1fr));
+  gap: 25px;
+}
+.card {
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 5px 18px #17233b16;
+  break-inside: avoid;
+}
+.card-top {
+  background: var(--navy);
+  color: white;
+  padding: 26px;
+  border-top: 7px solid var(--gold);
+}
+.card:nth-child(3n+2) .card-top { background: var(--burgundy); }
+.card:nth-child(3n+3) .card-top { background: #255c63; }
+.card-top .icon { font-size: 2.5rem; }
+.card-top h2 { margin: 10px 0 0; font-size: 1.65rem; }
+.card-top .hero {
+  color: #f2d48c;
+  font-weight: 800;
+  letter-spacing: .07em;
+}
+.card-top .power { font-size: 1.05rem; margin-top: 12px; }
+.card-body { padding: 24px; }
+.card-body h3 {
+  font-size: .86rem;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--burgundy);
+  margin: 24px 0 8px;
+}
+.card-body p { margin: 0 0 10px; }
+.card-body ul { margin: 0; padding-left: 20px; }
+.card-body li { margin-bottom: 7px; }
+.message {
+  background: var(--cream);
+  border-left: 4px solid var(--gold);
+  padding: 15px;
+  margin-top: 22px;
+  font-size: 1.07rem;
+  font-weight: 700;
+}
+.note { font-size: .83rem; color: var(--muted); }
+.activity {
+  background: white;
+  padding: 28px;
+  border-radius: 15px;
+  margin-top: 35px;
+}
+.activity h2 { color: var(--burgundy); }
+.needs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(220px,1fr));
+  gap: 12px;
+}
+.need {
+  border: 2px solid #dfe3eb;
+  border-radius: 12px;
+  padding: 15px;
+  background: #fafbfc;
+  cursor: pointer;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+}
+.need:hover, .need:focus-visible {
+  border-color: var(--burgundy);
+  background: #fff4f7;
+}
+.need.selected {
+  border-color: var(--burgundy);
+  background: #f9eaf0;
+}
+#result {
+  margin-top: 20px;
+  padding: 20px;
+  background: var(--cream);
+  border-radius: 10px;
+  min-height: 75px;
+}
+footer {
+  text-align: center;
+  padding: 30px;
+  color: var(--muted);
+}
+button.print {
+  background: var(--gold);
+  border: none;
+  border-radius: 8px;
+  padding: 12px 20px;
+  font-weight: 700;
+  cursor: pointer;
+  margin-top: 15px;
+}
+.site-link {
+  margin-top: 18px;
+  font-size: .95rem;
+}
+@media print {
+  @page { size: A4; margin: 12mm; }
+  body { background: white; }
+  header { padding: 20px; }
+  main { max-width: none; padding: 10px; }
+  .cards { display: block; }
+  .card {
+    box-shadow: none;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    page-break-after: always;
+    break-after: page;
+    break-inside: avoid;
+    margin: 0;
+  }
+  .card-top, .card-body { padding: 17px 24px; }
+  .card-body h3 { margin-top: 15px; }
+  .activity, .intro, footer, button.print, .site-link { display: none; }
+  .card-top {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>SAINT SUPERPOWERS</h1>
+  <p class="tagline">REAL PEOPLE. REAL STRUGGLES. EXTRAORDINARY LOVE.</p>
+  <p>
+    Saints weren't born perfect.
+    They had dreams, fears, weaknesses and struggles.
+    Discover how God worked through their lives —
+    and what He can do through yours.
+  </p>
+  <button class="print" onclick="window.print()">Print the Saint Sheets</button>
+  <p class="site-link"><a href="ResourcesforConfirmation.html">Confirmation resources</a></p>
+</header>
+<main>
+<section class="intro">
+  <h2>Could YOU become a saint?</h2>
+  <p>
+    You don't need to be famous, perfect, clever, beautiful or
+    popular to become a saint. God already loves you.
+  </p>
+  <p>
+    Every person here had strengths and struggles.
+    Some made serious mistakes. Others faced suffering,
+    insecurity or difficult choices.
+  </p>
+  <strong>
+    Their superpower wasn't magic. It was learning to
+    cooperate with God's grace.
+  </strong>
+</section>
+<div class="cards">
+<!-- MONICA -->
+<article class="card" id="monica">
+<div class="card-top">
+<div class="icon">🍷</div>
+<h2>ST MONICA</h2>
+<div class="hero">THE NEVER-GIVE-UP HERO</div>
+<div class="power">SUPERPOWER: PERSEVERANCE</div>
+</div>
+<div class="card-body">
+<h3>Who I was</h3>
+<p>
+I was a young girl who grew up to become the mother
+of St Augustine. I loved my family deeply,
+even when family life was difficult.
+</p>
+<h3>My superpowers</h3>
+<ul>
+<li>Never giving up on people I loved.</li>
+<li>Praying even when nothing seemed to change.</li>
+<li>Recognising my own mistakes and changing.</li>
+</ul>
+<h3>My struggles</h3>
+<ul>
+<li>
+As a girl, I secretly began drinking wine from the family
+supply. Little by little, it became a habit.
+</li>
+<li>
+A servant confronted me harshly about my drinking.
+It was embarrassing, but it helped me recognise
+what I was doing.
+</li>
+<li>
+As a mother, I worried terribly about Augustine
+and his choices.
+</li>
+</ul>
+<h3>My turning point</h3>
+<p>
+I stopped the secret drinking. Later, I learned to
+persevere in prayer while my son followed a path
+I could not control.
+</p>
+<h3>Your turn</h3>
+<ul>
+<li>Have you ever started a bad habit that became difficult to stop?</li>
+<li>Can you accept correction when somebody tells you the truth?</li>
+<li>Do you worry about somebody you love?</li>
+</ul>
+<div class="message">
+Being holy doesn't mean never making mistakes.
+It means being willing to recognise them and change.
+</div>
+<p class="note">Source: St Augustine, Confessions, Book IX, chapter 8.</p>
+</div>
+</article>
+<!-- JOHN PAUL II -->
+<article class="card" id="jp2">
+<div class="card-top">
+<div class="icon">❤️</div>
+<h2>ST JOHN PAUL II</h2>
+<div class="hero">THE DIGNITY HERO</div>
+<div class="power">SUPERPOWER: KNOWING YOUR TRUE WORTH</div>
+</div>
+<div class="card-body">
+<h3>Who I was</h3>
+<p>
+My name was Karol Wojtyła. I loved sport, theatre,
+friendship and the outdoors. I experienced grief,
+war and suffering before becoming Pope.
+</p>
+<p>
+I spent years teaching young people about love,
+relationships and the meaning of being human.
+</p>
+<h3>My superpowers</h3>
+<ul>
+<li>
+Showing that every human person has extraordinary dignity.
+</li>
+<li>
+Teaching that our bodies are good and meaningful:
+we are created in God's image.
+</li>
+<li>
+Explaining that genuine love means respecting
+people, not using them.
+</li>
+<li>
+Courageously defending human dignity.
+</li>
+</ul>
+<h3>My struggles</h3>
+<ul>
+<li>
+I lost my mother, brother and father while still young.
+</li>
+<li>
+I lived through war, oppression and the destruction
+of many of my plans.
+</li>
+<li>
+I experienced serious physical suffering,
+especially later in life.
+</li>
+<li>
+I lived in a world where human beings were often
+treated as objects rather than persons.
+</li>
+</ul>
+<h3>My turning point</h3>
+<p>
+My experiences, faith and philosophical studies
+helped shape what became known as
+<strong>Theology of the Body</strong>.
+</p>
+<p>
+I wanted people to understand that the body is not
+something shameful or disposable.
+Our bodies express who we are as persons.
+</p>
+<h3>Your turn</h3>
+<ul>
+<li>
+Do you ever compare your body or appearance
+with people on Instagram, TikTok or other social media?
+</li>
+<li>
+Have filters, edited photographs or beauty standards
+ever made you feel that you aren't good enough?
+</li>
+<li>
+Do you sometimes feel pressure to look attractive
+to be liked or accepted?
+</li>
+<li>
+Can you love and respect your body without
+needing it to look perfect?
+</li>
+<li>
+Do you treat others as people to love,
+or sometimes as people whose approval you need?
+</li>
+</ul>
+<div class="message">
+You are not a body to be judged, a photograph to be liked,
+or a product to be admired.
+You are a person created and loved by God.
+Your dignity does not depend on your appearance.
+</div>
+<p class="note">
+Inspired by John Paul II's Theology of the Body,
+his catecheses on human love, and his personalist
+understanding of human dignity.
+The social media examples are modern applications
+of his teaching, not direct quotations.
+</p>
+</div>
+</article>
+<!-- CLARE CROCKETT -->
+<article class="card" id="clare">
+<div class="card-top">
+<div class="icon">🎬</div>
+<h2>CLARE CROCKETT</h2>
+<div class="hero">THE TRANSFORMATION HERO</div>
+<div class="power">SUPERPOWER: STARTING AGAIN</div>
+</div>
+<div class="card-body">
+<h3>Who I was</h3>
+<p>
+I was a lively teenager from Northern Ireland.
+I wanted to become a famous actress and television presenter.
+I loved excitement and being noticed.
+</p>
+<h3>My superpowers</h3>
+<ul>
+<li>Passion and enthusiasm.</li>
+<li>Generosity and wholehearted commitment.</li>
+<li>The courage to change direction.</li>
+<li>Bringing joy to other people.</li>
+</ul>
+<h3>My struggles</h3>
+<ul>
+<li>I wanted fame, attention and success.</li>
+<li>I smoked, drank and enjoyed partying.</li>
+<li>
+Even after encountering Christ, I struggled
+to leave old habits behind.
+</li>
+<li>I found it difficult to surrender my own plans.</li>
+</ul>
+<h3>My turning point</h3>
+<p>
+At seventeen, during Holy Week in Spain,
+I experienced a profound encounter with Jesus.
+My conversion was not instantaneous:
+I still had choices and struggles ahead of me.
+</p>
+<h3>Your turn</h3>
+<ul>
+<li>Do you sometimes pretend to be someone else to fit in?</li>
+<li>Do you feel pressure to be popular?</li>
+<li>Have you ever promised to change but fallen back into old habits?</li>
+<li>What do you think would make you truly happy?</li>
+</ul>
+<div class="message">
+Your mistakes are part of your story,
+but they don't have to write the ending.
+</div>
+<p class="note">
+Clare Crockett is a Servant of God, not yet a canonised saint.
+</p>
+</div>
+</article>
+<!-- AUGUSTINE -->
+<article class="card" id="augustine">
+<div class="card-top">
+<div class="icon">🔥</div>
+<h2>ST AUGUSTINE</h2>
+<div class="hero">THE COMEBACK HERO</div>
+<div class="power">SUPERPOWER: CHANGING YOUR LIFE</div>
+</div>
+<div class="card-body">
+<h3>Who I was</h3>
+<p>
+I was intelligent, ambitious and curious.
+I wanted success, pleasure, friendship and answers
+to life's biggest questions.
+</p>
+<h3>My superpowers</h3>
+<ul>
+<li>Searching honestly for truth.</li>
+<li>Recognising my own contradictions.</li>
+<li>Learning from mistakes.</li>
+<li>Having the courage to change.</li>
+</ul>
+<h3>My struggles</h3>
+<ul>
+<li>
+As a teenager, I stole pears with my friends,
+not because we needed them, but because
+we enjoyed doing something forbidden together.
+</li>
+<li>I pursued pleasure and struggled with sexual desire.</li>
+<li>I wanted to change, but kept postponing it.</li>
+<li>I struggled to accept the faith of my mother, Monica.</li>
+</ul>
+<h3>My turning point</h3>
+<p>
+After years of searching, I encountered the Christian
+faith in a new way. I finally accepted that I needed
+God's grace to become the person I wanted to be.
+</p>
+<h3>Your turn</h3>
+<ul>
+<li>Have you ever done something wrong just because your friends did?</li>
+<li>Have you ever known what was right but chosen something else?</li>
+<li>Do you sometimes think: "I'll change tomorrow"?</li>
+<li>Do you believe that people can really change?</li>
+</ul>
+<div class="message">
+You are not stuck being the person you were yesterday.
+</div>
+<p class="note">
+Source: St Augustine, Confessions, especially Books II and VIII.
+</p>
+</div>
+</article>
+<!-- CARLO -->
+<article class="card" id="carlo">
+<div class="card-top">
+<div class="icon">💻</div>
+<h2>ST CARLO ACUTIS</h2>
+<div class="hero">THE DIGITAL DISCIPLE</div>
+<div class="power">SUPERPOWER: USING YOUR TALENTS FOR GOOD</div>
+</div>
+<div class="card-body">
+<h3>Who I was</h3>
+<p>
+I was an ordinary teenager in many ways.
+I enjoyed computers, video games, football,
+friends and technology.
+</p>
+<p>
+I wore jeans and trainers. I didn't need to
+look like someone from the Middle Ages to love Jesus.
+</p>
+<h3>My superpowers</h3>
+<ul>
+<li>Creativity and computing skills.</li>
+<li>Love for the Eucharist.</li>
+<li>Generosity towards people in need.</li>
+<li>Using modern technology to share faith.</li>
+</ul>
+<h3>My struggles</h3>
+<ul>
+<li>
+I had to make choices about how to spend my time,
+including time spent on entertainment.
+</li>
+<li>
+I lived in the same world of school, technology
+and friendships that teenagers recognise today.
+</li>
+<li>
+I faced serious illness and died aged fifteen.
+</li>
+</ul>
+<h3>My turning point</h3>
+<p>
+I used my computer skills to document Eucharistic
+miracles and share my faith with others.
+</p>
+<h3>Your turn</h3>
+<ul>
+<li>How much time do you spend on your phone?</li>
+<li>Do you sometimes lose hours scrolling or gaming?</li>
+<li>What talents could you use to help somebody?</li>
+<li>Could holiness be possible in your ordinary daily life?</li>
+</ul>
+<div class="message">
+You don't have to become somebody else to become a saint.
+Start with who you are.
+</div>
+<p class="note">
+Carlo was canonised in 2025.
+Specific personal vices are not attributed to him here
+without reliable historical evidence.
+</p>
+</div>
+</article>
+<!-- FRASSATI -->
+<article class="card" id="frassati">
+<div class="card-top">
+<div class="icon">🏔️</div>
+<h2>ST PIER GIORGIO FRASSATI</h2>
+<div class="hero">THE ADVENTURE HERO</div>
+<div class="power">SUPERPOWER: COURAGEOUS FRIENDSHIP</div>
+</div>
+<div class="card-body">
+<h3>Who I was</h3>
+<p>
+I was a young Italian who loved mountain climbing,
+sport, practical jokes, adventure and friendship.
+I came from a wealthy family.
+</p>
+<h3>My superpowers</h3>
+<ul>
+<li>Joy and friendship.</li>
+<li>Courage to stand against injustice.</li>
+<li>Generosity towards the poor and sick.</li>
+<li>Living faith through action.</li>
+</ul>
+<h3>My struggles</h3>
+<ul>
+<li>I struggled with some school subjects, including Latin.</li>
+<li>I experienced disagreements with my parents.</li>
+<li>
+I had to decide whether to follow social expectations
+or the convictions of my faith.
+</li>
+<li>
+I lived with the contrast between my family's
+privileged circumstances and the poverty around me.
+</li>
+</ul>
+<h3>My turning point</h3>
+<p>
+I chose to put my faith into action,
+visiting and helping people in need.
+I did not want Christianity to be just words.
+</p>
+<h3>Your turn</h3>
+<ul>
+<li>Do you ever feel misunderstood by your parents?</li>
+<li>Have you ever struggled at school?</li>
+<li>Would you stand up for someone being excluded?</li>
+<li>Can you have fun and still take your faith seriously?</li>
+</ul>
+<div class="message">
+Life is an adventure. The greatest adventure is learning to love.
+</div>
+<p class="note">Pier Giorgio Frassati was canonised in 2025.</p>
+</div>
+</article>
+<!-- THERESE -->
+<article class="card" id="therese">
+<div class="card-top">
+<div class="icon">🌹</div>
+<h2>ST THÉRÈSE OF LISIEUX</h2>
+<div class="hero">THE LITTLE THINGS HERO</div>
+<div class="power">SUPERPOWER: LOVE IN SMALL ACTIONS</div>
+</div>
+<div class="card-body">
+<h3>Who I was</h3>
+<p>
+I was an affectionate, sensitive girl who loved my family.
+I wanted to do great things for God,
+but I often felt small and weak.
+</p>
+<h3>My superpowers</h3>
+<ul>
+<li>Trusting God.</li>
+<li>Loving people in ordinary situations.</li>
+<li>Perseverance and humility.</li>
+<li>Discovering the value of small actions.</li>
+</ul>
+<h3>My struggles</h3>
+<ul>
+<li>My mother died when I was very young.</li>
+<li>I was extremely sensitive and cried easily.</li>
+<li>I found criticism difficult.</li>
+<li>
+I struggled with emotional dependence
+and wanted to become stronger.
+</li>
+</ul>
+<h3>My turning point</h3>
+<p>
+At fourteen, I experienced a profound change
+at Christmas. I began to grow beyond
+my childhood sensitivity.
+</p>
+<p>
+Later I discovered my "little way":
+doing ordinary things with extraordinary love.
+</p>
+<h3>Your turn</h3>
+<ul>
+<li>Do you take criticism personally?</li>
+<li>Do you sometimes feel too sensitive?</li>
+<li>Do you compare your achievements with others?</li>
+<li>What small act of kindness could you do today?</li>
+</ul>
+<div class="message">
+You don't need to be famous or extraordinary
+to make a difference. Love starts with small things.
+</div>
+<p class="note">
+Source: St Thérèse, Story of a Soul.
+</p>
+</div>
+</article>
+<!-- CHIARA -->
+<article class="card" id="chiara">
+<div class="card-top">
+<div class="icon">☀️</div>
+<h2>BLESSED CHIARA LUCE BADANO</h2>
+<div class="hero">THE LIGHT BRINGER</div>
+<div class="power">SUPERPOWER: HOPE</div>
+</div>
+<div class="card-body">
+<h3>Who I was</h3>
+<p>
+I was an Italian teenager who loved sport,
+friendship and ordinary life.
+I enjoyed spending time with other young people.
+</p>
+<h3>My superpowers</h3>
+<ul>
+<li>Hope in difficult circumstances.</li>
+<li>Generosity and kindness.</li>
+<li>Trust in God.</li>
+<li>Concern for others even while suffering.</li>
+</ul>
+<h3>My struggles</h3>
+<ul>
+<li>I developed a serious illness at seventeen.</li>
+<li>I faced pain and uncertainty.</li>
+<li>
+I had to confront the loss of the future
+I had imagined for myself.
+</li>
+<li>
+I experienced real suffering;
+my faith did not make it disappear.
+</li>
+</ul>
+<h3>My turning point</h3>
+<p>
+During my illness, I tried to respond to suffering
+with faith and love. My hope was not the absence
+of sadness or pain.
+</p>
+<h3>Your turn</h3>
+<ul>
+<li>Have you ever felt that life was unfair?</li>
+<li>Have you experienced disappointment or loss?</li>
+<li>How can you support a friend who is struggling?</li>
+<li>Can hope exist even when life is difficult?</li>
+</ul>
+<div class="message">
+Being strong doesn't mean never feeling sad.
+Sometimes it means choosing love in the middle of suffering.
+</div>
+<p class="note">
+Chiara Luce Badano was beatified in 2010.
+She is Blessed, not yet a canonised saint.
+</p>
+</div>
+</article>
+</div>
+<!-- INTERACTIVE ACTIVITY -->
+<section class="activity">
+<h2>WHICH SUPERPOWER DO YOU NEED?</h2>
+<p>
+Everyone has strengths and struggles.
+Choose something you recognise in your own life.
+You don't need to tell anybody what you chose.
+</p>
+<div class="needs">
+<button class="need" data-saint="jp2">
+I don't feel good enough when I look in the mirror.
+</button>
+<button class="need" data-saint="clare">
+I want people to like me and notice me.
+</button>
+<button class="need" data-saint="augustine">
+I keep making the same mistakes.
+</button>
+<button class="need" data-saint="monica">
+I'm worried about someone I love.
+</button>
+<button class="need" data-saint="carlo">
+I spend too much time online.
+</button>
+<button class="need" data-saint="frassati">
+I want better friendships.
+</button>
+<button class="need" data-saint="therese">
+I feel too sensitive or not good enough.
+</button>
+<button class="need" data-saint="chiara">
+I'm going through something difficult.
+</button>
+</div>
+<div id="result" aria-live="polite">
+Choose a statement to discover someone whose story might help you.
+</div>
+<h2>YOUR CHALLENGE</h2>
+<p>
+Choose one person from these sheets.
+Read their story and think about three questions:
+</p>
+<ol>
+<li>What do I have in common with this person?</li>
+<li>What strength would I like to develop?</li>
+<li>What is one small thing I could do differently this week?</li>
+</ol>
+<p><strong>Remember:</strong>
+Saints are not superheroes who replace Jesus.
+They are ordinary people who allowed God's grace
+to transform their lives.
+</p>
+</section>
+</main>
+<footer>
+  <strong>ALL SAINTS YOUTH GROUP</strong><br>
+  Aspley · Bilborough · Wollaton<br>
+  <em>Called to be saints. Just as we are — and ready to grow.</em>
+  <p class="site-link"><a href="ResourcesforConfirmation.html">Back to Confirmation resources</a></p>
+</footer>
+<script>
+const recommendations = {
+  jp2: {
+    name: "St John Paul II",
+    text: "Your worth isn't measured by likes, appearance or popularity. You are created and loved by God."
+  },
+  clare: {
+    name: "Clare Crockett",
+    text: "Clare chased fame and attention before discovering a different kind of happiness."
+  },
+  augustine: {
+    name: "St Augustine",
+    text: "Augustine knew what it meant to repeat mistakes. His story shows that change is possible."
+  },
+  monica: {
+    name: "St Monica",
+    text: "Monica teaches us to persevere in love without expecting to control other people's choices."
+  },
+  carlo: {
+    name: "St Carlo Acutis",
+    text: "Carlo shows how technology and creativity can become gifts to others."
+  },
+  frassati: {
+    name: "St Pier Giorgio Frassati",
+    text: "Pier Giorgio combined adventure, friendship and practical generosity."
+  },
+  therese: {
+    name: "St Thérèse of Lisieux",
+    text: "Thérèse struggled with sensitivity and discovered strength through trust and small acts of love."
+  },
+  chiara: {
+    name: "Blessed Chiara Luce Badano",
+    text: "Chiara reminds us that hope and sadness can exist together."
+  }
+};
+document.querySelectorAll(".need").forEach(button => {
+  button.addEventListener("click", () => {
+    document.querySelectorAll(".need").forEach(b =>
+      b.classList.remove("selected")
+    );
+    button.classList.add("selected");
+    const id = button.dataset.saint;
+    const saint = recommendations[id];
+    document.getElementById("result").innerHTML = `
+      <strong>You might connect with ${saint.name}.</strong>
+      <p>${saint.text}</p>
+      <a href="#${id}">Read the full story ↑</a>
+    `;
+  });
+});
+</script>
+</body>
+</html>
